@@ -19,6 +19,7 @@ import android.view.MenuItem;
 import aceshub.mindspark.Events.EventsFragment;
 import aceshub.mindspark.Location.LocationFragment;
 import aceshub.mindspark.Notifications.NotificationsFragment;
+import aceshub.mindspark.Workshops.WorkshopsFragment;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -73,6 +74,10 @@ public class MainActivity extends AppCompatActivity
             replaceFragment(new SettingsFragment());
         else if(id==R.id.nav_about)
             replaceFragment(new AboutFragment());
+        else if(id==R.id.nav_workshops)
+            replaceFragment(new WorkshopsFragment());
+        else if(id==R.id.na_sponsors)
+            replaceFragment(new SponsorsFragment());
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
