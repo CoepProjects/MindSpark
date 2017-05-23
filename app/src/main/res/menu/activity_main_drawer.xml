@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/events"
+            android:title="Events" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/location"
+            android:title="Location"/>
+        <item android:id="@+id/nav_notification"
+            android:icon="@drawable/notifications"
+            android:title="Notifications"/>
+        <item android:id="@+id/nav_settings"
+            android:icon="@drawable/settings"
+            android:title="Settings"/>
+        <item android:id="@+id/nav_about"
+            android:icon="@drawable/about"
+            android:title="About"/>
+        <item android:id="@+id/nav_rate"
+            android:icon="@drawable/rate"
+            android:title="Rate This App"/>
+    </group>
+
+
+</menu>
