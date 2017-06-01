@@ -95,18 +95,18 @@ public class EventsFragment extends Fragment {
         EventsSingleItem googler=new EventsSingleItem(R.drawable.googler,"Googler");
 
 
-        CategoriesSingleItem silicus =new CategoriesSingleItem(R.drawable.silicus,"Silicus",Arrays.asList(codeJunkie,codeJunkiePlusPlus,xterminate,codeVille));
-        CategoriesSingleItem voltus=new CategoriesSingleItem(R.drawable.voltus,"Voltus",Arrays.asList(circuitFixer1,circuitFixer2,encrypto,microApps));
-        CategoriesSingleItem dynamus=new CategoriesSingleItem(R.drawable.dynamus,"Dynamus",Arrays.asList(assemblix,mechtrix,turnament,intelligentDesign2D,intelligentDesign3D));
-        CategoriesSingleItem collatio=new CategoriesSingleItem(R.drawable.collatio,"Collatio",Arrays.asList(onTheEtch,dextersLab));
-        CategoriesSingleItem structura=new CategoriesSingleItem(R.drawable.structura,"Structura",Arrays.asList(metropolis,conquest,idCivil,epitome));
-        CategoriesSingleItem robustus=new CategoriesSingleItem(R.drawable.robustus,"Robustus",Arrays.asList(robowars,searchNDestroy,botWrestling,dogFight,virtualRobotics));
-        CategoriesSingleItem vortex=new CategoriesSingleItem(R.drawable.vortex,"Vortex",Arrays.asList(wheelomation,contraption,aqualympics,theWrightTurn));
-        CategoriesSingleItem papyrus=new CategoriesSingleItem(R.drawable.papyrus,"Papyrus",Arrays.asList(greenSpectrum,paperPresentation,mimosa));
-        CategoriesSingleItem cognitio=new CategoriesSingleItem(R.drawable.cognitio,"Cognitio",Arrays.asList(CNCLathe,starewayToHeaven,tux,ham,virtualLabs));
-        CategoriesSingleItem fascinus=new CategoriesSingleItem(R.drawable.fascinus,"Fascinus",Arrays.asList(theAmazingRace,bidzkrieg,LANSlam,bullRun,flash));
-        CategoriesSingleItem illuminati=new CategoriesSingleItem(R.drawable.illuminati,"Illuminati",Arrays.asList(chakravyuh,qonnoisseur,torquest));
-        CategoriesSingleItem prodigium=new CategoriesSingleItem(R.drawable.prodigium,"Prodigium",Arrays.asList(geniusJR,sudoku,googler));
+        CategoriesSingleItem silicus =new CategoriesSingleItem(R.drawable.silicus,"Silicus",Arrays.asList(codeJunkie,codeJunkiePlusPlus,xterminate,codeVille),R.color.colorPrimary);
+        CategoriesSingleItem voltus=new CategoriesSingleItem(R.drawable.voltus,"Voltus",Arrays.asList(circuitFixer1,circuitFixer2,encrypto,microApps),R.color.yellow400);
+        CategoriesSingleItem dynamus=new CategoriesSingleItem(R.drawable.dynamus,"Dynamus",Arrays.asList(assemblix,mechtrix,turnament,intelligentDesign2D,intelligentDesign3D),R.color.orange400);
+        CategoriesSingleItem collatio=new CategoriesSingleItem(R.drawable.collatio,"Collatio",Arrays.asList(onTheEtch,dextersLab),R.color.blue500);
+        CategoriesSingleItem structura=new CategoriesSingleItem(R.drawable.structura,"Structura",Arrays.asList(metropolis,conquest,idCivil,epitome),R.color.orange500);
+        CategoriesSingleItem robustus=new CategoriesSingleItem(R.drawable.robustus,"Robustus",Arrays.asList(robowars,searchNDestroy,botWrestling,dogFight,virtualRobotics),R.color.purple300);
+        CategoriesSingleItem vortex=new CategoriesSingleItem(R.drawable.vortex,"Vortex",Arrays.asList(wheelomation,contraption,aqualympics,theWrightTurn),R.color.red300);
+        CategoriesSingleItem papyrus=new CategoriesSingleItem(R.drawable.papyrus,"Papyrus",Arrays.asList(greenSpectrum,paperPresentation,mimosa),R.color.orange500);
+        CategoriesSingleItem cognitio=new CategoriesSingleItem(R.drawable.cognitio,"Cognitio",Arrays.asList(CNCLathe,starewayToHeaven,tux,ham,virtualLabs),R.color.green500);
+        CategoriesSingleItem fascinus=new CategoriesSingleItem(R.drawable.fascinus,"Fascinus",Arrays.asList(theAmazingRace,bidzkrieg,LANSlam,bullRun,flash),R.color.brown400);
+        CategoriesSingleItem illuminati=new CategoriesSingleItem(R.drawable.illuminati,"Illuminati",Arrays.asList(chakravyuh,qonnoisseur,torquest),R.color.blue300);
+        CategoriesSingleItem prodigium=new CategoriesSingleItem(R.drawable.prodigium,"Prodigium",Arrays.asList(geniusJR,sudoku,googler),R.color.red400);
 
         categories= new ArrayList<>();
         categories=Arrays.asList(silicus,voltus,dynamus,collatio,structura,robustus,vortex,papyrus,cognitio,fascinus,illuminati,prodigium);

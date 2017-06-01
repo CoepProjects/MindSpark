@@ -1,7 +1,6 @@
 package aceshub.mindspark.Events;
 
 import android.content.Context;
-import android.support.v7.widget.CardView;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -9,11 +8,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import java.util.ArrayList;
 import java.util.List;
-import java.util.zip.Inflater;
 
 import aceshub.mindspark.R;
 
@@ -49,7 +47,7 @@ public class CategoriesAdapter extends RecyclerView.Adapter<RecyclerView.ViewHol
         categoryViewHolder.rvEvents.setLayoutManager(new LinearLayoutManager(context));
         categoryViewHolder.rvEvents.setAdapter(eventsAdapter);
 
-        categoryViewHolder.cvCategories.setOnClickListener(new View.OnClickListener() {
+        categoryViewHolder.llCategories.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 categoryViewHolder.rvEvents.setVisibility(View.VISIBLE);
@@ -57,6 +55,7 @@ public class CategoriesAdapter extends RecyclerView.Adapter<RecyclerView.ViewHol
         });
 
         categoryViewHolder.rvEvents.setVisibility(View.GONE);
+        categoryViewHolder.llCategories.setBackgroundColor(categoriesSingleItem.get(position).getBackgroundColor());
     }
 
     @Override
@@ -68,13 +67,13 @@ public class CategoriesAdapter extends RecyclerView.Adapter<RecyclerView.ViewHol
         ImageView ivCategory;
         TextView tvCategory;
         RecyclerView rvEvents;
-        CardView cvCategories;
+        LinearLayout llCategories;
         public CategoryViewHolder(View itemView) {
             super(itemView);
             ivCategory=(ImageView)itemView.findViewById(R.id.ivCategory);
             tvCategory=(TextView)itemView.findViewById(R.id.tvCategory);
             rvEvents=(RecyclerView)itemView.findViewById(R.id.rvEvents);
-            cvCategories=(CardView)itemView.findViewById(R.id.cvCategory);
+            llCategories=(LinearLayout) itemView.findViewById(R.id.llCategoryCard);
         }
 
     }
