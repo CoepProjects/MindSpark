@@ -1,13 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
 
+    <pro.alexzaitsev.freepager.library.view.core.VerticalPager
+        android:id="@+id/vertical_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="KeyNotes"
-        android:layout_gravity="center"
-        />
-</LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="KeyNote Lectures"
+                android:textColor="#fff"
+                android:textSize="30sp"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="Down Arrow"
+                android:src="@drawable/down_arrow"
+                android:layout_marginTop="10dp"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="Down Arrow"
+                android:src="@drawable/down_arrow"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="keynote"
+                android:src="@drawable/mathieu"
+                android:layout_gravity="center"
+                android:layout_marginStart="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginTop="35dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mr. Mathieu Weiss"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="Managing Director of the French Space Agency Liaison Office (CNES)
+Diplomat at Embassy of France in India "
+                android:gravity="center"
+                android:textColor="#fff"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CHIEF GUEST INAUGRATION
+23rd September, 10am
+Main Auditiorium, COEP"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textColor="@color/blue500"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="keynote"
+                android:src="@drawable/mathieu"
+                android:layout_gravity="center"
+                android:layout_marginStart="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginTop="35dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dr. K Radhakrishnan"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_marginBottom="15dp"
+                android:textColor="#fff"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="Former Chairman, ISRO
+Chairman, IISC
+Padma Bhushan "
+                android:textColor="#fff"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="KEYNOTE
+23rd September, 6pm
+Main Auditiorium, COEP "
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textColor="@color/blue500"/>
+        </LinearLayout>
+    </pro.alexzaitsev.freepager.library.view.core.VerticalPager>
+
+</FrameLayout>
