@@ -1,6 +1,7 @@
 package aceshub.mindspark.Events;
 
 import android.content.Context;
+import android.support.v7.widget.CardView;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -36,7 +37,7 @@ public class CategoriesAdapter extends RecyclerView.Adapter<RecyclerView.ViewHol
 
     @Override
     public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
-        CategoryViewHolder categoryViewHolder=(CategoryViewHolder)holder;
+        final CategoryViewHolder categoryViewHolder=(CategoryViewHolder)holder;
         categoryViewHolder.tvCategory.setText(categoriesSingleItem.get(position).getCategoryName());
         categoryViewHolder.ivCategory.setImageResource(categoriesSingleItem.get(position).getImage());
 
@@ -47,6 +48,15 @@ public class CategoriesAdapter extends RecyclerView.Adapter<RecyclerView.ViewHol
         categoryViewHolder.rvEvents.setItemAnimator(new DefaultItemAnimator());
         categoryViewHolder.rvEvents.setLayoutManager(new LinearLayoutManager(context));
         categoryViewHolder.rvEvents.setAdapter(eventsAdapter);
+
+        categoryViewHolder.cvCategories.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                categoryViewHolder.rvEvents.setVisibility(View.VISIBLE);
+            }
+        });
+
+        categoryViewHolder.rvEvents.setVisibility(View.GONE);
     }
 
     @Override
@@ -58,12 +68,13 @@ public class CategoriesAdapter extends RecyclerView.Adapter<RecyclerView.ViewHol
         ImageView ivCategory;
         TextView tvCategory;
         RecyclerView rvEvents;
-
+        CardView cvCategories;
         public CategoryViewHolder(View itemView) {
             super(itemView);
-            ivCategory=(ImageView)itemView.findViewById(R.id.ivCategoryImage);
-            tvCategory=(TextView)itemView.findViewById(R.id.tvCategoryName);
+            ivCategory=(ImageView)itemView.findViewById(R.id.ivCategory);
+            tvCategory=(TextView)itemView.findViewById(R.id.tvCategory);
             rvEvents=(RecyclerView)itemView.findViewById(R.id.rvEvents);
+            cvCategories=(CardView)itemView.findViewById(R.id.cvCategory);
         }
 
     }
