@@ -11,10 +11,10 @@ import android.view.ViewGroup;
  * Created by Ashish Pawar(ashishpawar2015.ap@gmail.com) on 23/5/17.
  */
 
-public class SponsorsFragment extends Fragment {
+public class KeyNotesFragment extends Fragment {
     @Nullable
     @Override
-    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.sponsors,container,false);
+    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+        return inflater.inflate(R.layout.fragment_keynotes,container,false);
     }
 }

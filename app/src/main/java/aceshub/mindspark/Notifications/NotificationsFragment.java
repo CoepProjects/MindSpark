@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import aceshub.mindspark.R;
 
 /**
- * Created by ashish on 23/5/17.
+ * Created by Ashish Pawar(ashishpawar2015.ap@gmail.com) on 23/5/17.
  */
 
 public class NotificationsFragment extends Fragment {
