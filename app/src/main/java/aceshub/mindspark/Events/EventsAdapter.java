@@ -1,10 +1,12 @@
 package aceshub.mindspark.Events;
 
+import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import java.util.List;
@@ -30,9 +32,17 @@ public class EventsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>
 
     @Override
     public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
-        EventsViewHolder eventsViewHolder=(EventsViewHolder)holder;
+        final EventsViewHolder eventsViewHolder=(EventsViewHolder)holder;
         eventsViewHolder.ivEvent.setImageResource(eventsSingleItem.get(position).getImage());
         eventsViewHolder.tvEvent.setText(eventsSingleItem.get(position).getName());
+        eventsViewHolder.llEventSingleItem.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i=new Intent(eventsViewHolder.tvEvent.getContext(),EventDetailsActivity.class);
+                i.putExtra("EventName",eventsViewHolder.tvEvent.getText().toString());
+                eventsViewHolder.tvEvent.getContext().startActivity(i);
+            }
+        });
     }
 
     @Override
@@ -43,11 +53,12 @@ public class EventsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>
     private class EventsViewHolder extends RecyclerView.ViewHolder {
         TextView tvEvent;
         ImageView ivEvent;
-
+        LinearLayout llEventSingleItem;
         public EventsViewHolder(View itemView) {
             super(itemView);
             tvEvent=(TextView)itemView.findViewById(R.id.tvEvent);
             ivEvent=(ImageView)itemView.findViewById(R.id.ivEvent);
+            llEventSingleItem=(LinearLayout)itemView.findViewById(R.id.llEventSingleItem);
         }
     }
 }
