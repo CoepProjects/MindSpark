@@ -15,4 +15,5 @@ public class WorkshopData {
 
     public int[] workshopInPuneImg={R.drawable.iot,R.drawable.hellotohired,R.drawable.hacking,R.drawable.quadcop,R.drawable.swarm,R.drawable.autocad,R.drawable.gesture,R.drawable.rccar};
 
+    public int[] workshopBackgroundColor={R.color.blue400,R.color.brown400,R.color.red400,R.color.orange400,R.color.yellow400,R.color.green400,R.color.purple400,R.color.pink400,R.color.deeppurple400,R.color.indigo400,R.color.cyan400,R.color.teal400,R.color.teal};
 }

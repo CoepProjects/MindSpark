@@ -1,5 +1,7 @@
 package aceshub.mindspark.Workshops;
 
+import android.support.v4.content.ContextCompat;
+import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -30,9 +32,17 @@ public class WorkshopsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHold
 
     @Override
     public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
+
         WorkshopHolder workshopHolder=(WorkshopHolder)holder;
         workshopHolder.ivWorkshop.setImageResource(workshopSingleItems.get(position).getWorkshopImage());
         workshopHolder.tvWorkshop.setText(workshopSingleItems.get(position).getWorkshopName());
+
+
+        int colorId = workshopSingleItems.get(position).getBackgroundColor();
+        int color = ContextCompat.getColor(workshopHolder.tvWorkshop.getContext(), colorId);
+        workshopHolder.cvWorkshop.setCardBackgroundColor(color);
+
+
     }
 
     @Override
@@ -43,10 +53,13 @@ public class WorkshopsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHold
     private class WorkshopHolder extends RecyclerView.ViewHolder {
         TextView tvWorkshop;
         ImageView ivWorkshop;
+        CardView cvWorkshop;
         public WorkshopHolder(View itemView) {
             super(itemView);
             tvWorkshop=(TextView)itemView.findViewById(R.id.tvWorkshop);
             ivWorkshop=(ImageView)itemView.findViewById(R.id.ivWorkshop);
+            cvWorkshop=(CardView)itemView.findViewById(R.id.cvWorkshops);
         }
+
     }
 }

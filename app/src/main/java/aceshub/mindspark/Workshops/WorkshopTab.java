@@ -55,10 +55,10 @@ public class WorkshopTab extends Fragment {
         workshopSingleItemList=new ArrayList<>();
         if(tabName.equals("InPune")){
             for(int i=0;i<workshopData.workshopInPuneNames.length;i++)
-                workshopSingleItemList.add(new WorkshopSingleItem(workshopData.workshopInPuneNames[i],workshopData.workshopInPuneImg[i]));
+                workshopSingleItemList.add(new WorkshopSingleItem(workshopData.workshopInPuneNames[i],workshopData.workshopInPuneImg[i],workshopData.workshopBackgroundColor[i]));
         }else if(tabName.equals("OutOfPune")){
             for(int i=0;i<workshopData.workshopOutOfPuneNames.length;i++)
-                workshopSingleItemList.add(new WorkshopSingleItem(workshopData.workshopOutOfPuneNames[i],workshopData.workshopOutofPuneImg[i]));
+                workshopSingleItemList.add(new WorkshopSingleItem(workshopData.workshopOutOfPuneNames[i],workshopData.workshopOutofPuneImg[i],workshopData.workshopBackgroundColor[i]));
         }
     }
 }

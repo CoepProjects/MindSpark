@@ -6,11 +6,17 @@ package aceshub.mindspark.Workshops;
 
 public class WorkshopSingleItem {
     private String workshopName;
-    private int workshopImage;
+    private int workshopImage,backgroundColor;
 
-    public WorkshopSingleItem(String workshopName, int workshopImage) {
+    public int getBackgroundColor() {
+        return backgroundColor;
+    }
+
+    public WorkshopSingleItem(String workshopName, int workshopImage, int backgroundColor) {
         this.workshopName = workshopName;
         this.workshopImage = workshopImage;
+        this.backgroundColor=backgroundColor;
+
     }
 
     public int getWorkshopImage() {
