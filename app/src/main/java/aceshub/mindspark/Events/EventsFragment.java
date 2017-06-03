@@ -96,7 +96,7 @@ public class EventsFragment extends Fragment {
 
 
         CategoriesSingleItem silicus =new CategoriesSingleItem(R.drawable.silicus,"Silicus",Arrays.asList(codeJunkie,codeJunkiePlusPlus,xterminate,codeVille),R.color.colorPrimary);
-        CategoriesSingleItem voltus=new CategoriesSingleItem(R.drawable.voltus,"Voltus",Arrays.asList(circuitFixer1,circuitFixer2,encrypto,microApps),R.color.yellow400);
+        CategoriesSingleItem voltus=new CategoriesSingleItem(R.drawable.voltus,"Voltus",Arrays.asList(circuitFixer1,circuitFixer2,encrypto,microApps),R.color.yellow500);
         CategoriesSingleItem dynamus=new CategoriesSingleItem(R.drawable.dynamus,"Dynamus",Arrays.asList(assemblix,mechtrix,turnament,intelligentDesign2D,intelligentDesign3D),R.color.orange400);
         CategoriesSingleItem collatio=new CategoriesSingleItem(R.drawable.collatio,"Collatio",Arrays.asList(onTheEtch,dextersLab),R.color.blue500);
         CategoriesSingleItem structura=new CategoriesSingleItem(R.drawable.structura,"Structura",Arrays.asList(metropolis,conquest,idCivil,epitome),R.color.orange500);
