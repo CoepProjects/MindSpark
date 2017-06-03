@@ -38,8 +38,9 @@ public class EventsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>
         eventsViewHolder.llEventSingleItem.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i=new Intent(eventsViewHolder.tvEvent.getContext(),EventDetailsActivity.class);
-                i.putExtra("EventName",eventsViewHolder.tvEvent.getText().toString());
+                Intent i=new Intent(eventsViewHolder.tvEvent.getContext(),Event_WorkshopDetailsActivity.class);
+                i.putExtra("Name",eventsViewHolder.tvEvent.getText().toString());
+                i.putExtra("origin","EventsFragment");
                 eventsViewHolder.tvEvent.getContext().startActivity(i);
             }
         });

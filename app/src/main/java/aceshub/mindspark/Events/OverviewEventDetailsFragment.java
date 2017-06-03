@@ -6,6 +6,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
 
 import aceshub.mindspark.R;
 
@@ -14,9 +15,21 @@ import aceshub.mindspark.R;
  */
 
 public class OverviewEventDetailsFragment extends Fragment {
+    TextView tvEventName;
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.overview_event_details,container,false);
+        return inflater.inflate(R.layout.fragment_overview_event_details,container,false);
     }
+
+    @Override
+    public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
+        super.onViewCreated(view, savedInstanceState);
+
+        String eventName=getArguments().getString("eventName");
+
+        tvEventName=(TextView)view.findViewById(R.id.tvEventName);
+        tvEventName.setText(eventName);
+    }
+
 }

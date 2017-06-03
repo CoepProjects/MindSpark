@@ -13,10 +13,10 @@ import aceshub.mindspark.R;
  * Created by Ashish Pawar(ashishpawar2015.ap@gmail.com) on 2/6/17.
  */
 
-public class NotificationsEventDetailsFragment extends Fragment {
+public class NotificationsEvent_WorkshopDetailsFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.notifications_event_details,container,false);
+        return inflater.inflate(R.layout.fragment_notifications_event_details,container,false);
     }
 }
