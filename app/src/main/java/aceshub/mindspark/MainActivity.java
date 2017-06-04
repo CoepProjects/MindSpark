@@ -62,8 +62,6 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_events)
             replaceFragment(new EventsFragment());
-        else if(id==R.id.nav_location)
-            replaceFragment(new LocationFragment());
         else if(id==R.id.nav_notification)
             replaceFragment(new NotificationsFragment());
         else if(id==R.id.nav_settings)
