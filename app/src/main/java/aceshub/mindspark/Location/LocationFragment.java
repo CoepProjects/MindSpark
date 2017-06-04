@@ -59,7 +59,7 @@ public class LocationFragment extends Fragment implements OnMapReadyCallback {
         return rootView;
     }
 
-    @NeedsPermission({Manifest.permission.ACCESS_COARSE_LOCATION})
+    @NeedsPermission({Manifest.permission.ACCESS_FINE_LOCATION})
     public void showMap(){
         try {
             MapsInitializer.initialize(getActivity().getApplicationContext());
@@ -82,7 +82,7 @@ public class LocationFragment extends Fragment implements OnMapReadyCallback {
 
 
                 // For showing a move to my location button
-                if (ActivityCompat.checkSelfPermission(getContext(), Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+                if (ActivityCompat.checkSelfPermission(getContext(), Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
                     return;
                 }
                 googleMap.setMyLocationEnabled(true);
@@ -128,12 +128,12 @@ public class LocationFragment extends Fragment implements OnMapReadyCallback {
 
 
 
-    @OnPermissionDenied(Manifest.permission.ACCESS_COARSE_LOCATION)
+    @OnPermissionDenied(Manifest.permission.ACCESS_FINE_LOCATION)
     void showDeniedForLocation() {
         Toast.makeText(getContext(), "Permission was denied", Toast.LENGTH_SHORT).show();       //if permission is denied
     }
 
-    @OnNeverAskAgain(Manifest.permission.ACCESS_COARSE_LOCATION)
+    @OnNeverAskAgain(Manifest.permission.ACCESS_FINE_LOCATION)
     void showNeverAskForLocation() {
         Toast.makeText(getContext(), "Please give required Permissions from Settings App", Toast.LENGTH_SHORT).show();       //if never ask again pressed
     }
