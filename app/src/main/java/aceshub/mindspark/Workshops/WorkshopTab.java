@@ -20,45 +20,46 @@ import aceshub.mindspark.R;
  */
 
 public class WorkshopTab extends Fragment {
-    public WorkshopTab() {
-    }
-
     RecyclerView rvWorkshops;
     WorkshopsAdapter workshopsAdapter;
     List<WorkshopSingleItem> workshopSingleItemList;
     String tabName;
     WorkshopData workshopData;
+
+    public WorkshopTab() {
+    }
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.workshop_tab,container,false);
+        return inflater.inflate(R.layout.workshop_tab, container, false);
     }
 
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
-        tabName=getArguments().getString("tab");
+        tabName = getArguments().getString("tab");
 
-        rvWorkshops=(RecyclerView)view.findViewById(R.id.rvWorkshops);
+        rvWorkshops = (RecyclerView) view.findViewById(R.id.rvWorkshops);
         rvWorkshops.setLayoutManager(new LinearLayoutManager(getContext()));
         rvWorkshops.setItemAnimator(new DefaultItemAnimator());
 
         getWorkshopList();
 
-        workshopsAdapter=new WorkshopsAdapter(workshopSingleItemList);
+        workshopsAdapter = new WorkshopsAdapter(getContext(), workshopSingleItemList);
         rvWorkshops.setAdapter(workshopsAdapter);
     }
 
     private void getWorkshopList() {
-        workshopData=new WorkshopData();
-        workshopSingleItemList=new ArrayList<>();
-        if(tabName.equals("InPune")){
-            for(int i=0;i<workshopData.workshopInPuneNames.length;i++)
-                workshopSingleItemList.add(new WorkshopSingleItem(workshopData.workshopInPuneNames[i],workshopData.workshopInPuneImg[i],workshopData.workshopBackgroundColor[i]));
-        }else if(tabName.equals("OutOfPune")){
-            for(int i=0;i<workshopData.workshopOutOfPuneNames.length;i++)
-                workshopSingleItemList.add(new WorkshopSingleItem(workshopData.workshopOutOfPuneNames[i],workshopData.workshopOutofPuneImg[i],workshopData.workshopBackgroundColor[i]));
+        workshopData = new WorkshopData();
+        workshopSingleItemList = new ArrayList<>();
+        if (tabName.equals("InPune")) {
+            for (int i = 0; i < workshopData.workshopInPuneNames.length; i++)
+                workshopSingleItemList.add(new WorkshopSingleItem(workshopData.workshopInPuneNames[i], workshopData.workshopInPuneImg[i], workshopData.workshopBackgroundColor[i]));
+        } else if (tabName.equals("OutOfPune")) {
+            for (int i = 0; i < workshopData.workshopOutOfPuneNames.length; i++)
+                workshopSingleItemList.add(new WorkshopSingleItem(workshopData.workshopOutOfPuneNames[i], workshopData.workshopOutofPuneImg[i], workshopData.workshopBackgroundColor[i]));
         }
     }
 }

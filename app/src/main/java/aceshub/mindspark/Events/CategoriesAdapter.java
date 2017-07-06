@@ -42,9 +42,11 @@ public class CategoriesAdapter extends RecyclerView.Adapter<RecyclerView.ViewHol
         categoryViewHolder.tvCategory.setText(categoriesSingleItem.get(position).getCategoryName());
         categoryViewHolder.ivCategory.setImageResource(categoriesSingleItem.get(position).getImage());
 
-        int colorId = categoriesSingleItem.get(position).getBackgroundColor();
+        /*int colorId = categoriesSingleItem.get(position).getBackgroundColor();
         int color = ContextCompat.getColor(context, colorId);
-        categoryViewHolder.cvCategories.setCardBackgroundColor(color);
+        categoryViewHolder.cvCategories.setCardBackgroundColor(color);*/
+
+        categoryViewHolder.cvCategories.setCardBackgroundColor(ContextCompat.getColor(context, R.color.eventsCardBackground));
 
         List<EventsSingleItem> eventsSingleItems = categoriesSingleItem.get(position).getEventsSingleItemList();
 

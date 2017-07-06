@@ -33,16 +33,16 @@ public class Event_WorkshopDetailsActivity extends AppCompatActivity {
     }
 
     private void initialize() {
-        eventDetailsAdapter=new EventDetailsAdapter(this.getSupportFragmentManager());
-        viewPager=(ViewPager)findViewById(R.id.vpEventDetails);
-        tablayout=(TabLayout)findViewById(R.id.tlEventDetails);
+        eventDetailsAdapter = new EventDetailsAdapter(this.getSupportFragmentManager());
+        viewPager = (ViewPager) findViewById(R.id.vpEventDetails);
+        tablayout = (TabLayout) findViewById(R.id.tlEventDetails);
 
         viewPager.animate();
         tablayout.setupWithViewPager(viewPager);
         viewPager.setAdapter(eventDetailsAdapter);
 
-        eventName=getIntent().getStringExtra("Name");
-        origin=getIntent().getStringExtra("origin");
+        eventName = getIntent().getStringExtra("Name");
+        origin = getIntent().getStringExtra("origin");
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setTitle(eventName);
@@ -55,18 +55,18 @@ public class Event_WorkshopDetailsActivity extends AppCompatActivity {
 
         @Override
         public Fragment getItem(int position) {
-            switch (position){
+            switch (position) {
                 case 0:
-                    if(origin.equals("EventsFragment")) {
+                    if (origin.equals("EventsFragment")) {
                         Bundle args = new Bundle();
                         args.putString("eventName", eventName);
                         Fragment overviewEventDetailsFragment = new OverviewEventDetailsFragment();
                         overviewEventDetailsFragment.setArguments(args);
                         return overviewEventDetailsFragment;
-                    }else if(origin.equals("WorkshopFragment")){
+                    } else if (origin.equals("WorkshopFragment")) {
                         Bundle args = new Bundle();
                         args.putString("eventName", eventName);
-                        Fragment overviewWorkshopDetailsFragment=new OverviewWorkshopDetailsFragment();
+                        Fragment overviewWorkshopDetailsFragment = new OverviewWorkshopDetailsFragment();
                         overviewWorkshopDetailsFragment.setArguments(args);
                         return overviewWorkshopDetailsFragment;
                     }
@@ -85,7 +85,7 @@ public class Event_WorkshopDetailsActivity extends AppCompatActivity {
 
         @Override
         public CharSequence getPageTitle(int position) {
-            switch (position){
+            switch (position) {
                 case 0:
                     return "Overview";
                 case 1:

@@ -50,4 +50,8 @@
     <color name="four">#1B3765</color>
     <color name="five">#666666</color>
 
+
+    <color name="actionBarTextColor">#101136</color>
+    <color name="eventsCardBackground">#F5F5F5</color>
+
 </resources>
