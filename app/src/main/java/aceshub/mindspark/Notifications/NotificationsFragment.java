@@ -1,7 +1,6 @@
 package aceshub.mindspark.Notifications;
 
 
-import android.app.Notification;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.design.widget.TabLayout;
@@ -51,18 +50,18 @@ public class NotificationsFragment extends Fragment {
             switch (position){
                 case 0:
                     args.clear();
-                    NotificationsTab notificationsBookmarks = new NotificationsTab();
+                    NotificationsFragment notificationsBookmarks = new NotificationsFragment();
                     args.putString("tab","Bookmarks");
                     notificationsBookmarks.setArguments(args);
                     return notificationsBookmarks;
                 case 1:
                     args.clear();
-                    NotificationsTab notificationsAllNotifications = new NotificationsTab();
+                    NotificationsFragment notificationsAllNotifications = new NotificationsFragment();
                     args.putString("tab","AllNotifications");
                     notificationsAllNotifications.setArguments(args);
                     return notificationsAllNotifications;
             }
-            return new NotificationsTab();
+            return new NotificationsFragment();
         }
 
         @Override
