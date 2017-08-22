@@ -50,6 +50,12 @@ public class WorkshopsFragment extends Fragment {
             args=new Bundle();
         }
 
+
+        @Override
+        public int getItemPosition(Object object) {
+            return POSITION_NONE;
+        }
+
         @Override
         public Fragment getItem(int position) {
             switch (position){
