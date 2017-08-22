@@ -1,5 +1,6 @@
 package aceshub.mindspark.Workshops;
 
+import android.content.Context;
 import android.content.Intent;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.widget.CardView;
@@ -20,9 +21,12 @@ import aceshub.mindspark.R;
  */
 
 public class WorkshopsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
+
+    private Context context;
     private List<WorkshopSingleItem> workshopSingleItems;
 
-    public WorkshopsAdapter(List<WorkshopSingleItem> workshopSingleItems) {
+    public WorkshopsAdapter(Context context, List<WorkshopSingleItem> workshopSingleItems) {
+        this.context = context;
         this.workshopSingleItems = workshopSingleItems;
     }
 
@@ -40,9 +44,12 @@ public class WorkshopsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHold
         workshopHolder.tvWorkshop.setText(workshopSingleItems.get(position).getWorkshopName());
 
 
-        int colorId = workshopSingleItems.get(position).getBackgroundColor();
+        /*int colorId = workshopSingleItems.get(position).getBackgroundColor();
         int color = ContextCompat.getColor(workshopHolder.tvWorkshop.getContext(), colorId);
-        workshopHolder.cvWorkshop.setCardBackgroundColor(color);
+        workshopHolder.cvWorkshop.setCardBackgroundColor(color);*/
+
+        workshopHolder.cvWorkshop.setCardBackgroundColor(ContextCompat.getColor(context, R.color.eventsCardBackground));
+
         workshopHolder.cvWorkshop.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

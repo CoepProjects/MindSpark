@@ -1,125 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical">
 
     <pro.alexzaitsev.freepager.library.view.core.VerticalPager
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
+
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:layout_centerInParent="true">
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:text="Event Name"
-                android:textColor="#fff"
-                android:id="@+id/tvEventName"
-                android:textSize="25sp"
-                android:layout_margin="10dp"/>
-            <info.hoang8f.widget.FButton
-                android:id="@+id/bViewTimeline"
-                android:layout_width="150dp"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:layout_margin="7dp"
-                android:text="Register Now"
-                android:textColor="#fff"
-                app:buttonColor="@color/colorPrimary"
-                app:cornerRadius="50dp"
-                app:shadowColor="@color/colorAccent"
-                app:shadowEnabled="true"
-                app:shadowHeight="5dp"
-                android:padding="10dp"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:text="Short Description"
-                android:layout_gravity="center"
-                android:textSize="17sp"
-                android:textColor="#fff"
-                android:id="@+id/tvShortDescription"/>
+                android:layout_centerInParent="true"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tvEventName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="10dp"
+                    android:text="Event Name"
+                    android:textColor="#101136"
+                    android:textSize="25sp" />
+
+                <info.hoang8f.widget.FButton
+                    android:id="@+id/bViewTimeline"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="7dp"
+                    android:padding="10dp"
+                    android:text="Register Now"
+                    android:textColor="#fff"
+                    app:buttonColor="@color/colorPrimary"
+                    app:cornerRadius="50dp"
+                    app:shadowColor="@color/colorAccent"
+                    app:shadowEnabled="true"
+                    app:shadowHeight="5dp" />
+
+                <TextView
+                    android:id="@+id/tvShortDescription"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="10dp"
+                    android:text="Short Description"
+                    android:textColor="#101136"
+                    android:textSize="17sp" />
             </LinearLayout>
+
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
-                android:src="@drawable/down_arrow"
                 android:layout_centerHorizontal="true"
-                android:contentDescription="Down Arrow"/>
+                android:contentDescription="Down Arrow"
+                android:src="@drawable/down_arrow" />
         </RelativeLayout>
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
             android:orientation="vertical">
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_margin="10dp"
                 android:text="Objective"
-                android:layout_margin="10dp"
-                android:textSize="25sp"
-                android:textColor="#fff"/>
+                android:textColor="#fff"
+                android:textSize="25sp" />
+
             <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="objective here"
                 android:id="@+id/tvObjective"
-                android:textSize="17sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                android:textColor="#fff"/>
+                android:text="objective here"
+                android:textColor="#fff"
+                android:textSize="17sp" />
         </LinearLayout>
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
             android:orientation="vertical">
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_margin="10dp"
                 android:text="Structure"
-                android:layout_margin="10dp"
-                android:textSize="25sp"
-                android:textColor="#fff"/>
+                android:textColor="#fff"
+                android:textSize="25sp" />
+
             <TextView
+                android:id="@+id/tvStructure"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Structure here"
-                android:id="@+id/tvStructure"
-                android:textSize="17sp"
                 android:layout_margin="10dp"
-                android:textColor="#fff"/>
+                android:text="Structure here"
+                android:textColor="#fff"
+                android:textSize="17sp" />
         </LinearLayout>
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
             android:orientation="vertical">
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_margin="10dp"
                 android:text="Rules"
-                android:layout_margin="10dp"
-                android:textSize="25sp"
-                android:textColor="#fff"/>
+                android:textColor="#fff"
+                android:textSize="25sp" />
+
             <TextView
+                android:id="@+id/tvRules"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Rules here"
-                android:id="@+id/tvRules"
-                android:textSize="17sp"
                 android:layout_margin="10dp"
-                android:textColor="#fff"/>
+                android:text="Rules here"
+                android:textColor="#fff"
+                android:textSize="17sp" />
         </LinearLayout>
     </pro.alexzaitsev.freepager.library.view.core.VerticalPager>
 </LinearLayout>

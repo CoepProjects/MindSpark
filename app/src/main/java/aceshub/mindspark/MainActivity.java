@@ -1,10 +1,10 @@
 package aceshub.mindspark;
 
 import android.os.Bundle;
+import android.support.design.widget.NavigationView;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
-import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -13,14 +13,13 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
 import aceshub.mindspark.Events.EventsFragment;
-import aceshub.mindspark.Location.LocationFragment;
 import aceshub.mindspark.Notifications.NotificationsFragment;
 import aceshub.mindspark.Workshops.WorkshopsFragment;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-        FragmentTransaction fragmentTransaction;
     private static FragmentManager fragmentManager;
+    FragmentTransaction fragmentTransaction;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +27,8 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+        //toolbar.setTitleTextColor(ContextCompat.getColor(this, R.color.actionBarTextColor));
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(

@@ -42,5 +42,16 @@
     <color name="cyan300">#4DD0E1</color>
     <color name="teal">#4DB6AC</color>
     <color name="orange">#FF8A65</color>
+    <color name="greyHeading">#e3e3e3</color>
+
+    <color name="one">#101136</color>
+    <color name="two">#CFE4F6</color>
+    <color name="three">#045497</color>
+    <color name="four">#1B3765</color>
+    <color name="five">#666666</color>
+
+
+    <color name="actionBarTextColor">#101136</color>
+    <color name="eventsCardBackground">#F5F5F5</color>
 
 </resources>
