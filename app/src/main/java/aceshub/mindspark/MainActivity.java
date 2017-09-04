@@ -13,7 +13,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
 import aceshub.mindspark.Events.EventsFragment;
-import aceshub.mindspark.Notifications.NotificationsFragment;
+import aceshub.mindspark.Workshops.WorkshopTab;
 import aceshub.mindspark.Workshops.WorkshopsFragment;
 
 public class MainActivity extends AppCompatActivity
@@ -63,18 +63,12 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_events)
             replaceFragment(new EventsFragment());
-        else if(id==R.id.nav_notification)
-            replaceFragment(new NotificationsFragment());
-        else if(id==R.id.nav_settings)
-            replaceFragment(new SettingsFragment());
         else if(id==R.id.nav_about)
             replaceFragment(new AboutFragment());
         else if(id==R.id.nav_workshops)
-            replaceFragment(new WorkshopsFragment());
+            replaceFragment(new WorkshopTab());
         else if(id==R.id.nav_sponsors)
             replaceFragment(new SponsorsFragment());
-        else if(id==R.id.nav_keynotes)
-            replaceFragment(new KeyNotesFragment());
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);

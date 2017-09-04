@@ -7,7 +7,7 @@ import aceshub.mindspark.R;
  */
 
 public class WorkshopData {
-    public String[] workshopOutOfPuneNames={"Pratham Robotics","IC Engine","Auto-Hauling","Hex Crawler Robot","Mobile Controlled Bot","WebDesign and Development"};
+    public String[] workshops={"Pratham Robotics","IC Engine","Auto-Hauling","Hex Crawler Robot","Mobile Controlled Bot","WebDesign and Development"};
 
     public int[] workshopOutofPuneImg={R.drawable.pratham,R.drawable.engine,R.drawable.autohaul,R.drawable.hexcrawl,R.drawable.mob,R.drawable.webdev};
 

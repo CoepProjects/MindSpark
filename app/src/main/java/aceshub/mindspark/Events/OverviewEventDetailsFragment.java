@@ -6,6 +6,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import aceshub.mindspark.R;
@@ -15,7 +16,8 @@ import aceshub.mindspark.R;
  */
 
 public class OverviewEventDetailsFragment extends Fragment {
-    TextView tvEventName;
+    TextView tvEventName,tvEventObj,tvEventStruct;
+    ImageView ivEvent;
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
@@ -26,10 +28,19 @@ public class OverviewEventDetailsFragment extends Fragment {
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
-        String eventName=getArguments().getString("eventName");
+        EventsSingleItem event=(EventsSingleItem)getArguments().getSerializable("Event");
 
         tvEventName=(TextView)view.findViewById(R.id.tvEventName);
-        tvEventName.setText(eventName);
+        tvEventObj=(TextView)view.findViewById(R.id.tvObjective);
+        tvEventStruct=(TextView)view.findViewById(R.id.tvStructure);
+        ivEvent=(ImageView)view.findViewById(R.id.ivEventDesc);
+
+
+        tvEventName.setText(event.getName());
+        tvEventObj.setText(event.getObjective());
+        tvEventStruct.setText(event.getStructure());
+        ivEvent.setImageResource(event.getImage());
+
     }
 
 }

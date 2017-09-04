@@ -37,7 +37,7 @@ public class WorkshopsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHold
     }
 
     @Override
-    public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
+    public void onBindViewHolder(RecyclerView.ViewHolder holder, final int position) {
 
         final WorkshopHolder workshopHolder=(WorkshopHolder)holder;
         workshopHolder.ivWorkshop.setImageResource(workshopSingleItems.get(position).getWorkshopImage());
@@ -55,7 +55,7 @@ public class WorkshopsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHold
             public void onClick(View v) {
                 Intent i=new Intent(workshopHolder.cvWorkshop.getContext(), Event_WorkshopDetailsActivity.class);
                 i.putExtra("origin","WorkshopFragment");
-                i.putExtra("Name",workshopHolder.tvWorkshop.getText().toString());
+                i.putExtra("Workshop",workshopSingleItems.get(position));
                 workshopHolder.cvWorkshop.getContext().startActivity(i);
             }
         });

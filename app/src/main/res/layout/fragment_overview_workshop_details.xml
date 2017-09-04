@@ -16,30 +16,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
+                android:layout_margin="10dp"
                 android:layout_centerInParent="true">
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="Workshop Name"
-                    android:textColor="#fff"
+                    android:textColor="#101136"
                     android:id="@+id/tvWorkshopName"
                     android:textSize="25sp"
                     android:layout_margin="10dp"/>
-                <info.hoang8f.widget.FButton
-                    android:id="@+id/bViewTimeline"
-                    android:layout_width="150dp"
+                <me.grantland.widget.AutofitTextView
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="Short Description"
                     android:layout_gravity="center"
-                    android:layout_margin="7dp"
-                    android:text="Register Now"
-                    android:textColor="#fff"
-                    app:buttonColor="@color/colorPrimary"
-                    app:cornerRadius="50dp"
-                    app:shadowColor="@color/colorAccent"
-                    app:shadowEnabled="true"
-                    app:shadowHeight="5dp"
-                    android:padding="10dp"/>
+                    android:textSize="17sp"
+                    android:maxLines="12"
+                    app:minTextSize="14sp"
+                    android:textColor="#101136"
+                    android:id="@+id/tvIntro"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -47,14 +45,33 @@
                     android:text="Short Description"
                     android:layout_gravity="center"
                     android:textSize="17sp"
-                    android:textColor="#fff"
-                    android:id="@+id/tvShortDescription"/>
+                    android:textColor="#101136"
+                    android:id="@+id/tvFees"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="Short Description"
+                    android:layout_gravity="center"
+                    android:textSize="17sp"
+                    android:textColor="#101136"
+                    android:id="@+id/tvVenue"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="Short Description"
+                    android:layout_gravity="center"
+                    android:textSize="17sp"
+                    android:textColor="#101136"
+                    android:id="@+id/tvDate"/>
             </LinearLayout>
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
-                android:src="@drawable/down_arrow"
+                android:src="@drawable/down_arrow_black"
                 android:layout_centerHorizontal="true"
                 android:contentDescription="Down Arrow"/>
         </RelativeLayout>
@@ -67,18 +84,40 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Details"
+                android:text="Benefits"
                 android:layout_margin="10dp"
                 android:textSize="25sp"
-                android:textColor="#fff"/>
+                android:textColor="#101136"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Details here"
-                android:id="@+id/tvDetails"
+                android:id="@+id/tvBenifits"
                 android:textSize="17sp"
                 android:layout_margin="10dp"
-                android:textColor="#fff"/>
+                android:textColor="#101136"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Outcomes"
+                android:layout_margin="10dp"
+                android:textSize="25sp"
+                android:textColor="#101136"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Details here"
+                android:id="@+id/tvOutcomes"
+                android:textSize="17sp"
+                android:layout_margin="10dp"
+                android:textColor="#101136"/>
         </LinearLayout>
     </pro.alexzaitsev.freepager.library.view.core.VerticalPager>
 </LinearLayout>

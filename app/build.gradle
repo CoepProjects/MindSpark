@@ -36,5 +36,6 @@ dependencies {
     compile 'com.google.android.gms:play-services-maps:10.2.0'
     apt 'com.github.hotchemi:permissionsdispatcher-processor:2.3.1'
     compile 'com.github.hotchemi:permissionsdispatcher:2.3.1'
+    compile 'me.grantland:autofittextview:0.2.+'
 
 }

@@ -15,6 +15,7 @@ import aceshub.mindspark.R;
  */
 
 public class OverviewWorkshopDetailsFragment extends Fragment {
+    WorkshopSingleItem workshopSingleItem;
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
@@ -24,11 +25,24 @@ public class OverviewWorkshopDetailsFragment extends Fragment {
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        TextView tvWorkshopName;
+        TextView tvWorkshopName,tvIntro,tvFees,tvDate,tvBenefits,tvOutcomes,tvVenue;
 
         tvWorkshopName=(TextView)view.findViewById(R.id.tvWorkshopName);
+        tvIntro=(TextView)view.findViewById(R.id.tvIntro);
+        tvFees=(TextView)view.findViewById(R.id.tvFees);
+        tvBenefits=(TextView)view.findViewById(R.id.tvBenifits);
+        tvOutcomes=(TextView)view.findViewById(R.id.tvOutcomes);
+        tvVenue=(TextView)view.findViewById(R.id.tvVenue);
+        tvDate=(TextView)view.findViewById(R.id.tvDate);
 
-        String eventName=getArguments().getString("eventName");
-        tvWorkshopName.setText(eventName);
+         workshopSingleItem= (WorkshopSingleItem) getArguments().getSerializable("Workshop");
+        tvWorkshopName.setText(workshopSingleItem.getWorkshopName());
+        tvBenefits.setText(workshopSingleItem.getWorkshopBenifits());
+        tvIntro.setText(workshopSingleItem.getWorkshopIntro());
+        tvFees.setText(workshopSingleItem.getWorkshopFees());
+        tvOutcomes.setText(workshopSingleItem.getWorkshopOutcomes());
+        tvVenue.setText(workshopSingleItem.getWorkshopVenue());
+        tvDate.setText(workshopSingleItem.getWorkshopDate());
+
     }
 }

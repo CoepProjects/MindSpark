@@ -31,7 +31,7 @@ public class EventsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>
     }
 
     @Override
-    public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
+    public void onBindViewHolder(RecyclerView.ViewHolder holder, final int position) {
         final EventsViewHolder eventsViewHolder=(EventsViewHolder)holder;
         eventsViewHolder.ivEvent.setImageResource(eventsSingleItem.get(position).getImage());
         eventsViewHolder.tvEvent.setText(eventsSingleItem.get(position).getName());
@@ -39,7 +39,7 @@ public class EventsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>
             @Override
             public void onClick(View v) {
                 Intent i=new Intent(eventsViewHolder.tvEvent.getContext(),Event_WorkshopDetailsActivity.class);
-                i.putExtra("Name",eventsViewHolder.tvEvent.getText().toString());
+                i.putExtra("Event",eventsSingleItem.get(position));
                 i.putExtra("origin","EventsFragment");
                 eventsViewHolder.tvEvent.getContext().startActivity(i);
             }

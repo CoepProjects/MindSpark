@@ -9,24 +9,12 @@
         <item android:id="@+id/nav_workshops"
             android:icon="@drawable/workshops"
             android:title="Workshops"/>
-        <item android:id="@+id/nav_keynotes"
-            android:icon="@drawable/keynotes"
-            android:title="KeyNotes"/>
-        <item android:id="@+id/nav_notification"
-            android:icon="@drawable/notifications"
-            android:title="Notifications"/>
         <item android:id="@+id/nav_sponsors"
             android:icon="@drawable/sponsors"
             android:title="Sponsors"/>
-        <item android:id="@+id/nav_settings"
-            android:icon="@drawable/settings"
-            android:title="Settings"/>
         <item android:id="@+id/nav_about"
             android:icon="@drawable/about"
             android:title="About"/>
-        <item android:id="@+id/nav_rate"
-            android:icon="@drawable/rate"
-            android:title="Rate This App"/>
     </group>
 
 
