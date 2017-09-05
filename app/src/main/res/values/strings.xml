@@ -49,8 +49,8 @@
     <string name="event_title_dexters_lab">Dexter"\'"s Lab</string>
 
     <string name="event_title_wheelomation">Wheelomation</string>
-    <string name="event_title_the_wright_turn_glider">The Wright Turn_Glider</string>
-    <string name="event_title_the_wright_turn_rc_plane">The Wright Turn RC_Plane</string>
+    <string name="event_title_the_wright_turn_glider">The Wright Turn Glider</string>
+    <string name="event_title_the_wright_turn_rc_plane">The Wright Turn RC Plane</string>
     <string name="event_title_aqualympics">Aqualympics</string>
     <string name="event_title_contraption">Contraption</string>
 
@@ -348,15 +348,15 @@
         \n\nRound 2: Participants should submit their paper to the judges and give Power point presentation of (10+2) minutes, explaining the details of their research paper.
         \n\n1.CREATIVITY OF COMPUTERS.
         \nCreativity is very difficult, perhaps even impossible, to define in objective terms. Creativity amongst us manifests itself through a lifetime of sensory cues and experiences. Can, and to what extent can this ‘creativity’ be developed in an AI even after feeding it large data sets of existing sources of creative and non-creative material. 2.IMAGE PROCESSING AND THE “SEE” OF OPPORTUNITIES. A picture can speak a thousand words. From photoshopping your pimples, OCR, metallography, to military grade satellite imagery, this visual form of data is literally changing the way we see the world. How is (and can) image processing, picture restoration, color computation and all the new fields change the things we do today, and the way things will be done tomorrow?
-        \n3.ETHICS FOR PLATFORMS.
+        \n\n3.ETHICS FOR PLATFORMS.
         \nEver growing platforms like Facebook, the majority share of social media know everything about you. Your private messages (WhatsApp), statuses, photos (Instagram) all pass through its servers. To what extent can we trust the personal data of billions of people in the hands of these giants? The right and wrong of targeted advertising, suicide trend alerts, taking down ‘offensive’ posts and more are up for debate.
-        \n4.THE INTERNET OF THINGS.
+        \n\n4.THE INTERNET OF THINGS.
         \nDrones to be used for taming cyclones! Shopping carts that are ready to bill even before you reach the checkout counter. IoT, the fastest growing concept today. Let us hear your radical ideas of how you would change any of the existing concepts, the working, its applications, its future…
-        \n5.EDUCATION FOR ALL.
+        \n\n5.EDUCATION FOR ALL.
         \nMeritnation, NPTEL, MOOCs, Open Internet exams. Maybe as a reference for textbook answers, as a supplement for that really boring class or as a course that you ‘minored’ in during your summer. How is eLearning changing our outlook towards education? Is it actually imparting equivalent knowledge vis-à-vis the brick and mortar institutions or does it lag behind?
-        \n6.CRYPTOGRAPHY.
+        \n\n6.CRYPTOGRAPHY.
         \nWe have all seen ‘Imitation Game’. Cryptography although a Mathematician’s game can now barely be done without the assistance of supercomputers. In today’s world, advancements and security scenario how does cryptography fit in?
-        \n7. Any other topic of your choice (related to the theme of MindSpark’17) will be accepted.</string>
+        \n\n7. Any other topic of your choice (related to the theme of MindSpark’17) will be accepted.</string>
     <string name="event_structure_ppt_mech_prod_meta">Round 1: Submitted Abstracts will be reviewed by the Event Head
         \n\nRound 2: Review by relevant faculty members
         \n\nRound 3: Selected papers will be presented at the event by students</string>
@@ -638,6 +638,21 @@
         \nPart 2: The round will consist of the auction of the remaining players in the roster.
         \nTeams will be able to choose more than 15 players only after all other teams have 15 players in their list.
         \nThe team with maximum cumulative points will be the winner.</string>
+    <string formatted="false" name="event_structure_bidzkreig_2">ROUND 1:
+        \nTeams will be given limited amount of money to pick 5 players in their team which includes 1 keeper, 1 defender, 2 midfielders and 1 forward. The ratings of the players will correspond to their FIFA‘18 ratings. The participants having the most rated team will qualify for Round 2.
+        \n\nROUND 2:
+        \nQualified participants will have to form a team consisting of 11 players and coach. The participants will have to make the team in two parts. Part 1 consists of the playing eleven and part 2 consists of buying a coach. 80% of points from part 1 and 20% from part 2 of the participants teams will be added to get a final score. Participants with the highest score will be the winner.
+        \n\nPART 1:
+        \nParticipating teams will start with a budget of $120 million.
+        \nParticipating teams can only make a team from the given set of formations:
+        \n4-4-2 (4 defenders, 4 midfielders, 2 forward)
+        \n4-3-3 (4 defenders, 3 midfielders, 3 forward)
+        \n4-5-1 (4 defenders, 5 midfielders, 1 forward)
+        \n3-5-2 (3 defenders, 5 midfielders, 2 forward)
+        \n5-3-2 (5 defenders, 3 midfielders, 2 forward)
+        \nSelecting a goalkeeper is mandatory. At the beginning of the round, there will be a short quiz session related to football. The winner of the quiz will get $5 million as bonus to buy players.
+        \n\nPART 2: When exactly half the players would be sold through the auction process, the "winter transfer window" would start for 15 minutes where all the participating teams can negotiate with other players to buy or sell their player/s which they would have bought until then. Further details will be explained on the spot.
+        \nThis part will be conducted after the winter transfer window where the rest of the players will be auctioned. The participants’ will have the freedom to place the players in any position of their team. At the end of the two rounds the participants will be asked to submit their teams and final scores will be evaluated.</string>
     <string name="event_structure_lan_slam">Round 1:
         \n6 rounds.
         \nMap: Mirage
@@ -656,14 +671,14 @@
         \nMap: De_dust2(Compulsory) , other 2 maps of Finalists’ choice
         \nSides (Terrorist / Counter-Terrorist): Coin toss. After 10 rounds, teams will be swapped in each of the 3 maps.</string>
     <string name="event_structure_flash">CATEGORIES:
-        \n1. BEST PICTURE- One picture to be submitted per registration which must be MindSpark’17 related. Should depict the theme of MS’17, preparations, workshops or main event days. Can be clicked using mobile/professional camera.
-        \n2. BEST VIDEO- MS’17 related.
+        \n\n1. BEST PICTURE- One picture to be submitted per registration which must be MindSpark’17 related. Should depict the theme of MS’17, preparations, workshops or main event days. Can be clicked using mobile/professional camera.
+        \n\n2. BEST VIDEO- MS’17 related.
         \n\ta. Participants are supposed to make a video with duration not more than 90 seconds portraying the theme of MS’17, preparations and showing the key highlights of the event in a creative manner. Just like an after-movie.
         \n\tb. Time-lapses, hyper-lapses, compilation is allowed.
         \n\tc. The participants will be allowed to start shooting from the workshop days.
         \n\td. Use of adobe after-effects, premiere pro or any other relevant video editing software is allowed.
-        \n3. MOBILE PHOTOGRAPHY: (5 ENTRIES PER REGISTRATION) This category is an open photography competition not restricting to the days of the event and to the theme as well. The motive is to encourage any form of mobile photography across all the genres. The entries must be clicked using mobiles only and can be based on any theme.
-        \n4. PROFESSIONAL CAMERA PHOTOGRAPHY: (5 ENTRIES PER REGISTRATION). This is also an open themed competition with the difference that all entries must’ve been shot using a professional camera (SLRs and Point ‘n Shoot cameras).</string>
+        \n\n3. MOBILE PHOTOGRAPHY: (5 ENTRIES PER REGISTRATION) This category is an open photography competition not restricting to the days of the event and to the theme as well. The motive is to encourage any form of mobile photography across all the genres. The entries must be clicked using mobiles only and can be based on any theme.
+        \n\n4. PROFESSIONAL CAMERA PHOTOGRAPHY: (5 ENTRIES PER REGISTRATION). This is also an open themed competition with the difference that all entries must’ve been shot using a professional camera (SLRs and Point ‘n Shoot cameras).</string>
 
     <string name="event_structure_chakravyuh">Round 1: Written elimination round, with no multiple-choice questions. No negative marking.
         \n\nRound 2: Top 6 teams will be selected for the final round, the details of which will be disclosed on the spot.</string>
@@ -720,165 +735,153 @@
 
 
     <string name="event_rules_epitome">1. All team members must come with valid college ID cards and registration receipt.
-        \n2. The team need to construct the model from provided material only. No extra material will be provided. The team should use only that material which is provided by the organizers. If the material used is other than that provided, then the team will be disqualified immediately.
-        \n3. Using materials of other participants is also strictly prohibited i.e. using some extra materials.
-        \n4. One team can make only one model for proposed competition.
-        \n5. Testing of models will be done according to the serial number given to the teams at the time of commencement of the event. Hence, no team should request for their model to be tested first.
-        \n6. The decision of the judges and the organizers will be final and binding to all.
-        \n7. Team members may be from different colleges. However, same person cannot be a part of multiple teams for the same event.
-        \n8. All teams must maintain decorum at all times. Organizers may disqualify any team that behaves inappropriately.
-        \n9. Rules may be changed without prior intimation. Participants are, therefore, requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
-    <string name="event_rules_conquest">1. Use of admixtures and fibers is allowed (maximum up to 3% by weight of cement), however, any other type of reinforcement is not allowed.
-        \n2. The fibers should be discontinuous and randomly distributed.
-        \n3. Mention all the details very clearly about fibers, admixtures which are used.
-        \n4. Prepare a mix design sheet showing details of every constituent of concrete used, i.e. cement, aggregate, and water etc., using Indian Standard (IS) method of mix design.
-        \n5. Mix design sheet must be signed by Head of your Department with their stamp.
-        \n6. Special recognition will be given for following the "\'"MindSpark "’"17 Theme Towards Techno-Utopia"\'".
-        \n7. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) for updates.
-        \n8. In case of disputes, the decisions of the Event Heads and the Judges will be final and binding to all.
-        \n9. Teams are expected to maintain decorum at all times. The organizers reserve the right to disqualify any team found behaving inappropriately.
-        \n10. All team members must carry their college ID cards and registrations receipts.
-        \n11. Participants must engrave the date of casting clearly on the top of the cylinder. This shall be an additional point in Examination of the cylinder.
-        \n12. One person may not be a part of multiple teams for this event.</string>
+        \n\n2. The team need to construct the model from provided material only. No extra material will be provided. The team should use only that material which is provided by the organizers. If the material used is other than that provided, then the team will be disqualified immediately.
+        \n\n3. Using materials of other participants is also strictly prohibited i.e. using some extra materials.
+        \n\n4. One team can make only one model for proposed competition.
+        \n\n5. Testing of models will be done according to the serial number given to the teams at the time of commencement of the event. Hence, no team should request for their model to be tested first.
+        \n\n6. The decision of the judges and the organizers will be final and binding to all.
+        \n\n7. Team members may be from different colleges. However, same person cannot be a part of multiple teams for the same event.
+        \n\n8. All teams must maintain decorum at all times. Organizers may disqualify any team that behaves inappropriately.
+        \n\n9. Rules may be changed without prior intimation. Participants are, therefore, requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string><string name="event_rules_conquest">1. Use of admixtures and fibers is allowed (maximum up to 3% by weight of cement), however, any other type of reinforcement is not allowed.
+        \n\n2. The fibers should be discontinuous and randomly distributed.
+        \n\n3. Mention all the details very clearly about fibers, admixtures which are used.
+        \n\n4. Prepare a mix design sheet showing details of every constituent of concrete used, i.e. cement, aggregate, and water etc., using Indian Standard (IS) method of mix design.
+        \n\n5. Mix design sheet must be signed by Head of your Department with their stamp.
+        \n\n6. Special recognition will be given for following the "\'"MindSpark "’"17 Theme Towards Techno-Utopia"\'".
+        \n\n7. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) for updates.
+        \n\n8. In case of disputes, the decisions of the Event Heads and the Judges will be final and binding to all.
+        \n\n9. Teams are expected to maintain decorum at all times. The organizers reserve the right to disqualify any team found behaving inappropriately.
+        \n\n10. All team members must carry their college ID cards and registrations receipts.
+        \n\n11. Participants must engrave the date of casting clearly on the top of the cylinder. This shall be an additional point in Examination of the cylinder.
+        \n\n12. One person may not be a part of multiple teams for this event.</string>
     <string name="event_rules_metropolis">1. Sheets and report must be submitted by 22ndSeptember till 1pm; late entries will not be accepted.
-        \n2. Teams must construct the model within the given time limit only. No extra time will be given.
-        \n3. All teams and their respective members should reach the event place in time. Tardiness may be considered as grounds for disqualification.
-        \n4. All teams must maintain decorum at all times. Organizers may disqualify any team that behaves inappropriately
-        \n5. Students must bring their valid college identity cards while coming to event.
-        \n6. Team members may be from different colleges. However, one person cannot be a part of multiple teams for the same event.
-        \n7. Basic material will be provided by MindSpark’17 for model making and list of material available will be provided.
-        \n8. On-spot entries will be accepted for first round only.
-        \n9. Rules may be changed without prior intimation. Participants are requested to check the website regularly for updates.</string>
+        \n\n2. Teams must construct the model within the given time limit only. No extra time will be given.
+        \n\n3. All teams and their respective members should reach the event place in time. Tardiness may be considered as grounds for disqualification.
+        \n\n4. All teams must maintain decorum at all times. Organizers may disqualify any team that behaves inappropriately
+        \n\n5. Students must bring their valid college identity cards while coming to event.
+        \n\n6. Team members may be from different colleges. However, one person cannot be a part of multiple teams for the same event.
+        \n\n7. Basic material will be provided by MindSpark’17 for model making and list of material available will be provided.
+        \n\n8. On-spot entries will be accepted for first round only.
+        \n\n9. Rules may be changed without prior intimation. Participants are requested to check the website regularly for updates.</string>
     <string name="event_rules_id_civil">RULES:
-        \n1. It is mandatory to stick to the problem statement given at the time of rounds.
-        \n2. The version of AutoCAD used will either be AutoCAD 07 or AutoCAD 10. If the participant wants to use a version other than the ones mentioned above, they must bring their own laptops.
-        \n3. Creativity, aesthetics and more importantly inculcating the theme ‘Towards Techno-Utopia’ will be considered a crucial point while judging.
-        \n4. The team members need not be from the same institution.However, a participant cannot be a part of more than one team for the same event.
-        \n5. In case of disputes, decisions of judges and organizers will be final and binding to all.
-        \n6. Teams are expected to maintain decorum. The organizers reserve the right to disqualify any team found behaving inappropriately.
-        \n7. It is mandatory to bring registration receipt and valid college ID. Participants without these may not be allowed to participate in the event.
-        \n8. Rules may be changed without prior intimation. Participants are requested to check the website (www.mind-spark.org) and their registered email ID regularly for updates.</string>
-
-    <string name="event_rules_assemblix">1. Only participants with a valid college ID card and registration receipt allowed.
-        \n2. Only UG students and diploma students can participate; No workers/ employees will be allowed to participate.
-        \n3. There is no restriction of branch. Student from any branch can participate.
-        \n4. Two students from different colleges can be a part of the same team. However, one person cannot be a part of multiple teams for the same event.
-        \n5. Decision taken by the judges and organizers will be final and binding to all.
-        \n6. All the required tools will be provided at the event venue by the organizers.
-        \n7. Participants will not be allowed to use mobile phones or any other electronic gadget during the event, except calculators.
-        \n8. Rules may be changed without any prior intimidation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
-        \n9. Participants need to be present at the event venue at least 10 minutes prior to the commencement of the event.</string>
+        \n\n1. It is mandatory to stick to the problem statement given at the time of rounds.
+        \n\n2. The version of AutoCAD used will either be AutoCAD 07 or AutoCAD 10. If the participant wants to use a version other than the ones mentioned above, they must bring their own laptops.
+        \n\n3. Creativity, aesthetics and more importantly inculcating the theme ‘Towards Techno-Utopia’ will be considered a crucial point while judging.
+        \n\n4. The team members need not be from the same institution.However, a participant cannot be a part of more than one team for the same event.
+        \n\n5. In case of disputes, decisions of judges and organizers will be final and binding to all.
+        \n\n6. Teams are expected to maintain decorum. The organizers reserve the right to disqualify any team found behaving inappropriately.
+        \n\n7. It is mandatory to bring registration receipt and valid college ID. Participants without these may not be allowed to participate in the event.
+        \n\n8. Rules may be changed without prior intimation. Participants are requested to check the website (www.mind-spark.org) and their registered email ID regularly for updates.</string><string name="event_rules_assemblix">1. Only participants with a valid college ID card and registration receipt allowed.
+        \n\n2. Only UG students and diploma students can participate; No workers/ employees will be allowed to participate.
+        \n\n3. There is no restriction of branch. Student from any branch can participate.
+        \n\n4. Two students from different colleges can be a part of the same team. However, one person cannot be a part of multiple teams for the same event.
+        \n\n5. Decision taken by the judges and organizers will be final and binding to all.
+        \n\n6. All the required tools will be provided at the event venue by the organizers.
+        \n\n7. Participants will not be allowed to use mobile phones or any other electronic gadget during the event, except calculators.
+        \n\n8. Rules may be changed without any prior intimidation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
+        \n\n9. Participants need to be present at the event venue at least 10 minutes prior to the commencement of the event.</string>
     <string name="event_rules_id_2d">1. Any student with a valid college ID card and registration receipt can participate in the event.
-        \n2. Students from any branch and any college can form a team. However, no person can be a part of multiple teams for the same event.
-        \n3. Decision taken by judges and organizers will be final and binding to all.
-        \n4. Participants will not be allowed to use mobiles, tabs or any other electronic devices.
-        \n5. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org), regularly for updates.</string>
-    <string name="event_rules_id_3d">1. The decision of the judges and event heads shall be considered final and binding to all. Any participants found misbehaving will be immediately disqualified.
-    \n2. Only UG students can participate. Workers/employees will not be allowed.
-    \n3.In case of a tie in the second round, the marks of first round will be considered as the criteria for the selection to the third round.
-    \n4.In case of tie in the third round, marks of the first and second rounds will be considered as the criteria for deciding the winners. Innovation, sophistication in design and ease of assembly and disassembly will be considered as the criteria for evaluation.
-    \n5. Participants should be present 30 minutes prior to the commencement of event. Late teams may be disqualified.
-    \n6. Participants must bring a valid college ID and the registration receipt with them on the day of the event.
-    \n7. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
-    <string name="event_rules_mechtrix">1. No external equipment other than that provided by the organizers can be used.
-        \n2. Using equipment of other participants is also strictly prohibited (i.e. using some extra material).
-        \n3. The registered teams will have to carry their registration receipt and college ID cards at the time of the event.
-        \n4. Participants can be of different colleges/institutions. But, one person may not be a part of multiple teams for the same event.
-        \n5. The teams must adhere to the spirit of healthy competition and maintain decorum at all times.
-        \n6. Organizers reserve the right to disqualify any team indulging in misbehavior or violating any rules.
-        \n7. In case of disputes, the decision of the organizers and the judges will be final and binding to all.
-        \n8. Any team that is not ready at the specified time will be disqualified from the competition automatically.
-        \n9. Rules may be changed without prior intimation. Participants are requested to check the website (www.mind-spark.org) regularly for updates.</string>
+        \n\n2. Students from any branch and any college can form a team. However, no person can be a part of multiple teams for the same event.
+        \n\n3. Decision taken by judges and organizers will be final and binding to all.
+        \n\n4. Participants will not be allowed to use mobiles, tabs or any other electronic devices.
+        \n\n5. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org), regularly for updates.</string><string name="event_rules_id_3d">1. The decision of the judges and event heads shall be considered final and binding to all. Any participants found misbehaving will be immediately disqualified.
+        \n\n2. Only UG students can participate. Workers/employees will not be allowed.
+        \n\n3.In case of a tie in the second round, the marks of first round will be considered as the criteria for the selection to the third round.
+        \n\n4.In case of tie in the third round, marks of the first and second rounds will be considered as the criteria for deciding the winners. Innovation, sophistication in design and ease of assembly and disassembly will be considered as the criteria for evaluation.
+        \n\n5. Participants should be present 30 minutes prior to the commencement of event. Late teams may be disqualified.
+        \n\n6. Participants must bring a valid college ID and the registration receipt with them on the day of the event.
+        \n\n7. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string><string name="event_rules_mechtrix">1. No external equipment other than that provided by the organizers can be used.
+        \n\n2. Using equipment of other participants is also strictly prohibited (i.e. using some extra material).
+        \n\n3. The registered teams will have to carry their registration receipt and college ID cards at the time of the event.
+        \n\n4. Participants can be of different colleges/institutions. But, one person may not be a part of multiple teams for the same event.
+        \n\n5. The teams must adhere to the spirit of healthy competition and maintain decorum at all times.
+        \n\n6. Organizers reserve the right to disqualify any team indulging in misbehavior or violating any rules.
+        \n\n7. In case of disputes, the decision of the organizers and the judges will be final and binding to all.
+        \n\n8. Any team that is not ready at the specified time will be disqualified from the competition automatically.
+        \n\n9. Rules may be changed without prior intimation. Participants are requested to check the website (www.mind-spark.org) regularly for updates.</string>
     <string name="event_rules_turnament">1. If any damage to LATHE M/C, surroundings etc., or any malpractices including negligence during machining will lead to disqualification.
-        \n2. Fine will be TAKEN if any MAJOR damages to Tool, Lathe Machine or Surroundings occur during Operation.
-        \n3. After the completion of the task all the accessories must be returned.
-        \n4. No extra work piece will be provided and carrying of any extra material is banned.
-        \n5. The judges’ and organizers’ decision will be final, binding to all and irrevocable.
-        \n6. Participants are responsible for their own safety.
-        \n7. They should COMPULSORILY have apron and shoes.
-        \n8. The winner will be decided based on the accuracy, Surface finish and time duration.</string>
-
+        \n\n2. Fine will be TAKEN if any MAJOR damages to Tool, Lathe Machine or Surroundings occur during Operation.
+        \n\n3. After the completion of the task all the accessories must be returned.
+        \n\n4. No extra work piece will be provided and carrying of any extra material is banned.
+        \n\n5. The judges’ and organizers’ decision will be final, binding to all and irrevocable.
+        \n\n6. Participants are responsible for their own safety.
+        \n\n7. They should COMPULSORILY have apron and shoes.
+        \n\n8. The winner will be decided based on the accuracy, Surface finish and time duration.</string>
     <string name="event_rules_code_junkie">1. Participant can choose from either Ubuntu 12.04 OS with gedit/vim/emacs as text editor and gcc as compiler OR Windows 7 with Turbo C / Dev C++.
-        \n2. Participants should be First Year or Second Year Undergraduate students.
-        \n3. Participants need to bring their College ID cards and the receipt of registration during reporting.
-        \n4. Time slots will be given and participants are expected to follow it strictly.
-        \n5. Participants are expected to give their correct contact details to get results.
-        \n6. Further details of the round will be disclosed at the time of event.
-        \n7. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates. 8. In case of any disputes, the decision of the organizers and the judges will be final and binding to all. 9. Team members may be from different colleges/institutions but one participant may not be a part of multiple teams for the same event.</string>
-    <string name="event_rules_code_junkie_pp">1. For rounds 2 and 3, the environment – programming language, IDE, editor, compiler, interpreter, etc. - will be anything you are comfortable with. But please note that:
+        \n\n2. Participants should be First Year or Second Year Undergraduate students.
+        \n\n3. Participants need to bring their College ID cards and the receipt of registration during reporting.
+        \n\n4. Time slots will be given and participants are expected to follow it strictly.
+        \n\n5. Participants are expected to give their correct contact details to get results.
+        \n\n6. Further details of the round will be disclosed at the time of event.
+        \n\n7. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates. 8. In case of any disputes, the decision of the organizers and the judges will be final and binding to all. 9. Team members may be from different colleges/institutions but one participant may not be a part of multiple teams for the same event.</string><string name="event_rules_code_junkie_pp">1. For rounds 2 and 3, the environment – programming language, IDE, editor, compiler, interpreter, etc. - will be anything you are comfortable with. But please note that:
         \n\ti. OS will be GNU/Linux or Windows.
         \n\tii. In round 2, some questions will be specifically related to C++, Java and Python.
         \n\t(You will be given an option to solve questions either of C++ or Java or Python)
         \n\tiii. For round 3, judging criteria will stress on program efficiency in terms of both time and space. Choose your programming language in this round wisely.
-        \n2. This event is open to all undergraduate students.
-        \n3. Participants need to bring their College ID cards and the receipt of registration at the time of reporting.
-        \n4. Participants are expected to give their correct contact details. (Email ID and phone number).
-        \n5. Participants are expected to follow the time slots given to them strictly.
-        \n6. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly.</string>
-    <string name="event_rules_xterminate">1. The environment will be either: an Ubuntu 12.04 or higher version OS with emacs/ vim/gedit as text editor and gcc as compiler OR Windows 7 with Turbo C (as per the team’s choice).
-        \n2. Participants must bring their valid College ID cards and the receipt of registration during reporting. Otherwise, the participant may be disqualified.
-        \n3. Time slots will be allotted and participants are expected to follow them strictly.
-        \n4. Participants are expected to give their contact details correctly, so as to inform them about the event and event results.
-        \n5. Decision of the event heads and the judges shall be considered final and binding to all.
-        \n6. Rules may be changed without prior intimation. Participants are, therefore, requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
-    <string name="event_rules_retracer">1. Teams are expected to maintain decorum. MindSpark’17 team reserves the right to disqualify any team found misbehaving.
-        \n2. In case of any disputes, the decision of event heads and judges will be final and binding to all.
-        \n3. Rules of the event may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
-        \n4. Participants must carry their school ID card and the registration receipt.
-        \n5. Participants must be present on time at the given venue. Late entries will not be entertained.</string>
+        \n\n2. This event is open to all undergraduate students.
+        \n\n3. Participants need to bring their College ID cards and the receipt of registration at the time of reporting.
+        \n\n4. Participants are expected to give their correct contact details. (Email ID and phone number).
+        \n\n5. Participants are expected to follow the time slots given to them strictly.
+        \n\n6. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly.</string><string name="event_rules_xterminate">1. The environment will be either: an Ubuntu 12.04 or higher version OS with emacs/ vim/gedit as text editor and gcc as compiler OR Windows 7 with Turbo C (as per the team’s choice).
+        \n\n2. Participants must bring their valid College ID cards and the receipt of registration during reporting. Otherwise, the participant may be disqualified.
+        \n\n3. Time slots will be allotted and participants are expected to follow them strictly.
+        \n\n4. Participants are expected to give their contact details correctly, so as to inform them about the event and event results.
+        \n\n5. Decision of the event heads and the judges shall be considered final and binding to all.
+        \n\n6. Rules may be changed without prior intimation. Participants are, therefore, requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string><string name="event_rules_retracer">1. Teams are expected to maintain decorum. MindSpark’17 team reserves the right to disqualify any team found misbehaving.
+        \n\n2. In case of any disputes, the decision of event heads and judges will be final and binding to all.
+        \n\n3. Rules of the event may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
+        \n\n4. Participants must carry their school ID card and the registration receipt.
+        \n\n5. Participants must be present on time at the given venue. Late entries will not be entertained.</string>
     <string name="event_rules_predict_x">1. Predict-X is an online event that will be conducted for 30 days.
-        \n2. There is no restriction on its participation and the participants can participate from anywhere across the world.
-        \n3. There is no restriction of branch. Student from any branch can participate.
-        \n4. Two students from different colleges can be a part of the same team. However, one person cannot be a part of multiple teams for the same event.
-        \n5. Decision taken by the judges and organizers will be binding to all and will be considered final and binding to all.
-        \n6. Teams who do not register will not be eligible for prizes and their solution will not be taken under consideration.
-        \n7. Participants will access their datasets and submit their solutions by using either their Facebook or Gmail accounts on Hacker Rank.
-        \n8. Teams who cannot register offline, may register online on the website of MindSpark’17 (www.mind-spark.org)
-        \n9. Rules may be changed without any prior intimidation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
-    <string name="event_rules_hackathon2.0">1. Teams will be given 2-3 problem statements to choose from and develop solution in the 24-hour time period. The solution may consist of a web app, mobile app, data visualization, design prototype, or a business plan.
-        \n2. Participants should develop an application of their choice to best fit the solution of the given problem statement. Mentors will be present at the location to help the teams and to check on what the teams are developing for some period of the Hackathon.
-        \n3. Every team will have to explain their product individually to our mentors roaming around and will have to give a final presentation to our judging panel, out of which the winner will be chosen.
-        \n4. Every team should bring their own electronics appliances they may require, e.g. Laptops, Mouse, Pen drives, etc. The use of different types of hardware and software is encouraged throughout the event. A checklist will be sent to the participants a few weeks before the event.
-        \n5. Participants must bring their registration receipts, college ID and various things which would be mentioned in the checklist, while coming to event.
-        \n6. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.
-        \n7. In case of any disputes, the decision of the organizers and the judges will be final and binding to all.</string>
-
+        \n\n2. There is no restriction on its participation and the participants can participate from anywhere across the world.
+        \n\n3. There is no restriction of branch. Student from any branch can participate.
+        \n\n4. Two students from different colleges can be a part of the same team. However, one person cannot be a part of multiple teams for the same event.
+        \n\n5. Decision taken by the judges and organizers will be binding to all and will be considered final and binding to all.
+        \n\n6. Teams who do not register will not be eligible for prizes and their solution will not be taken under consideration.
+        \n\n7. Participants will access their datasets and submit their solutions by using either their Facebook or Gmail accounts on Hacker Rank.
+        \n\n8. Teams who cannot register offline, may register online on the website of MindSpark’17 (www.mind-spark.org)
+        \n\n9. Rules may be changed without any prior intimidation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>\n<string name="event_rules_hackathon2.0">1. Teams will be given 2-3 problem statements to choose from and develop solution in the 24-hour time period. The solution may consist of a web app, mobile app, data visualization, design prototype, or a business plan.
+        \n\n2. Participants should develop an application of their choice to best fit the solution of the given problem statement. Mentors will be present at the location to help the teams and to check on what the teams are developing for some period of the Hackathon.
+        \n\n3. Every team will have to explain their product individually to our mentors roaming around and will have to give a final presentation to our judging panel, out of which the winner will be chosen.
+        \n\n4. Every team should bring their own electronics appliances they may require, e.g. Laptops, Mouse, Pen drives, etc. The use of different types of hardware and software is encouraged throughout the event. A checklist will be sent to the participants a few weeks before the event.
+        \n\n5. Participants must bring their registration receipts, college ID and various things which would be mentioned in the checklist, while coming to event.
+        \n\n6. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.
+        \n\n7. In case of any disputes, the decision of the organizers and the judges will be final and binding to all.</string>
     <string name="event_rules_circuit_fixer_1">1. Only students from first year and second year are allowed to participate.
-        \n2. All the participants should have valid ID card of their respective institute with them along with the registration receipt.
-        \n3. The hardware necessary for the final round will be provided by the organizers.
-        \n4. The decision of judges and the organizers will be final and binding to all.
-        \n5. In case any assistance is needed during the event, the teams should approach only the event coordinators/organizers.
-        \n6. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) for updates.</string>
+        \n\n2. All the participants should have valid ID card of their respective institute with them along with the registration receipt.
+        \n\n3. The hardware necessary for the final round will be provided by the organizers.
+        \n\n4. The decision of judges and the organizers will be final and binding to all.
+        \n\n5. In case any assistance is needed during the event, the teams should approach only the event coordinators/organizers.
+        \n\n6. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) for updates.</string>
     <string name="event_rules_circuit_fixer_2">1. The event is open to all undergraduate students.
-        \n2. All the participants should have valid ID card of their respective institute with them along with the registration receipt.
-        \n3. The hardware necessary for the finals will be provided by the organizers.
-        \n4. The decision of judges will be final and binding to all.
-        \n5. In case any assistance is needed during the event, the teams should only approach the organizers.
-        \n6. Participants are expected to be present at the given venue on time.
-        \n7. Pin diagrams for Round 3 will be provided.
-        \n8. Marking Scheme will be decided on the spot.
-        \n9. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
+        \n\n2. All the participants should have valid ID card of their respective institute with them along with the registration receipt.
+        \n\n3. The hardware necessary for the finals will be provided by the organizers.
+        \n\n4. The decision of judges will be final and binding to all.
+        \n\n5. In case any assistance is needed during the event, the teams should only approach the organizers.
+        \n\n6. Participants are expected to be present at the given venue on time.
+        \n\n7. Pin diagrams for Round 3 will be provided.
+        \n\n8. Marking Scheme will be decided on the spot.
+        \n\n9. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
     <string name="event_rules_encrypto">1. Participants must carry their original college ID and registration receipt at the time of event. Entry will be denied if a participant is without either of these two.
-        \n2. On the spot registrations are also allowed.
-        \n3. Any form of cheating/use of unfair means will NOT be tolerated and the concerned teams will be disqualified immediately.
-        \n4. The decision of Judges and Event Heads will be final and binding to all.
-        \n5. Non-programmable calculators are allowed.
-        \n6. Team members may be from same or different colleges/institutes. However, one person cannot be a part of multiple teams for the same event.
-        \n7. Rules may be changed without prior intimation. Participants are requested to check MindSpark’16 rules on website (www.mind-spark.org) regularly for updates.</string>
+        \n\n2. On the spot registrations are also allowed.
+        \n\n3. Any form of cheating/use of unfair means will NOT be tolerated and the concerned teams will be disqualified immediately.
+        \n\n4. The decision of Judges and Event Heads will be final and binding to all.
+        \n\n5. Non-programmable calculators are allowed.
+        \n\n6. Team members may be from same or different colleges/institutes. However, one person cannot be a part of multiple teams for the same event.
+        \n\n7. Rules may be changed without prior intimation. Participants are requested to check MindSpark’16 rules on website (www.mind-spark.org) regularly for updates.</string>
     <string name="event_rules_microapps">1. The event is open for undergraduate students only.
-        \n2. Participants are required to give correct contact details, so as to inform them about the event updates.
-        \n3. Participants must bring their College ID cards and receipt of registration during reporting.
-        \n4. Only "\'"C"\'" language can be used. The IDE to be used is CCS (which will be introduced prior to the round in which it is required).
-        \n5. The microcontroller and other hardware will be provided by the organizers.
-        \n6. The decision of the judges and the organizers will be final.
-        \n7. The organizers have the right to change the above-mentioned rules without giving any prior notice (participants are requested to check the website for updates: www.mind-spark.org.).
-        \n8. Registration at the first day of the event will be there but preference will be given to pre-registered teams.</string>
-
+        \n\n2. Participants are required to give correct contact details, so as to inform them about the event updates.
+        \n\n3. Participants must bring their College ID cards and receipt of registration during reporting.
+        \n\n4. Only "\'"C"\'" language can be used. The IDE to be used is CCS (which will be introduced prior to the round in which it is required).
+        \n\n5. The microcontroller and other hardware will be provided by the organizers.
+        \n\n6. The decision of the judges and the organizers will be final.
+        \n\n7. The organizers have the right to change the above-mentioned rules without giving any prior notice (participants are requested to check the website for updates: www.mind-spark.org.).
+        \n\n8. Registration at the first day of the event will be there but preference will be given to pre-registered teams.</string>
     <string name="event_rules_on_the_etch">1. Display of Microphotograph (captured on Optical microscope/SEM/TEM) during presentation is mandatory. Participants failing to produce the microphotograph may be disqualified.
-        \n2. Fake micrographs will lead to the disqualification of the team.
-        \n3. The sample must strictly be prepared by the participants.
-        \n4. The sample selected for microstructural observation should be mounted by either hot or cold mounting method. Both, cross section (Radial in case of a cylindrical specimen) and longitudinal section of the same sample must be mounted together. Only longitudinal section of the sample will be accepted only if the sample has very thin diameter i.e. less than 5 mm.
-        \n5. The microphotograph captured on either Optical Microscope OR Scanning Electron Microscope(SEM) OR Transmission Electron microscope(TEM) is expected to be presented with following mandatory specifications:
+        \n\n2. Fake micrographs will lead to the disqualification of the team.
+        \n\n3. The sample must strictly be prepared by the participants.
+        \n\n4. The sample selected for microstructural observation should be mounted by either hot or cold mounting method. Both, cross section (Radial in case of a cylindrical specimen) and longitudinal section of the same sample must be mounted together. Only longitudinal section of the sample will be accepted only if the sample has very thin diameter i.e. less than 5 mm.
+        \n\n5. The microphotograph captured on either Optical Microscope OR Scanning Electron Microscope(SEM) OR Transmission Electron microscope(TEM) is expected to be presented with following mandatory specifications:
         \ni) The magnification or scale must be burnt into the micrograph.
         \nii) The size of the printed microphotograph must be 200mm*250 mm or A4 size.
         \niii) The composition of the sample is to be presented along with the micrograph. If participants are unable to know the composition of their specimen sampled from an unknown component, they can refer the available research papers and literature regarding the component. If still they are unable to solve the problem, they are free to contact the event heads.
@@ -886,314 +889,310 @@
         \nv) Typical applications of the components having the concerned microstructure in industry.
         \nvi) A 1 or 2- page hand-out comprising of summary of the specimen preparation to introduce it to judges in least possible words.
         \nvii) The mount should comprise of the sample whose micrograph is captured.
-        \n6. Participants are expected to prepare a sample of any failed industrial component or any other metallic spare part which is readily available and free of cost. The metal objects which are generally used by us in day-to-day life will also be accepted. Ferrous alloys will be preferred for sampling. This change has specifically been made in the competition to develop practical approach towards sampling of specimens.
-        \n7. To give more clarification regarding the points ‘5.iii’ and ‘5.iv’, a small session will be conducted few days prior to the event which will help participants to apply the theoretical concepts about different microstructures in revealing the microstructures of the components used in practice. Date, timings and more details about the session will be informed afterwards to the registered participants.
-        \n8. Micrographs are not allowed to be captured on the day of the event.
-        \n9. Presentation of photographs on laptops is not allowed. Only printed micrographs are allowed to be presented before the Judges.
-        \n10. Participants should carry their college ID cards as a proof for identity on the day of the event along with the receipt of registration.
-        \n11. Decision made by the judges and organizers will be final and binding to all the participant teams in case of any tie.
-        \n12. Rules may be changed without prior intimation. Participants are expected to check the MindSpark’17 website (www.mind-spark.org) for the updates. In case of any small query or doubt, feel free to ask the event heads.</string>
+        \n\n6. Participants are expected to prepare a sample of any failed industrial component or any other metallic spare part which is readily available and free of cost. The metal objects which are generally used by us in day-to-day life will also be accepted. Ferrous alloys will be preferred for sampling. This change has specifically been made in the competition to develop practical approach towards sampling of specimens.
+        \n\n7. To give more clarification regarding the points ‘5.iii’ and ‘5.iv’, a small session will be conducted few days prior to the event which will help participants to apply the theoretical concepts about different microstructures in revealing the microstructures of the components used in practice. Date, timings and more details about the session will be informed afterwards to the registered participants.
+        \n\n8. Micrographs are not allowed to be captured on the day of the event.
+        \n\n9. Presentation of photographs on laptops is not allowed. Only printed micrographs are allowed to be presented before the Judges.
+        \n\n10. Participants should carry their college ID cards as a proof for identity on the day of the event along with the receipt of registration.
+        \n\n11. Decision made by the judges and organizers will be final and binding to all the participant teams in case of any tie.
+        \n\n12. Rules may be changed without prior intimation. Participants are expected to check the MindSpark’17 website (www.mind-spark.org) for the updates. In case of any small query or doubt, feel free to ask the event heads.</string>
     <string name="event_rules_dexters_lab">1. Participants from same or different institutions may be a part of the same team. However, no participant must be a part of multiple teams for the same event.
-        \n2. Participants must carry a valid college ID and the receipt of registration. Without the mentioned documents, teams will not be allowed to participate in the event.
-        \n3. Decision made by the judges and event heads will be final and binding for all the participant teams.
-        \n4. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
-
-    <string name="event_rules_wheelomation">1.Each team can comprise of a minimum of two members and a maximum of five members.
-        \n2.Each member must be a student with a valid ID card. All teams must be present on specified date for inspection, along with their registration receipt. This is to ensure that the machine has been made according to the given specifications.
-        \n3.The eligible teams will be given their practice slots. During this time, the teams can practice on the track; however, this permission is given on a first come first serve basis. So, it is advisable to secure your slot well before time.
-        \n4.Participants must use remote with frequency of band spectrum 2.4 GHz only. No power supply will be given on the track.
-        \n5. Team members are not permitted to touch either their machines or those of their opponents once the race begins (unless there is a need to lift the machine). The penalty for doing so on invalid grounds is disqualification.
-        \n6. Teams are prohibited from purposefully damaging the machine of the opponent team. If found guilty, the concerned team will be disqualified.
-        \n7. If the machine is found unsafe to run on the track, that team will be disqualified from the race. The organizers’ decision will be final and binding to all in this respect. No damage to the track will be tolerated and if found guilty, the responsible team will be disqualified.
-        \n8. The vehicles are not allowed to leave any loose parts or any extra part on any part of the arena.
-        \n9. Any vehicle disintegrating during the race will be disqualified. The vehicle must remain intact throughout the race. Once the race gets started, the participants must complete the race.
-        \n10. The track will have checkpoints at regular intervals. If the machine halts, tumbles or goes off the arena at any point, one of the team members is allowed to lift it up and place it at the nearest completed checkpoint. However, the timer will still be running, in the meantime.
-        \n11. Persons from different institutes can be a part of the same team. However, one person cannot be a part of multiple teams for the same event. Only undergraduate students may participate.
-        \n12. The judges"\'" and organizers"\'" decisions shall be treated as final and binding to all. The organizers reserve the rights to change any/or all of the above rules as they deem fit.
-        \n13. Rules may be changed without prior intimation. Participants are, therefore, requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.
-        \nARENA Details:
-        \nThe race track will be a combination of on road and off-road tracks with many hurdles.
-        \nParticipants are advised to use proper suspension and tires to endure the bumps.
-        \nCheck points will be provided on track where the machine can restart, in case of a disturbance.
-        \nDetails about track will be uploaded on MindSpark’17 website.
-        \nSpecifications:
-        \n1. ENGINE:
+        \n\n2. Participants must carry a valid college ID and the receipt of registration. Without the mentioned documents, teams will not be allowed to participate in the event.
+        \n\n3. Decision made by the judges and event heads will be final and binding for all the participant teams.
+        \n\n4. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.</string><string name="event_rules_wheelomation">1.Each team can comprise of a minimum of two members and a maximum of five members.
+        \n\n2.Each member must be a student with a valid ID card. All teams must be present on specified date for inspection, along with their registration receipt. This is to ensure that the machine has been made according to the given specifications.
+        \n\n3.The eligible teams will be given their practice slots. During this time, the teams can practice on the track; however, this permission is given on a first come first serve basis. So, it is advisable to secure your slot well before time.
+        \n\n4.Participants must use remote with frequency of band spectrum 2.4 GHz only. No power supply will be given on the track.
+        \n\n5. Team members are not permitted to touch either their machines or those of their opponents once the race begins (unless there is a need to lift the machine). The penalty for doing so on invalid grounds is disqualification.
+        \n\n6. Teams are prohibited from purposefully damaging the machine of the opponent team. If found guilty, the concerned team will be disqualified.
+        \n\n7. If the machine is found unsafe to run on the track, that team will be disqualified from the race. The organizers’ decision will be final and binding to all in this respect. No damage to the track will be tolerated and if found guilty, the responsible team will be disqualified.
+        \n\n8. The vehicles are not allowed to leave any loose parts or any extra part on any part of the arena.
+        \n\n9. Any vehicle disintegrating during the race will be disqualified. The vehicle must remain intact throughout the race. Once the race gets started, the participants must complete the race.
+        \n\n10. The track will have checkpoints at regular intervals. If the machine halts, tumbles or goes off the arena at any point, one of the team members is allowed to lift it up and place it at the nearest completed checkpoint. However, the timer will still be running, in the meantime.
+        \n\n11. Persons from different institutes can be a part of the same team. However, one person cannot be a part of multiple teams for the same event. Only undergraduate students may participate.
+        \n\n12. The judges"\'" and organizers"\'" decisions shall be treated as final and binding to all. The organizers reserve the rights to change any/or all of the above rules as they deem fit.
+        \n\n13. Rules may be changed without prior intimation. Participants are, therefore, requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.
+        \n\nARENA Details:
+        \n1. The race track will be a combination of on road and off-road tracks with many hurdles.
+        \n2. Participants are advised to use proper suspension and tires to endure the bumps.
+        \n3. Check points will be provided on track where the machine can restart, in case of a disturbance.
+        \n4. Details about track will be uploaded on MindSpark’17 website.
+        \n\nSpecifications:
+        \n\n1. ENGINE:
         \nMaximum piston displacement allowed is 4 cc. The car should be powered by only one IC engine. Any machine which uses DC Motors for propulsion will be disqualified. However, DC motors and servos can be used for steering mechanisms or any other control mechanisms, apart from propulsion.
-        \n2. FUEL:
+        \n\n2. FUEL:
         \nThe percentage of nitromethane should not exceed 20% by volume in the fuel. Readymade fuel can be used.
-        \n3. VEHICLE DIMENSIONS:
+        \n\n3. VEHICLE DIMENSIONS:
         \nMachine should fit in a box of dimensions
         \n650 mm x 500 mm x 400 mm (lxbxh) at any time during the race. The external device which is used to control the machine is not included in the size constraint. Antennae are exempt from the height restriction.
-        \n4. PARTS THAT ARE TO BE FABRICATED BY THE PARTICIPANTS: The chassis, Suspensions system, Steering mechanism and Brakes.
-        \n5. The machine must not be made from Lego parts, or any ready-made assembly kits other than the parts mentioned above. Readily available chassis layouts are not allowed. Any machine found having a ready-made chassis will be disqualified.
-        \n6. Parts that can be directly procured from the market:
+        \n\n4. PARTS THAT ARE TO BE FABRICATED BY THE PARTICIPANTS: The chassis, Suspensions system, Steering mechanism and Brakes.
+        \n\n5. The machine must not be made from Lego parts, or any ready-made assembly kits other than the parts mentioned above. Readily available chassis layouts are not allowed. Any machine found having a ready-made chassis will be disqualified.
+        \n\n6. Parts that can be directly procured from the market:
         \nGear box assembly, Differentials (if used)
         \nSuspension springs, Shock absorbers
         \nTires and wheels (You are advised to use tires of good width for better performance on dirt tracks).
         \nClutch System, Brake System, Engine, Carburetor, Servo Motors, Wheel hub.
-        \n7. POWER SUPPLY:
+        \n\n7. POWER SUPPLY:
         \nThe machine must have an on-board power supply to provide power to any mechanism requiring electric power not exceeding 12 V.
-        \n8. RADIO CONTROLLERS:
+        \n\n8. RADIO CONTROLLERS:
         \nThe machine must be necessarily controlled by a wireless remote-control system. Note: You may use clutch mechanism between the engine and the wheel, cooling mechanism to prevent overheating of the engine and air filters as dirt might cause serious problems to the engine for better performance.
-        \n9. STEERING MECHANISM:
+        \n\n9. STEERING MECHANISM:
         \nThe entire steering mechanism must be fabricated by the participants i.e. any part connected to the steering part rigidly must be fabricated by the participants; failing to do so the team will be disqualified. However, the heim joint, knuckle arm, studs and wheel hub can be ready-made.
-        \n10. SUSPENSION MECHANISM:
+        \n\n10. SUSPENSION MECHANISM:
         \nThe suspension mechanism must be fabricated by the participants except the shock absorbers. The suspension tower and the suspension arms must be fabricated by the participants.
-        \n11. BRAKES:
+        \n\n11. BRAKES:
         \nThe brake mechanism must be disc brakes only. The disc pads used must be made by participants.
-        \n12. Participants having doubts regarding specifications should email their queries to wheelomation@mind-spark.org and are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly, for further updates.</string>
+        \n\n12. Participants having doubts regarding specifications should email their queries to wheelomation@mind-spark.org and are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly, for further updates.</string>
     <string name="event_rules_the_wright_turn_glider">1. Participants that will use ready-made parts (wings, rudder, etc.) will be disqualified.
-        \n2. Gliders’ will be judged on the basis of time of flight, Range, Aerodynamic stability during flight, etc.
-        \n3. As soon as the glider touches the ground no further distance covered by it will be considered.
-        \n4. Based on MS-17’s theme (Towards Techno-Utopia) Gliders that have a modern design will be given bonus points. (eg: Morphing Wings)
-        \n5. Rules may be changed without prior intimation. Participants are, therefore, requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
+        \n\n2. Gliders’ will be judged on the basis of time of flight, Range, Aerodynamic stability during flight, etc.
+        \n\n3. As soon as the glider touches the ground no further distance covered by it will be considered.
+        \n\n4. Based on MS-17’s theme (Towards Techno-Utopia) Gliders that have a modern design will be given bonus points. (eg: Morphing Wings)
+        \n\n5. Rules may be changed without prior intimation. Participants are, therefore, requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
     <string name="event_rules_the_wright_turn_rc_plane">1. Participants must design and build their own aircraft. Use of ready-to- fly (RTF) kits and almost ready-to- fly kits are strictly not allowed.
-        \n2. Only electric powered RC planes are allowed. Use of IC Engine is strictly prohibited. Electric Motor of maximum 200gms is permitted.
-        \n3. Participants are free to use any material of their choice. Participants are advised to take special safety precautions for their aircraft. Organizers will not be responsible for any damage caused to the model or its electrical components during the event.
-        \n4. Participants must be present at the event site before or at the reporting time. Teams arriving late will be disqualified.
-        \n5. To avoid interference, all teams must hand over their transmitters to organizing team before the event.
-        \n6. An aircraft is defined as a vehicle which experiences exactly 4 forces – lift, drag, thrust and weight at any time during its flight.
-        \n7. The event is open to all people who are not 26 years of age or older at the time of the event.
-        \n8. Students and others will be placed in separate groups and marked accordingly.
-        \n9. Maximum 5 participants are allowed in each team. Team members can be from same or different institutes.
-        \n10. However, one participant may not be a part of multiple teams for the same event.
-        \n11. Judges’ and organizers’ decision on any matter will be final and binding to all.
-        \nAircraft specification:
-        \n1. Maximum wingspan – 40 inches
-        \n2. Maximum motor power- 1.5KW
-        \n3. The voltage of the battery used should not be more than 12V.
-        \n4. It is recommendable to include a good landing gear system in the design and construction phase of your aircraft. Remember, taking-off and landing are very important phases of this competition. If anyone wants HAND LAUNCH, points for take-off will be deducted.</string>
+        \n\n2. Only electric powered RC planes are allowed. Use of IC Engine is strictly prohibited. Electric Motor of maximum 200gms is permitted.
+        \n\n3. Participants are free to use any material of their choice. Participants are advised to take special safety precautions for their aircraft. Organizers will not be responsible for any damage caused to the model or its electrical components during the event.
+        \n\n4. Participants must be present at the event site before or at the reporting time. Teams arriving late will be disqualified.
+        \n\n5. To avoid interference, all teams must hand over their transmitters to organizing team before the event.
+        \n\n6. An aircraft is defined as a vehicle which experiences exactly 4 forces – lift, drag, thrust and weight at any time during its flight.
+        \n\n7. The event is open to all people who are not 26 years of age or older at the time of the event.
+        \n\n8. Students and others will be placed in separate groups and marked accordingly.
+        \n\n9. Maximum 5 participants are allowed in each team. Team members can be from same or different institutes.
+        \n\n10. However, one participant may not be a part of multiple teams for the same event.
+        \n\n11. Judges’ and organizers’ decision on any matter will be final and binding to all.
+        \nAIRCRAFT SPECIFICATIONS:
+        \n\n1. Maximum wingspan – 40 inches
+        \n\n2. Maximum motor power- 1.5KW
+        \n\n3. The voltage of the battery used should not be more than 12V.
+        \n\n4. It is recommendable to include a good landing gear system in the design and construction phase of your aircraft. Remember, taking-off and landing are very important phases of this competition. If anyone wants HAND LAUNCH, points for take-off will be deducted.</string>
     <string name="event_rules_aqualympics">1. Students from different institutes can be part of the same team. However, one person cannot be a part of multiple teams for the same event.
-        \n2. Students should build their own boat. Outsourcing (using readymade kits or mechanisms) is not allowed. Violation of this rule will lead to disqualification.
-        \n3. The boat’s shaft must touch the surface of the water i.e. air boats are not allowed.
-        \n4. The exterior part of the boat shouldn’t be sharp and pointed which might cause damage to the arena. Any boat found damaging the arena would be disqualified.
-        \n5. Use of IC (Internal Combustion) engine is not allowed.
-        \n6. External Motors, batteries and remote controls are allowed. There is no restriction on number of D.C. motors used.
-        \n7. Only onboard power supply is allowed. Battery Voltage should not exceed 12 volts.
-        \n8. All the teams will have to submit their remotes before the start of the competition. These remotes will be handed back to the team before their turn.
-        \n9. Laptop/personal computers are not allowed near arena. Devices using Bluetooth are not allowed.
-        \n10. The organizers are not responsible for any kind of damage to the boat once it enters the arena.</string>
+        \n\n2. Students should build their own boat. Outsourcing (using readymade kits or mechanisms) is not allowed. Violation of this rule will lead to disqualification.
+        \n\n3. The boat’s shaft must touch the surface of the water i.e. air boats are not allowed.
+        \n\n4. The exterior part of the boat shouldn’t be sharp and pointed which might cause damage to the arena. Any boat found damaging the arena would be disqualified.
+        \n\n5. Use of IC (Internal Combustion) engine is not allowed.
+        \n\n6. External Motors, batteries and remote controls are allowed. There is no restriction on number of D.C. motors used.
+        \n\n7. Only onboard power supply is allowed. Battery Voltage should not exceed 12 volts.
+        \n\n8. All the teams will have to submit their remotes before the start of the competition. These remotes will be handed back to the team before their turn.
+        \n\n9. Laptop/personal computers are not allowed near arena. Devices using Bluetooth are not allowed.
+        \n\n10. The organizers are not responsible for any kind of damage to the boat once it enters the arena.</string>
     <string name="event_rules_contraption">1. The minimum and maximum time for contraption is 2 minutes and 10 minutes respectively. After 10 minutes, 30 points per minute will be deducted from the total score.
-        \n2. In the first trial, 3 hand touches are allowed without deduction of points. Before the fourth-hand touch one would be given choice to go for fourth hand touch or to go for second trial. For 4th, 5th and 6th 30, 60 and 120 points will be deducted respectively from the total score.
-        \n3. In case of second trial, 2 hand touches will be allowed with deduction of 50 and 80 points for each. Further average of two trials will be considered. The team will be disqualified if they exceed permissible number of hand touches in the respective trail.
-        \n4. A set-up time of 3 hours and 1 hour will be given for each team for first trial and second trial of the model respectively. Only 2 trials are allowed.
-        \n5. Final decision made by judges and organizers will be binding to all.
-        \n6. Each team should perform the 2 tasks as mentioned in the problem statement in the same sequence.
-        \n7. No alteration in any step will be allowed during the trial of the contraption.
-        \n8. A space of 2m*2m*3m (l*b*h) will be provided to each team.
-        \n9. Students should carry proof of identity issued by their institution.
-        \n10. Each team can have a maximum of 4 members.
-        \n11. Same person cannot be a member of more than one team. All teams involving common person as a participant will be disqualified. Participants are required to report at 7.30 a.m.
-        \n12. Participants should take due safety measures in their models.
-        \n13. Rules are subject to without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
-        \n14. All decisions of Judges, Event Heads and Organizers will be final and binding to all participants. No arguments shall be entertained.</string>
-
+        \n\n2. In the first trial, 3 hand touches are allowed without deduction of points. Before the fourth-hand touch one would be given choice to go for fourth hand touch or to go for second trial. For 4th, 5th and 6th 30, 60 and 120 points will be deducted respectively from the total score.
+        \n\n3. In case of second trial, 2 hand touches will be allowed with deduction of 50 and 80 points for each. Further average of two trials will be considered. The team will be disqualified if they exceed permissible number of hand touches in the respective trail.
+        \n\n4. A set-up time of 3 hours and 1 hour will be given for each team for first trial and second trial of the model respectively. Only 2 trials are allowed.
+        \n\n5. Final decision made by judges and organizers will be binding to all.
+        \n\n6. Each team should perform the 2 tasks as mentioned in the problem statement in the same sequence.
+        \n\n7. No alteration in any step will be allowed during the trial of the contraption.
+        \n\n8. A space of 2m*2m*3m (l*b*h) will be provided to each team.
+        \n\n9. Students should carry proof of identity issued by their institution.
+        \n\n10. Each team can have a maximum of 4 members.
+        \n\n11. Same person cannot be a member of more than one team. All teams involving common person as a participant will be disqualified. Participants are required to report at 7.30 a.m.
+        \n\n12. Participants should take due safety measures in their models.
+        \n\n13. Rules are subject to without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
+        \n\n14. All decisions of Judges, Event Heads and Organizers will be final and binding to all participants. No arguments shall be entertained.</string>
     <string name="event_rules_byldan">1. The most creative team presenting the brightest ideas wins.
-        \n2. The teams will be given a set amount of time for submission in first round failing which they will be disqualified.
-        \n3. Implementation of external ideas is allowed as long as source is mentioned.
-        \n4. All team members must come with valid college ID cards and registration receipt.
-        \n5. Presentation of designs will be done according to the serial number given to the particular team at the time of commencement of the event. Hence, no team should request for their design to be presented first.
-        \n6. The decision of the judges and the organizers will be final and binding to all.
-        \n7. Team members may be from different colleges. However, same person cannot be a part of multiple teams for the same event.
-        \n8. All teams must maintain decorum at all times. Organizers may disqualify any team that behaves inappropriately.
-        \n9. Rules may be changed without prior intimation. Participants are, therefore, requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
-    <string name="event_rules_ppt_comp_it">1. Standard Paper format: Paper must be in any STANDARD format. Paper should be essentially in a two-column format and should not exceed 15 pages. Paper should be in Times New Roman font of size 12. For headings, you can use bold and a font of size 16. Paper must contain index, abstract, introduction, point wise description of subject and conclusion and references at the end. Paper must be preceded by a cover page specifying the title of the paper, names of authors, their college names and their contact numbers and email ids.
-        \n2. All papers should have a bibliography/works-cited page and appropriate footnotes.
-        \n3. Papers omitting a bibliography or using plagiarized material will be automatically disqualified.
-        \n4. Paper submitted should be strictly in PDF Format.
-        \n5. For further details - an example paper in IEEE format and the cover page of the paper, please refer our website (www.mind-spark.org)
-        \n6. Abstract should not exceed 1 page and Paper should not exceed 15 pages. The subject of the mail with the attached abstract and later, the final paper should be the discipline under which the paper is categorized.
-        \n7. The mail should contain:
-        \n1. Title- theme of the paper.
-        \n2. Name of both the authors.
-        \n3. Phone no of both the authors.
-        \n4. Email ID.
-        \n8.Participants should submit the papers with in the due time. (before last day of submission, no late submissions will be entertained)
-        \n9.Teams selected for round two will be contacted personally.
-        \n10. Bring your college I-Card and registration receipt on event day. All teams and their respective members should reach the event place in time.
-        \n11. Please bring your power point presentation in a pen drive and mail the power point presentation on your own Email ID. Please bring 2 hard copies of the submitted paper on the day of the event. Paper and Power Point Presentation should be in 2010-2013 format.
-        \n12. The teams will get 10+2 minutes for presentation followed by a Q and A session.
-        \n13. Persons from different institutions can be a part of the same team. However, one person may not be a part of multiple teams for the same event.
-        \n14. Judges and organizers reserve the right to modify the rules without prior intimation.
-        \n15. Participants are required to check the updates for the same on the official MindSpark\'17 website. ( www.mind-spark.org). Participants can choose any number of topics and present their paper on the relevant topic.
-        \n16. Participants can present multiple papers, based on number of registrations they have done. Innovativeness of the topic under a theme will be given credit.
-        \n17. Original contribution to the paper will be highly encouraged. Only pure technical papers would be considered for short listing.
-        \n18. Use your discretion to judge whether your topic fits into the chosen theme.
-        \n19. The list of topics will be made available on site.</string>
+        \n\n2. The teams will be given a set amount of time for submission in first round failing which they will be disqualified.
+        \n\n3. Implementation of external ideas is allowed as long as source is mentioned.
+        \n\n4. All team members must come with valid college ID cards and registration receipt.
+        \n\n5. Presentation of designs will be done according to the serial number given to the particular team at the time of commencement of the event. Hence, no team should request for their design to be presented first.
+        \n\n6. The decision of the judges and the organizers will be final and binding to all.
+        \n\n7. Team members may be from different colleges. However, same person cannot be a part of multiple teams for the same event.
+        \n\n8. All teams must maintain decorum at all times. Organizers may disqualify any team that behaves inappropriately.
+        \n\n9. Rules may be changed without prior intimation. Participants are, therefore, requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string><string name="event_rules_ppt_comp_it">1. Standard Paper format: Paper must be in any STANDARD format. Paper should be essentially in a two-column format and should not exceed 15 pages. Paper should be in Times New Roman font of size 12. For headings, you can use bold and a font of size 16. Paper must contain index, abstract, introduction, point wise description of subject and conclusion and references at the end. Paper must be preceded by a cover page specifying the title of the paper, names of authors, their college names and their contact numbers and email ids.
+        \n\n2. All papers should have a bibliography/works-cited page and appropriate footnotes.
+        \n\n3. Papers omitting a bibliography or using plagiarized material will be automatically disqualified.
+        \n\n4. Paper submitted should be strictly in PDF Format.
+        \n\n5. For further details - an example paper in IEEE format and the cover page of the paper, please refer our website (www.mind-spark.org)
+        \n\n6. Abstract should not exceed 1 page and Paper should not exceed 15 pages. The subject of the mail with the attached abstract and later, the final paper should be the discipline under which the paper is categorized.
+        \n\n7. The mail should contain:
+        \ni. Title- theme of the paper.
+        \nii. Name of both the authors.
+        \niii. Phone no of both the authors.
+        \niv. Email ID.
+        \n\n8.Participants should submit the papers with in the due time. (before last day of submission, no late submissions will be entertained)
+        \n\n9.Teams selected for round two will be contacted personally.
+        \n\n10. Bring your college I-Card and registration receipt on event day. All teams and their respective members should reach the event place in time.
+        \n\n11. Please bring your power point presentation in a pen drive and mail the power point presentation on your own Email ID. Please bring 2 hard copies of the submitted paper on the day of the event. Paper and Power Point Presentation should be in 2010-2013 format.
+        \n\n12. The teams will get 10+2 minutes for presentation followed by a Q and A session.
+        \n\n13. Persons from different institutions can be a part of the same team. However, one person may not be a part of multiple teams for the same event.
+        \n\n14. Judges and organizers reserve the right to modify the rules without prior intimation.
+        \n\n15. Participants are required to check the updates for the same on the official MindSpark\'17 website. ( www.mind-spark.org). Participants can choose any number of topics and present their paper on the relevant topic.
+        \n\n16. Participants can present multiple papers, based on number of registrations they have done. Innovativeness of the topic under a theme will be given credit.
+        \n\n17. Original contribution to the paper will be highly encouraged. Only pure technical papers would be considered for short listing.
+        \n\n18. Use your discretion to judge whether your topic fits into the chosen theme.
+        \n\n19. The list of topics will be made available on site.</string>
     <string name="event_rules_ppt_mech_prod_meta">I. REGISTRATION
-        \nRegistration must be done along with the submission of abstract. Nobody is exempted from the registration fees. Multiple entries are allowed, however there shall be no concession offered for the second entry.
-        \nParticipants are requested to include their valid email address and contact number while registering for the event.
-        \nII. ABSTRACT AND PAPER
-        \n1. Format: The title should be written in Bold and in font size-20. Authors’ name, affiliation and subsections in paper must be of font size-14. The text must be of font size-12. Subsection titles must be bold and capital numbered in Roman Characters. The abstract should not exceed 700 words and the total paper length should not exceed four pages (including references).
+        \n\nRegistration must be done along with the submission of abstract. Nobody is exempted from the registration fees. Multiple entries are allowed, however there shall be no concession offered for the second entry.
+        \n\nParticipants are requested to include their valid email address and contact number while registering for the event.
+        \n\nII. ABSTRACT AND PAPER
+        \n\n1. Format: The title should be written in Bold and in font size-20. Authors’ name, affiliation and subsections in paper must be of font size-14. The text must be of font size-12. Subsection titles must be bold and capital numbered in Roman Characters. The abstract should not exceed 700 words and the total paper length should not exceed four pages (including references).
         \n*The font type ‘TIMES NEW ROMAN’ shall be used for the entire paper*
-        \n2. Submission: Researchers must submit their abstracts and full texts before the deadline. Abstracts submitted beyond the deadline will not be accepted. Students must submit their abstracts and papers in the PDF, however the original text may be written in Microsoft Word or LaTeX.
+        \n\n2. Submission: Researchers must submit their abstracts and full texts before the deadline. Abstracts submitted beyond the deadline will not be accepted. Students must submit their abstracts and papers in the PDF, however the original text may be written in Microsoft Word or LaTeX.
         \nResearchers shall send their abstracts and texts to ppt_mechprodmeta@mind-spark.org
-        \n3. Ethics: Papers must contain relevant and necessary bibliography. Work without references will be disqualified. Participants are required to submit a scanned copy of their valid college ID along with the abstract. The same, along with registration receipt, shall be produced at the time of the final round.
-        \n4. Research: Research work carried out in 2017 only will be accepted. The work, if already published in a journal/ conference, will not be accepted. The topics of research could be inter-disciplinary (please refer to FAQs for encouraged research areas)
-        \nIII. SELECTION AND PRESENTATION
-        \nThe decision of the review committee shall be final regarding the acceptance of submitted titles. Collaborative research is permitted provided the collaborators are students enrolled in the college in question. Fifteen minutes will be given for presentation in the final round. The presentation in the final round could be in .ppt(x) or .pdf (if prepared in LaTeX/ Overleaf).
+        \n\n3. Ethics: Papers must contain relevant and necessary bibliography. Work without references will be disqualified. Participants are required to submit a scanned copy of their valid college ID along with the abstract. The same, along with registration receipt, shall be produced at the time of the final round.
+        \n\n4. Research: Research work carried out in 2017 only will be accepted. The work, if already published in a journal/ conference, will not be accepted. The topics of research could be inter-disciplinary (please refer to FAQs for encouraged research areas)
+        \n\nIII. SELECTION AND PRESENTATION
+        \n\nThe decision of the review committee shall be final regarding the acceptance of submitted titles. Collaborative research is permitted provided the collaborators are students enrolled in the college in question. Fifteen minutes will be given for presentation in the final round. The presentation in the final round could be in .ppt(x) or .pdf (if prepared in LaTeX/ Overleaf).
         \n*The language of communication must be English*.
-        \nDEADLINES:
-        \nAbstract submission: 25th August 2017
-        \nFull Text Submission: 7th September
-        \nFinal Full Text submission: 14th September</string>
+        \n\nDEADLINES:
+        \n\nAbstract submission: 25th August 2017
+        \n\nFull Text Submission: 7th September
+        \n\nFinal Full Text submission: 14th September</string>
     <string name="event_rules_ppt_eei">1. Standard Paper format: Paper must be in any STANDARD format. Paper should be essentially in a two-column format and should not exceed 15 pages. Paper should be in Times New Roman font of size 12. For headings, you can use bold and a font of size 16. Paper must contain index, abstract, introduction, point wise description of subject and conclusion and references at the end. Paper must be preceded by a cover page specifying the title of the paper, names of authors, their college names and their contact numbers and email ids.
-        \n2. All papers should have a bibliography/works-cited page and appropriate footnotes.
-        \n3. Papers omitting a bibliography or using plagiarized material will be automatically disqualified.
-        \n4. Paper submitted should be strictly in PDF Format.
-        \n5. For further details - an example paper in IEEE format and the cover page of the paper, please refer our website (www.mind-spark.org)
-        \n6. Abstract should not exceed 1 page and Paper should not exceed 15 pages. The subject of the mail with the attached abstract and later, the final paper should be the discipline under which the paper is categorized.
-        \n7. The mail should contain:
-        \n1. Title- theme of the paper.
-        \n2. Name of both the authors.
-        \n3. Phone no of both the authors.
-        \n4. Email ID.
-        \n8.Participants should submit the papers with in the due time. (before last day of submission, no late submissions will be entertained)
-        \n9.Teams selected for round two will be contacted personally.
-        \n10. Bring your college I-Card and registration receipt on event day. All teams and their respective members should reach the event place in time.
-        \n11. Please bring your power point presentation in a pen drive and mail the power point presentation on your own Email ID. Please bring 2 hard copies of the submitted paper on the day of the event. Paper and Power Point Presentation should be in 2010-2013 format.
-        \n12. The teams will get 10+2 minutes for presentation followed by a Q and A session.
-        \n13. Persons from different institutions can be a part of the same team. However, one person may not be a part of multiple teams for the same event.
-        \n14. Judges and organizers reserve the right to modify the rules without prior intimation.
-        \n15. Participants are required to check the updates for the same on the official MindSpark\'17 website. ( www.mind-spark.org). Participants can choose any number of topics and present their paper on the relevant topic.
-        \n16. Participants can present multiple papers, based on number of registrations they have done. Innovativeness of the topic under a theme will be given credit.
-        \n17. Original contribution to the paper will be highly encouraged. Only pure technical papers would be considered for short listing.
-        \n18. Use your discretion to judge whether your topic fits into the chosen theme.
-        \n19. The list of topics will be made available on site.</string>
+        \n\n2. All papers should have a bibliography/works-cited page and appropriate footnotes.
+        \n\n3. Papers omitting a bibliography or using plagiarized material will be automatically disqualified.
+        \n\n4. Paper submitted should be strictly in PDF Format.
+        \n\n5. For further details - an example paper in IEEE format and the cover page of the paper, please refer our website (www.mind-spark.org)
+        \n\n6. Abstract should not exceed 1 page and Paper should not exceed 15 pages. The subject of the mail with the attached abstract and later, the final paper should be the discipline under which the paper is categorized.
+        \n\n7. The mail should contain:
+        \ni. Title- theme of the paper.
+        \nii. Name of both the authors.
+        \niii. Phone no of both the authors.
+        \niv. Email ID.
+        \n\n8.Participants should submit the papers with in the due time. (before last day of submission, no late submissions will be entertained)
+        \n\n9.Teams selected for round two will be contacted personally.
+        \n\n10. Bring your college I-Card and registration receipt on event day. All teams and their respective members should reach the event place in time.
+        \n\n11. Please bring your power point presentation in a pen drive and mail the power point presentation on your own Email ID. Please bring 2 hard copies of the submitted paper on the day of the event. Paper and Power Point Presentation should be in 2010-2013 format.
+        \n\n12. The teams will get 10+2 minutes for presentation followed by a Q and A session.
+        \n\n13. Persons from different institutions can be a part of the same team. However, one person may not be a part of multiple teams for the same event.
+        \n\n14. Judges and organizers reserve the right to modify the rules without prior intimation.
+        \n\n15. Participants are required to check the updates for the same on the official MindSpark\'17 website. ( www.mind-spark.org). Participants can choose any number of topics and present their paper on the relevant topic.
+        \n\n16. Participants can present multiple papers, based on number of registrations they have done. Innovativeness of the topic under a theme will be given credit.
+        \n\n17. Original contribution to the paper will be highly encouraged. Only pure technical papers would be considered for short listing.
+        \n\n18. Use your discretion to judge whether your topic fits into the chosen theme.
+        \n\n19. The list of topics will be made available on site.</string>
     <string name="event_rules_ppt_civil">1. Standard Paper format: Paper must be in any STANDARD format. Paper should be essentially in a two-column format and should not exceed 15 pages. Paper should be in Times New Roman font of size 12. For headings, you can use bold and a font of size 16. Paper must contain index, abstract, introduction, point wise description of subject and conclusion and references at the end. Paper must be preceded by a cover page specifying the title of the paper, names of authors, their college names and their contact numbers and email ids.
-        \n2. All papers should have a bibliography/works-cited page and appropriate footnotes.
-        \n3. Papers omitting a bibliography or using plagiarized material will be automatically disqualified.
-        \n4. Paper submitted should be strictly in PDF Format.
-        \n5. For further details - an example paper in IEEE format and the cover page of the paper, please refer our website (www.mind-spark.org)
-        \n6. Abstract should not exceed 1 page and Paper should not exceed 15 pages. The subject of the mail with the attached abstract and later, the final paper should be the discipline under which the paper is categorized.
-        \n7. The mail should contain:
-        \n1. Title- theme of the paper.
-        \n2. Name of both the authors.
-        \n3. Phone no of both the authors.
-        \n4. Email ID.
-        \n8.Participants should submit the papers with in the due time. (before last day of submission, no late submissions will be entertained)
-        \n9.Teams selected for round two will be contacted personally.
-        \n10. Bring your college I-Card and registration receipt on event day. All teams and their respective members should reach the event place in time.
-        \n11. Please bring your power point presentation in a pen drive and mail the power point presentation on your own Email ID. Please bring 2 hard copies of the submitted paper on the day of the event. Paper and Power Point Presentation should be in 2010-2013 format.
-        \n12. The teams will get 10+2 minutes for presentation followed by a Q and A session.
-        \n13. Persons from different institutions can be a part of the same team. However, one person may not be a part of multiple teams for the same event.
-        \n14. Judges and organizers reserve the right to modify the rules without prior intimation.
-        \n15. Participants are required to check the updates for the same on the official MindSpark\'17 website. ( www.mind-spark.org). Participants can choose any number of topics and present their paper on the relevant topic.
-        \n16. Participants can present multiple papers, based on number of registrations they have done. Innovativeness of the topic under a theme will be given credit.
-        \n17. Original contribution to the paper will be highly encouraged. Only pure technical papers would be considered for short listing.
-        \n18. Use your discretion to judge whether your topic fits into the chosen theme.
-        \n19. The list of topics will be made available on site.</string>
-
+        \n\n2. All papers should have a bibliography/works-cited page and appropriate footnotes.
+        \n\n3. Papers omitting a bibliography or using plagiarized material will be automatically disqualified.
+        \n\n4. Paper submitted should be strictly in PDF Format.
+        \n\n5. For further details - an example paper in IEEE format and the cover page of the paper, please refer our website (www.mind-spark.org)
+        \n\n6. Abstract should not exceed 1 page and Paper should not exceed 15 pages. The subject of the mail with the attached abstract and later, the final paper should be the discipline under which the paper is categorized.
+        \n\n7. The mail should contain:
+        \ni. Title- theme of the paper.
+        \nii. Name of both the authors.
+        \niii. Phone no of both the authors.
+        \niv. Email ID.
+        \n\n8.Participants should submit the papers with in the due time. (before last day of submission, no late submissions will be entertained)
+        \n\n9.Teams selected for round two will be contacted personally.
+        \n\n10. Bring your college I-Card and registration receipt on event day. All teams and their respective members should reach the event place in time.
+        \n\n11. Please bring your power point presentation in a pen drive and mail the power point presentation on your own Email ID. Please bring 2 hard copies of the submitted paper on the day of the event. Paper and Power Point Presentation should be in 2010-2013 format.
+        \n\n12. The teams will get 10+2 minutes for presentation followed by a Q and A session.
+        \n\n13. Persons from different institutions can be a part of the same team. However, one person may not be a part of multiple teams for the same event.
+        \n\n14. Judges and organizers reserve the right to modify the rules without prior intimation.
+        \n\n15. Participants are required to check the updates for the same on the official MindSpark\'17 website. ( www.mind-spark.org). Participants can choose any number of topics and present their paper on the relevant topic.
+        \n\n16. Participants can present multiple papers, based on number of registrations they have done. Innovativeness of the topic under a theme will be given credit.
+        \n\n17. Original contribution to the paper will be highly encouraged. Only pure technical papers would be considered for short listing.
+        \n\n18. Use your discretion to judge whether your topic fits into the chosen theme.
+        \n\n19. The list of topics will be made available on site.</string>
     <string name="event_rules_search_n_destroy">Competition:
-        \n1. Each contesting team will be given 2 minutes as dry run on arena before the match.
-        \n2. In dry run, team can calibrate sensors and can explore the entire arena.
-        \n3. After dry run, programming of robot is not allowed.
-        \n4. The starting procedure of the bot should be simple and should not involve giving the bot any manual force or impulse in any direction.
-        \n5. Duration of match is 4 minutes.
-        \n6. Once match is started only one member of each team i.e. the operator will be allowed to enter the arena after permission from organizers.
-        \n7. The match shall start from the start box. The machine will start in only one direction as specified by the organizers. It cannot start in either direction. The operator may abort run at any time.
-        \n8. The robot should not physically damage the path and the box.
-        \n9. The team that scores maximum points wins.
-        \nHand Touch:
-        \n1. If an operator touches the robot during run, this will be considered as a hand-touch and the robot must be put back at the last restart or checkpoint crossed. (Robot can be removed after completion of match, i.e. after placing the box.)
-        \n2. The operator can take any number of hand touches with prior permission from judge. There is NO penalty for a hand touch (with prior permission) though the robot must be placed back at the start or last checkpoint crossed.
-        \n3. Even if a participant takes a hand touch, the clock will keep running and will not be reset as the robot starts again from the previous restart point.
-        \n4. If a robot ‘gets into trouble’ the operator can ask the judge for permission to take a hand touch and restart the robot at start or last checkpoint. If the operator touches the robot without prior permission of the judge during run time, 10 points will be deducted.
-        \nGeneral Rules:
-        \n1. Any team that is not ready at the time specified will be disqualified from the competition automatically. Programming of bot is not allowed once the competition starts.
-        \n2. The machine will be checked for its safety before the match and will be discarded if found unsafe for other participants and spectators.
-        \n3. It should not make any marks on the floor of the arena. Any robot found damaging the arena will be immediately disqualified.
-        \n4. Only one member of the team is allowed to handle the robot.
-        \n5. Participants are not allowed to keep anything inside the arena other than its autonomous robot.
-        \n6. Laptops/personal computers are not allowed near the arena. Other Wi-Fi, Bluetooth, etc. devices must be switched off. The organizers hold the right to check for these devices and their usage.
-        \n7. No robot can use any flammable, combustible, explosive or potentially dangerous processes.
-        \n8. Only two switches can be present on the bot.
-        \n9. The time measured by the organizers will be final and will be used for scoring the teams. Time measured by any contestant by any other means is not acceptable for scoring.
-        \n10. Operator must wear socks.
-        \n11. In case of any disputes/discrepancies, the organizers‟ decision will be final and binding. The organizers reserve the rights to change any or all of the above rules as they deem fit.
-        \n12. Change in rules, if any, will be highlighted on the official MindSpark’17 website(www.mind-spark.org). Participants are requested to check the website regularly for updates.</string>
+        \n\n1. Each contesting team will be given 2 minutes as dry run on arena before the match.
+        \n\n2. In dry run, team can calibrate sensors and can explore the entire arena.
+        \n\n3. After dry run, programming of robot is not allowed.
+        \n\n4. The starting procedure of the bot should be simple and should not involve giving the bot any manual force or impulse in any direction.
+        \n\n5. Duration of match is 4 minutes.
+        \n\n6. Once match is started only one member of each team i.e. the operator will be allowed to enter the arena after permission from organizers.
+        \n\n7. The match shall start from the start box. The machine will start in only one direction as specified by the organizers. It cannot start in either direction. The operator may abort run at any time.
+        \n\n8. The robot should not physically damage the path and the box.
+        \n\n9. The team that scores maximum points wins.
+        \n\nHand Touch:
+        \n\n1. If an operator touches the robot during run, this will be considered as a hand-touch and the robot must be put back at the last restart or checkpoint crossed. (Robot can be removed after completion of match, i.e. after placing the box.)
+        \n\n2. The operator can take any number of hand touches with prior permission from judge. There is NO penalty for a hand touch (with prior permission) though the robot must be placed back at the start or last checkpoint crossed.
+        \n\n3. Even if a participant takes a hand touch, the clock will keep running and will not be reset as the robot starts again from the previous restart point.
+        \n\n4. If a robot ‘gets into trouble’ the operator can ask the judge for permission to take a hand touch and restart the robot at start or last checkpoint. If the operator touches the robot without prior permission of the judge during run time, 10 points will be deducted.
+        \n\nGeneral Rules:
+        \n\n1. Any team that is not ready at the time specified will be disqualified from the competition automatically. Programming of bot is not allowed once the competition starts.
+        \n\n2. The machine will be checked for its safety before the match and will be discarded if found unsafe for other participants and spectators.
+        \n\n3. It should not make any marks on the floor of the arena. Any robot found damaging the arena will be immediately disqualified.
+        \n\n4. Only one member of the team is allowed to handle the robot.
+        \n\n5. Participants are not allowed to keep anything inside the arena other than its autonomous robot.
+        \n\n6. Laptops/personal computers are not allowed near the arena. Other Wi-Fi, Bluetooth, etc. devices must be switched off. The organizers hold the right to check for these devices and their usage.
+        \n\n7. No robot can use any flammable, combustible, explosive or potentially dangerous processes.
+        \n\n8. Only two switches can be present on the bot.
+        \n\n9. The time measured by the organizers will be final and will be used for scoring the teams. Time measured by any contestant by any other means is not acceptable for scoring.
+        \n\n10. Operator must wear socks.
+        \n\n11. In case of any disputes/discrepancies, the organizers‟ decision will be final and binding. The organizers reserve the rights to change any or all of the above rules as they deem fit.
+        \n\n12. Change in rules, if any, will be highlighted on the official MindSpark’17 website(www.mind-spark.org). Participants are requested to check the website regularly for updates.</string>
     <string name="event_rules_robowars">General:
-        \n1. Participants should build a single robot.
-        \n2. Robots will be tested for dimensions and safety before each match.
-        \n3. Violation of rules will lead to disqualification of the respective team.
-        \n4. Points will be deducted in case of multiple operators in a single match.
-        \n5. The organizers reserve the rights to change any or all the above rules as they deem fit.
-        \n6.In case of a match resulting in a tie, rematch of 2 minutes will be played. If further tie occurs team scoring highest points in first 3 minutes of the main match will be declared as a winner.
-        \nCriteria for Victory:
+        \n\n1. Participants should build a single robot.
+        \n\n2. Robots will be tested for dimensions and safety before each match.
+        \n\n3. Violation of rules will lead to disqualification of the respective team.
+        \n\n4. Points will be deducted in case of multiple operators in a single match.
+        \n\n5. The organizers reserve the rights to change any or all the above rules as they deem fit.
+        \n\n6.In case of a match resulting in a tie, rematch of 2 minutes will be played. If further tie occurs team scoring highest points in first 3 minutes of the main match will be declared as a winner.
+        \n\nCriteria for Victory:
         \n1. A robot is declared victorious if its opponent is immobilized.
         \n2. A robot will be declared immobile if it cannot show linear or rotational motion of at least one foot within a time of 30 seconds.
         \na) A robot with one side of its drive train disabled will not be counted immobilized, if it can demonstrate some degree of controlled movement.
         \nb) In case both the robots remain mobile after the end of the round then the winner will be decided subjectively.
-        \n3. Points will be given based on aggression, damage, control and strategy, fall in the pit.
-        \nAggression:
+        \n\n3. Points will be given based on aggression, damage, control and strategy, fall in the pit.
+        \n\nAggression:
         \nAggression is judged by the frequency, severity, boldness and effectiveness of attacks deliberately initiated by the robot against its opponent. If a robot appears to have accidentally attacked an opponent, that act will not be considered Aggression.
-        \nControl:
+        \n\nControl:
         \nControl means a robot can attack an opponent at its weakest point, use its weapons in the most effective way, avoid Arena Hazards, and minimize the damage caused by the opponent or its weapons.
-        \nDamage:
+        \n\nDamage:
         \nThrough deliberate action, a robot either directly, or indirectly using the Arena Hazards, reduces the functionality, effectiveness or defensibility of an opponent. Damage is not considered relevant if a robot inadvertently harms itself. Also, if a pressure vessel or a rapidly spinning device on a robot fragments, any damage to the opponent will not be considered "deliberate".
-        \nStrategy:
+        \n\nStrategy:
         \nThe robot exhibits a combat plan that exploits the robot\'s strengths against the weaknesses of its opponent. Strategy is also defined as a robot exhibiting a deliberate defense plan that guards its weaknesses against the strengths of the opponent. Strategy can also involve using the Arena Hazards to gain an advantage.
-        \nDisqualification:
-        \n1. Robots intentionally damaging the wires of the opponent will be disqualified.
-        \n2. Robots intentionally and extensively damaging the arena will be disqualified.
-        \n3. If the wires of robot are cut because of its own strategy and if fail to repair within match time then the team will be disqualified.
-        \nNote: There is no separate point allocation to the opposition in case if the bot is pushed or is stuck within the pit area.
-        \nGame Field:
+        \n\nDisqualification:
+        \n\n1. Robots intentionally damaging the wires of the opponent will be disqualified.
+        \n\n2. Robots intentionally and extensively damaging the arena will be disqualified.
+        \n\n3. If the wires of robot are cut because of its own strategy and if fail to repair within match time then the team will be disqualified.
+        \n\nNote: There is no separate point allocation to the opposition in case if the bot is pushed or is stuck within the pit area.
+        \n\nGame Field:
         \n1. Outer part of the field is a hexagon of side 3810mm (300 in) in having inner hexagon of side 298 in (actual game field).
         \n2. There is starting zone of size 750 x 750mm.
         \n3. Material used for game field will be made of plywood.
-        \n4. There will be a safety wall provided around the game field. Height of safety wall will be 1.5 meters and it will be made up of fence and acrylic.</string>
-        \nDepth of the pit will be around 60mm-80mm and the size of each pit is 3824 x 100 mm2
-        \nBot Dimensions and Fabrications:
-        \n1. The robot should fit in the box of 750 mm x 750 mm x 1000 mm (l x b x h) always.
-        \nNote: The external device used to control the robot or any external tank is not included in the size constraint.
-        \n2. The robot should not exceed 40 kg of weight including the weight of pneumatic source/tank. If the tank is external, its weight would be considered 1.5 times its actual weight.
-        \n3. Weight of wireless robots and robots having on-board power supply will be counted as 0.6 times the actual weight of robot.
-        \n4. Weight of the remote controller and adapter will be considered.
-        \nMotion of the Robot:
-        \n1. Jumping and hopping is not allowed.
-        \n2. Flying (using air-foil, helium balloons, ornithopters etc.) is not allowed.
-        \n  Control of Robot:
-        \n1. Robot can have a wired or wireless control.
-        \n2. Off board power supplies are allowed.
-        \n3. If the machine is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the machine should be stacked as a single unit. The wires should be properly insulated. Minimum length of wire should be 5 meters.
-        \n4. In case of wireless control the case of frequency interference with other teams will not be considered for rematch or for result.
-        \n5. The control wires should be drawn 1 meter above the ground.
-        \nBattery and Power:
-        \n1. The machine can be powered electrically only. Use of an IC engine in any form is not allowed. On board Batteries, must be sealed, immobilized-electrolyte types (such as gel cells, lithium, NiCad, NiMH, or dry cells).
-        \n2. The electric voltage between 2 points anywhere in the machine should not be more than 36 V DC at any point of time. If a team is using AC voltage in any of its parts, then the voltage should not exceed 36 V AC at any point of time as well.
-        \n3. All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification.
-        \n4. Use of damaged, non-leak proof batteries may lead to disqualification.
-        \n5. Special care should be taken to protect the on-board batteries.
-        \n6. Change of battery will not be allowed during the match.
-        \nHydraulics:
-        \n1. Robot can use non-inflammable liquid to actuate hydraulic devices.
-        \n2. All hydraulic components on-board a robot must be securely mounted.
-        \n3. Special care must be taken while mounting pump, accumulator and armour to escape the robot.
-        \n4. Whole hydraulic systems should be leak proof. Maximum allowed pressure is 8 bars.
-        \n5. Participant must be able to indicate the used pressure with integrated or temporarily fitted pressure gauge.
-        \nPneumatics:
-        \n1. Robot can use pressurized non-inflammable gases to actuate pneumatic devices. Maximum allowed outlet pressure is 8 bars. The storage tank and pressure regulators used by teams need to be certified. Teams using pneumatics are required to produce the Safety and Security letters at the registration Desk at the venue. Failing to do so will lead to direct disqualification.
-        \n2. Participants must be able to indicate the used pressure with integrated or temporarily fitted pressure gauge. Also, there should be provision to check the cylinder pressure on the bot.
-        \n3. You must have a safe way of refilling the system and determining the on-board pressure. All pneumatic components on board a robot must be securely mounted. Care must be taken while mounting the pressure vessel and armor to ensure that if ruptured it will not escape the robot. Failing to do so will lead to direct disqualification.
-        \nWeapons:
-        \nRobots can have any kind of cutters, flippers, saws, lifting devices, spinning hammers as weapons. Exceptions and Limitations for weapons:
-        \n1. Liquid projectiles.
-        \n2. Any kind of inflammable liquid.
-        \n3. Flame-based weapons.
-        \n4. Any kind of explosive or intentionally ignited solid or potentially ignitable solid.
-        \n5. Nets, tape, glue, chains or any other entanglement device.
-        \n6. High power magnets or electromagnets.
-        \n7. Radio jamming, lasers, tesla coils, or any other high-voltage device.
-        \n8. Tethered or un-tethered projectiles.
-        \n9. Spinning weapons which do not meet the arena at any point of time are allowed. In any case the arena should not be damaged by any bot.
-        \nSafety Rules:
-        \n1. Special care should be taken to protect the on-board batteries and pneumatics, robot without proper protection will not be allowed to compete.
-        \n2. Robots must be activated in the arena or with expressed consent of the event coordinators.
-        \n3. All weapons must have a safety cover on any sharp edges.
-        \n4. All participants build and operate robots at their own risk. Please take care to not hurt yourself or others when building, testing and competing. Organizers will not be responsible for any injuries to operator or team members.
-        \nA robot that is deemed unsafe by the judges after the match has begun will be disqualified and therefore declared the loser. The match will be immediately halted and the opponent will be awarded a win.
-        \nJudges and Event Head\'s decision will be treated as final and binding to all.
+        \n4. There will be a safety wall provided around the game field. Height of safety wall will be 1.5 meters and it will be made up of fence and acrylic.
+    \nDepth of the pit will be around 60mm-80mm and the size of each pit is 3824 x 100 mm2
+    \n\nBot Dimensions and Fabrications:
+    \n1. The robot should fit in the box of 750 mm x 750 mm x 1000 mm (l x b x h) always.
+    \n\nNote: The external device used to control the robot or any external tank is not included in the size constraint.
+    \n2. The robot should not exceed 40 kg of weight including the weight of pneumatic source/tank. If the tank is external, its weight would be considered 1.5 times its actual weight.
+    \n3. Weight of wireless robots and robots having on-board power supply will be counted as 0.6 times the actual weight of robot.
+    \n4. Weight of the remote controller and adapter will be considered.
+    \n\nMotion of the Robot:
+    \n1. Jumping and hopping is not allowed.
+    \n2. Flying (using air-foil, helium balloons, ornithopters etc.) is not allowed.
+    \n\nControl of Robot:
+    \n1. Robot can have a wired or wireless control.
+    \n2. Off board power supplies are allowed.
+    \n3. If the machine is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the machine should be stacked as a single unit. The wires should be properly insulated. Minimum length of wire should be 5 meters.
+    \n4. In case of wireless control the case of frequency interference with other teams will not be considered for rematch or for result.
+    \n5. The control wires should be drawn 1 meter above the ground.
+    \n\nBattery and Power:
+    \n1. The machine can be powered electrically only. Use of an IC engine in any form is not allowed. On board Batteries, must be sealed, immobilized-electrolyte types (such as gel cells, lithium, NiCad, NiMH, or dry cells).
+    \n2. The electric voltage between 2 points anywhere in the machine should not be more than 36 V DC at any point of time. If a team is using AC voltage in any of its parts, then the voltage should not exceed 36 V AC at any point of time as well.
+    \n3. All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification.
+    \n4. Use of damaged, non-leak proof batteries may lead to disqualification.
+    \n5. Special care should be taken to protect the on-board batteries.
+    \n6. Change of battery will not be allowed during the match.
+    \n\nHydraulics:
+    \n1. Robot can use non-inflammable liquid to actuate hydraulic devices.
+    \n2. All hydraulic components on-board a robot must be securely mounted.
+    \n3. Special care must be taken while mounting pump, accumulator and armour to escape the robot.
+    \n4. Whole hydraulic systems should be leak proof. Maximum allowed pressure is 8 bars.
+    \n5. Participant must be able to indicate the used pressure with integrated or temporarily fitted pressure gauge.
+    \n\nPneumatics:
+    \n1. Robot can use pressurized non-inflammable gases to actuate pneumatic devices. Maximum allowed outlet pressure is 8 bars. The storage tank and pressure regulators used by teams need to be certified. Teams using pneumatics are required to produce the Safety and Security letters at the registration Desk at the venue. Failing to do so will lead to direct disqualification.
+    \n2. Participants must be able to indicate the used pressure with integrated or temporarily fitted pressure gauge. Also, there should be provision to check the cylinder pressure on the bot.
+    \n3. You must have a safe way of refilling the system and determining the on-board pressure. All pneumatic components on board a robot must be securely mounted. Care must be taken while mounting the pressure vessel and armor to ensure that if ruptured it will not escape the robot. Failing to do so will lead to direct disqualification.
+    \n\nWeapons:
+    \nRobots can have any kind of cutters, flippers, saws, lifting devices, spinning hammers as weapons. Exceptions and Limitations for weapons:
+    \n1. Liquid projectiles.
+    \n2. Any kind of inflammable liquid.
+    \n3. Flame-based weapons.
+    \n4. Any kind of explosive or intentionally ignited solid or potentially ignitable solid.
+    \n5. Nets, tape, glue, chains or any other entanglement device.
+    \n6. High power magnets or electromagnets.
+    \n7. Radio jamming, lasers, tesla coils, or any other high-voltage device.
+    \n8. Tethered or un-tethered projectiles.
+    \n9. Spinning weapons which do not meet the arena at any point of time are allowed. In any case the arena should not be damaged by any bot.
+    \n\nSafety Rules:
+    \n1. Special care should be taken to protect the on-board batteries and pneumatics, robot without proper protection will not be allowed to compete.
+    \n2. Robots must be activated in the arena or with expressed consent of the event coordinators.
+    \n3. All weapons must have a safety cover on any sharp edges.
+    \n4. All participants build and operate robots at their own risk. Please take care to not hurt yourself or others when building, testing and competing. Organizers will not be responsible for any injuries to operator or team members.
+    \nA robot that is deemed unsafe by the judges after the match has begun will be disqualified and therefore declared the loser. The match will be immediately halted and the opponent will be awarded a win.
+    \nJudges and Event Head\'s decision will be treated as final and binding to all.
+    </string>
     <string name="event_rules_dog_fight">Violations:
         \n• At any time, if the wire is seen to be pulling the robot, it will be considered as violation.
         \n• Any part of the robot extending out of arena will lead to violation.
@@ -1201,11 +1200,11 @@
         \n• Any part of MR extending in AR zone (Except while depositing message Block) and any part of AR in MR zone will be considered as violation.
         \n• MR of one team touching MR of another team will be considered as violation (except when in the Grey Zone).
         \n• MR running in opponent"\'"s area beyond grey zone will be violation. Every violation will cost the team „-5‟ points. Five points will be deducted for every violation.
-        \nRestart Rules:
+        \n\nRestart Rules:
         \n• For both robots unlimited number of retry will be allowed.
         \n• The operators will first have to ask the judges for a hand-touch/restart and take the hand-touch/restart only when allowed. The M.R. or A.R. can restart from either start zone or checkpoint after the hand touch. Once the team has cleared the checkpoint, the operators are allowed to choose whether they want to restart from the start zone or the check point.
         \n• The orientation of the robot after the hand-touch will be decided by the judges. The timer will continue to run in this period and the other team will continue.
-        \nGeneral Rules:
+        \n\nGeneral Rules:
         \n• If the machine is stuck or rendered immobile and cannot proceed further on its own, the hand touch will be allowed. If both the robots are stuck, then hand touch is allowed only when both the manual operators want to take hand touch. MR can pick the message block only after AR deposits the message block in the area with yellow border.
         \n• In case, the wires of the Manual Robots of both the teams getting entangled with each other, the judges will call for a time-out in the game. The Manual Robots will be restarted from the same position after the wires have been sorted out and the autonomous robot will continue its work till it calls for retry but retry will not be given till the wires of manual robots have been sorted out.
         \n• At each hand-touch, all the objects in touch with the robot of that team (except for the ones already deposited) will be returned to their original positions.
@@ -1221,7 +1220,7 @@
         \n• Judges‟ decision shall be treated as final and binding to all.
         \n• The organizers reserve the rights to change any or all of the above rules as they deem fit.
         \n• Change in rules, if any, will be highlighted on the website. Readymade Robots are not allowed, but readymade sensors kits are allowed.
-        \nSafety Rules:
+        \n\nSafety Rules:
         \n• Use of fire, water, spraying chemicals is not allowed. This would lead to immediate disqualification of the team.
         \n• The robot can block the opponent’s robot only by pushing/pulling or lifting the opponent’s robot. However, the robot is not allowed to destroy the opponent’s robot.
         \n• NO mechanism should be used to attack the opponent’s robot or cause any harm to the opponent’s robot or its wires or to the arena. Doing so will lead to disqualification. The judges’ decision in this matter will be final and binding.
@@ -1229,7 +1228,7 @@
         \n• Jamming of RF control signals is NOT allowed. Teams MUST inform the judges about the RF signals involved in its robot during the Registration of the robot and before the start of the game.
         \n• No deliberate damage must be done to the arena. The mechanism to carry objects should NOT damage them and any part of the Arena. Any damage caused after prior warning has been given will lead to disqualification.
         \n• Decision of Mind Spark team will be considered as final in case of any dispute.
-        \nMiscellaneous:
+        \n\nMiscellaneous:
         \n• Total game field is of the size 5000x5000 mm.
         \n• Game field is surrounded by walls of 20 mm thick and 200 mm height.
         \n• Arena is symmetrically divided into two ideal parts, Blue and Red except the common area in MR zone.
@@ -1241,7 +1240,7 @@
         \n• The dimensions of static objects in the Arena may change subject to manufacturing difficulties.
         \n• 5% bidirectional tolerance applicable to all the static objects in the arena.
         \n• Any change in the arena will be informed to participants and will be highlighted on website.
-        \nMachine Specifications:
+        \n\nMachine Specifications:
         \n• Only one MR and one AR is allowed. The Robot can’t separate into two connected by just a wire.
         \n• The combined weight of the MR and AR (including batteries and Pneumatic reservoirs) should NOT exceed 15 kg.
         \n• The MR should fit in the box of 500*500*500mm. It should fit in the MR Start zone at the beginning of the game.
@@ -1256,16 +1255,16 @@
         \n• All pneumatic components on board a robot must be securely mounted. Care must be taken while mounting the pressure vessel and armour to ensure that if ruptured it will not escape the robot.
         \n• The control for the machines can be wired or wireless. There can be only one Manual Operator for the MR and only one Autonomous operator for the AR in a particular match. In case of Wireless Controls, the participants are requested to use dual channel remotes so that there are no issues of interference during the event. The remote control and wires will not be included in the machine sizes.
         \n• The minimum length of wire extending from the robot up to remote should be 4 meter. The wire should always be in slacked condition.
-        \nCompetition Structure:
-        \nElimination Round:
+        \n\nCompetition Structure:
+        \n\nElimination Round:
         \n• Each team will be given total time of 4 minutes. Only one team will play at a time. They have to complete the task and score maximum points during this round.
         \n• Teams will be ranked according to following preferences:
         \n• Task completion.
         \n• Scores in the elimination round.
         \n• The top 16 teams will qualify for the next round.
         \n• The score of the team from the elimination round will not be considered in the next round.
-        \nKnock-Out Round:
-        \nThe knock-out round will start with top 16 teams. Each match will last for maximum 4 minutes.
+        \n\nKnock-Out Round:
+        \n The knock-out round will start with top 16 teams. Each match will last for maximum 4 minutes.
         \n• A team, once registered, cannot register again, even with a different name.
         \n• A team may consist of a maximum of 5 members.
         \n• All students with a valid identity card of their respective educational institutes are eligible to participate.
@@ -1281,11 +1280,11 @@
         \n7. Proper protection majors from short-circuiting of batteries are required to be taken by participants for the safety of everyone present at arena.
         \n8. The time measured by the organizers will be final and will be used for scoring the teams. Time measured by any contestant by any other means is not acceptable for scoring.
         \n9. In case of any disputes/discrepancies, the organizers’ decision will be final and binding. The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any, will be highlighted on the website and notified to the registered teams.
-        \nHand Touch:
+        \n\nHand Touch:
         \n1. No hand touches are allowed in between the matches unless both the operators of the respective robots want a restart.
         \n2. If a restart is taken then both the robots will be placed back in their respective starting zones.
         \n3. Even if a participant takes a hand touch, the clock will keep running and will not be reset as the robots start again from the starting points.
-        \nRULES:
+        \n\nRULES:
         \n1. Qualifier Matches: Each match consists of 1 round.
         \n2. Knockout Matches: Each match consists best of 3 rounds.
         \n3. Before the match 1minute setting time will be given. The run time clock will commence after that 1minute time limit even if the handler is still making adjustments to the robots.
@@ -1299,151 +1298,145 @@
         \n11. Judges’ decision shall be treated as final and binding on all.
         \n12. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 (www.mind-spark.org) website regularly for update.</string>
     <string name="event_rules_virtual_robotics">1. The contestants must carry identification cards of their respective educational institutes.
-        \n2. Contestants from different educational institutes can participate as a team.
-        \n3. Contestants can register multiple times provided that no two designs belong to the same theme, however each registration will be treated separately.
-        \n4. The decision of the Judges’ and the event heads’ will be final and binding to all.</string>
-
+        \n\n2. Contestants from different educational institutes can participate as a team.
+        \n\n3. Contestants can register multiple times provided that no two designs belong to the same theme, however each registration will be treated separately.
+        \n\n4. The decision of the Judges’ and the event heads’ will be final and binding to all.</string>
     <string name="event_rules_the_amazing_race">1. The team has complete discretion in formulating and applying all rules and penalties. These rules may be modified or altered at the discretion of the Amazing Race Team, as required.
-        \n2. The Participants are expected to follow all the rules and regulations laid by the Motor Vehicles Act. Violations will result in disqualification of the team. Each team would only be allowed to take part after producing a valid permanent driving license.
-        \n3. If any information provided by the team is found to be false or incorrect, the team will be disqualified.
-        \n4. The timings recorded by The Amazing Race volunteers would be deemed final and any arguments with respect to the recorded time will not be entertained.
-        \n5. Physical damage or irresponsible handling such as tearing in part or totality of the checkpoint list will lead to disqualification.
-        \n6. The team spotted littering or throwing garbage along the route of the race, or altering or tampering unnecessarily with any of the natural surroundings will be disqualified.
-        \n7. No outside (non- team member) support is allowed between the start and finish lines of the race. Only the team is allowed in any official race area. 8. Event organizers reserve the right to prohibit a competitor from starting or finishing any segment of the Race on medical grounds. Any such decision of the Race committee is final and binding to everyone involved. 9. No person can be a part of multiple teams for this event. In case of any clashes, the organizers of the event will not be responsible. 10. No two teams will be allowed to work on a particular problem together. It is a competition and ultimately each one has to compete with each other. 11. Participants are requested to strictly follow traffic rules. In case of traffic violation, The Amazing Race team will not help/ be responsible for any further consequences. 12. The Amazing Race Team reserves the right to impose time penalties or to disqualify teams for violation of any of these rules, contrary to the best interest of the event. Failure of any team member or a team to immediately and respectfully comply, with any direction or decision of the organizers, will result in disqualification of the team. 13. MindSpark’17 team will not be responsible for any damage done to people, property or vehicles. The damage has to be reimbursed by the participant in concern. 14. Some essentials for the event include smartphones with cameras, and other such necessary applications. These will be beneficial for the participants during the event and the participants are requested to carry these with them on their personal responsibility. 15. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for further updates.</string>
-    <string name="event_rules_bull_run">1. This event shall be an open-internet event. Therefore, use of mobile phones and other electronic devices are permitted.
-        \n2. At the start of Round 1, participants shall be given ₹20,00,000/-, in virtual money, and the same ₹20,00,000/- shall be given for Round 2. NOTE: If you have money left from Round 1, it will NOT be added in Round 2.
-        \n3. Based on the information that will be given to the participants, they will have to buy and/or sell shares of various companies, to earn maximum profits.
-        \n4. Round 1 will be taking place in various slots. Therefore, participants must ensure that their contact information is valid, so as to allow us to inform you well in advance regarding any changes to the timings of your slots.
-        \n5.This event will feature a Live Simulation of the stock market; wherein constant updates will be given to the participants during the event. Participants must check these updates and accordingly, make their necessary decisions.
-        \n6. Participants must always have their College ID and their registration receipts with them, and must be shown if asked.
-        \n7. In case of any dispute, the decision of both the judges and the organizers shall be final and binding to all.
-        \n8. Rules may be changed without any prior intimation to the participants. Therefore, participants must ensure that they regularly check the MindSpark’17 website (www.mind-spark.org) for all updates.
-        \n9. All undergraduate and postgraduate students are allowed to participate.</string>
+        \n\n2. The Participants are expected to follow all the rules and regulations laid by the Motor Vehicles Act. Violations will result in disqualification of the team. Each team would only be allowed to take part after producing a valid permanent driving license.
+        \n\n3. If any information provided by the team is found to be false or incorrect, the team will be disqualified.
+        \n\n4. The timings recorded by The Amazing Race volunteers would be deemed final and any arguments with respect to the recorded time will not be entertained.
+        \n\n5. Physical damage or irresponsible handling such as tearing in part or totality of the checkpoint list will lead to disqualification.
+        \n\n6. The team spotted littering or throwing garbage along the route of the race, or altering or tampering unnecessarily with any of the natural surroundings will be disqualified.
+        \n\n7. No outside (non- team member) support is allowed between the start and finish lines of the race. Only the team is allowed in any official race area. 8. Event organizers reserve the right to prohibit a competitor from starting or finishing any segment of the Race on medical grounds. Any such decision of the Race committee is final and binding to everyone involved. 9. No person can be a part of multiple teams for this event. In case of any clashes, the organizers of the event will not be responsible. 10. No two teams will be allowed to work on a particular problem together. It is a competition and ultimately each one has to compete with each other. 11. Participants are requested to strictly follow traffic rules. In case of traffic violation, The Amazing Race team will not help/ be responsible for any further consequences. 12. The Amazing Race Team reserves the right to impose time penalties or to disqualify teams for violation of any of these rules, contrary to the best interest of the event. Failure of any team member or a team to immediately and respectfully comply, with any direction or decision of the organizers, will result in disqualification of the team. 13. MindSpark’17 team will not be responsible for any damage done to people, property or vehicles. The damage has to be reimbursed by the participant in concern. 14. Some essentials for the event include smartphones with cameras, and other such necessary applications. These will be beneficial for the participants during the event and the participants are requested to carry these with them on their personal responsibility. 15. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for further updates.</string><string name="event_rules_bull_run">1. This event shall be an open-internet event. Therefore, use of mobile phones and other electronic devices are permitted.
+        \n\n2. At the start of Round 1, participants shall be given ₹20,00,000/-, in virtual money, and the same ₹20,00,000/- shall be given for Round 2. NOTE: If you have money left from Round 1, it will NOT be added in Round 2.
+        \n\n3. Based on the information that will be given to the participants, they will have to buy and/or sell shares of various companies, to earn maximum profits.
+        \n\n4. Round 1 will be taking place in various slots. Therefore, participants must ensure that their contact information is valid, so as to allow us to inform you well in advance regarding any changes to the timings of your slots.
+        \n\n5.This event will feature a Live Simulation of the stock market; wherein constant updates will be given to the participants during the event. Participants must check these updates and accordingly, make their necessary decisions.
+        \n\n6. Participants must always have their College ID and their registration receipts with them, and must be shown if asked.
+        \n\n7. In case of any dispute, the decision of both the judges and the organizers shall be final and binding to all.
+        \n\n8. Rules may be changed without any prior intimation to the participants. Therefore, participants must ensure that they regularly check the MindSpark’17 website (www.mind-spark.org) for all updates.
+        \n\n9. All undergraduate and postgraduate students are allowed to participate.</string>
     <string name="event_rules_bidzkreig_1">1. Participants have to bring their valid College ID cards and the registration receipt during reporting.
-        \n2. Participants are allowed to use mobile phones or calculators in the second round.
-        \n3. Cross college teams are allowed. However, one person cannot be a part of multiple teams for the same event.
-        \n4. Structure of the event may be changed without prior intimation.Participants are, therefore, requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
+        \n\n2. Participants are allowed to use mobile phones or calculators in the second round.
+        \n\n3. Cross college teams are allowed. However, one person cannot be a part of multiple teams for the same event.
+        \n\n4. Structure of the event may be changed without prior intimation.Participants are, therefore, requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
     <string name="event_rules_bidzkreig_2">1. A team will be disqualified if it uses the given amount of money and does not have 5 players in the squad.
-        \n2. Once a team buys the required players for a certain position, they cannot bid for another player for the same position.
-        \n3. A team can name one of their player as captain which will multiply the chosen player\'s rating by 2.
-        \n4. Each team will start with a starting budget of $ 50 million. The draw of the players will be random.</string>
+        \n\n2. Once a team buys the required players for a certain position, they cannot bid for another player for the same position.
+        \n\n3. A team can name one of their player as captain which will multiply the chosen player\'s rating by 2.
+        \n\n4. Each team will start with a starting budget of $ 50 million. The draw of the players will be random.</string>
     <string name="event_rules_lan_slam">1. Counter Strike: Global Offensive will be played in competitive mode.
-        \n2. Participants must not mishandle the computer system. Any damage caused, will lead to direct disqualification and the cost of the damage if any will be paid by the participants.
-        \n3.Use of cheats or any deceitful means will lead to immediate team disqualification.
-        \n4. Use of offensive language by any participant will lead to team disqualification.
-        \n5. Selection procedure will be decided by the organizers and their decision will be final and binding to all.
-        \n6. Participants are requested to bring their own headphones/earphones to the event. Consoles, mouse and personal keyboards are also allowed.
-        \n7. Time slots will be given and participants are expected to follow it strictly. If the teams are not punctual and are not present on time, they will be disqualified and the opposing teams will be given a bye.
-        \n8. Participants are expected to give their correct contact details, so as to inform them about the round timings.
-        \n9. Some match rules will be decided by the event heads at that time and will be declared on the spot.
-        \n10. A match draw will be decided by an extra round. Whichever team wins this round will be declared the winner.
-        \n11. Team members can be from same as well as different institutes. But there can be no change of players within teams during the rounds and one person cannot be a part of multiple teams.
-        \n12. Rules may be changed without prior intimation. Participants are, therefore, requested to check our official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
+        \n\n2. Participants must not mishandle the computer system. Any damage caused, will lead to direct disqualification and the cost of the damage if any will be paid by the participants.
+        \n\n3.Use of cheats or any deceitful means will lead to immediate team disqualification.
+        \n\n4. Use of offensive language by any participant will lead to team disqualification.
+        \n\n5. Selection procedure will be decided by the organizers and their decision will be final and binding to all.
+        \n\n6. Participants are requested to bring their own headphones/earphones to the event. Consoles, mouse and personal keyboards are also allowed.
+        \n\n7. Time slots will be given and participants are expected to follow it strictly. If the teams are not punctual and are not present on time, they will be disqualified and the opposing teams will be given a bye.
+        \n\n8. Participants are expected to give their correct contact details, so as to inform them about the round timings.
+        \n\n9. Some match rules will be decided by the event heads at that time and will be declared on the spot.
+        \n\n10. A match draw will be decided by an extra round. Whichever team wins this round will be declared the winner.
+        \n\n11. Team members can be from same as well as different institutes. But there can be no change of players within teams during the rounds and one person cannot be a part of multiple teams.
+        \n\n12. Rules may be changed without prior intimation. Participants are, therefore, requested to check our official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
     <string name="event_rules_flash">1. Post processing of pictures is allowed.
-        \n2. You need to bring your own camera, mobile or any other accessory you need during the event.
-        \n3. Participants are allowed to participate in more than one category for this event.
-        \n4. For categories 3 and 4, unprocessed files must also be submitted along with the gear (mobile model/camera model + lens + exifs) used mentioned.
-        \n5. The entries would be judged based on composition, creativity, and post processing.
-        \n6. The event head/coordinators have the right to deny the participant from participating in the event if participants break above mentioned rules.</string>
-
+        \n\n2. You need to bring your own camera, mobile or any other accessory you need during the event.
+        \n\n3. Participants are allowed to participate in more than one category for this event.
+        \n\n4. For categories 3 and 4, unprocessed files must also be submitted along with the gear (mobile model/camera model + lens + exifs) used mentioned.
+        \n\n5. The entries would be judged based on composition, creativity, and post processing.
+        \n\n6. The event head/coordinators have the right to deny the participant from participating in the event if participants break above mentioned rules.</string>
     <string name="event_rules_chakravyuh">1. Quiz master’s decision will be final and binding to all.
-        \n2. Use of any form of electronic media is strictly not allowed. Any team found in violation will be disqualified on the spot.
-        \n3. Participants must bring their registration receipts and valid college IDs (For college students) or any valid ID (For others) while coming to the event.
-        \n4. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
-        \n5. In case of any disputes, the decision taken by the organizers will be considered final and binding to all.</string>
+        \n\n2. Use of any form of electronic media is strictly not allowed. Any team found in violation will be disqualified on the spot.
+        \n\n3. Participants must bring their registration receipts and valid college IDs (For college students) or any valid ID (For others) while coming to the event.
+        \n\n4. Rules may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
+        \n\n5. In case of any disputes, the decision taken by the organizers will be considered final and binding to all.</string>
     <string name="event_rules_indikya">1. Quiz master’s decision will be final and binding to all.
-        \n2. Use of any form of electronic media is strictly not allowed. Any team found in violation will be disqualified on the spot.
-        \n3. Participants must bring their registration receipts and valid college IDs while coming to the event.
-        \n4. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.
-        \n5. In case of any disputes, the decision taken by the organizers will be considered final and binding to all.</string>
+        \n\n2. Use of any form of electronic media is strictly not allowed. Any team found in violation will be disqualified on the spot.
+        \n\n3. Participants must bring their registration receipts and valid college IDs while coming to the event.
+        \n\n4. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.
+        \n\n5. In case of any disputes, the decision taken by the organizers will be considered final and binding to all.</string>
     <string name="event_rules_torquest">1. Quiz master’s decision will be final and binding to all.
-        \n2. Use of any form of electronic media is strictly not allowed. Any team found in violation will be disqualified on the spot.
-        \n3. Participants must bring their registration receipts and valid college IDs while coming to the event.
-        \n4. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.
-        \n5.In case of any disputes, the decision taken by the organizers will be considered final and binding to all.</string>
-
+        \n\n2. Use of any form of electronic media is strictly not allowed. Any team found in violation will be disqualified on the spot.
+        \n\n3. Participants must bring their registration receipts and valid college IDs while coming to the event.
+        \n\n4. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.
+        \n\n5.In case of any disputes, the decision taken by the organizers will be considered final and binding to all.</string>
     <string name="event_rules_genius_jr">1. Teams are expected to maintain decorum. MindSpark team reserves the right to disqualify any team found misbehaving.
-        \n2. In case of any disputes, the decision of event heads and judges will be final and binding to all.
-        \n3. Rules of the event may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
-        \n4. Participants must carry their school ID card and the registration receipt.
-        \n5. Participants must be present on time at the given venue. Late entries will not be entertained.</string>
+        \n\n2. In case of any disputes, the decision of event heads and judges will be final and binding to all.
+        \n\n3. Rules of the event may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
+        \n\n4. Participants must carry their school ID card and the registration receipt.
+        \n\n5. Participants must be present on time at the given venue. Late entries will not be entertained.</string>
     <string name="event_rules_sudoku">1. Overwriting is not allowed.
-        \n2. Rough papers will not be permitted in the event.
-        \n3. Decisions taken by event heads and coordinators are final and binding and cannot be challenged.
-        \n4. A valid ID card and the receipt for the event must be carried to the event.
-        \n5. Rules and structure of the event may be changed without prior intimation. Participants are therefore requested to check the official MindSpark\'17 website (www.mind-spark.org) regularly for updates.</string>
+        \n\n2. Rough papers will not be permitted in the event.
+        \n\n3. Decisions taken by event heads and coordinators are final and binding and cannot be challenged.
+        \n\n4. A valid ID card and the receipt for the event must be carried to the event.
+        \n\n5. Rules and structure of the event may be changed without prior intimation. Participants are therefore requested to check the official MindSpark\'17 website (www.mind-spark.org) regularly for updates.</string>
     <string name="event_rules_googler">1. Teams are expected to maintain decorum. We reserve the right to disqualify any team found misbehaving.
-        \n2. In case of any disputes, the decision of event heads and judges will be final and binding to all.
-        \n3. Rules of the event may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
-        \n4. Participants must carry their college ID card and the registration receipt.
-        \n5. Participants must be present on time at the given venue. Late entries will not be entertained.</string>
-
+        \n\n2. In case of any disputes, the decision of event heads and judges will be final and binding to all.
+        \n\n3. Rules of the event may be changed without prior intimation. Participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
+        \n\n4. Participants must carry their college ID card and the registration receipt.
+        \n\n5. Participants must be present on time at the given venue. Late entries will not be entertained.</string>
     <string name="event_rules_ham">1. Participants must carry their ID-Card during the workshop.
-        \n2. Participants must be punctual for all reporting times.
-        \n3. Structure and theory covered may be changed according to constraints. Please check the official MindSpark’17 website (www.mind-spark.org) for updates regularly.</string>
+        \n\n2. Participants must be punctual for all reporting times.
+        \n\n3. Structure and theory covered may be changed according to constraints. Please check the official MindSpark’17 website (www.mind-spark.org) for updates regularly.</string>
     <string name="event_rules_tux">1. Participants must carry their registration receipt and a valid ID card at all times during the workshop.
-        \n2. Participants must be punctual for all reporting times. Sessions may begin without participants if they are late.
-        \n3. If any damage occurs to the machines, participants may be asked to refund the cost of repairs.
-        \n4. Organizers are not responsible for any harm caused to participants due to their own negligence.
-        \n5. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
+        \n\n2. Participants must be punctual for all reporting times. Sessions may begin without participants if they are late.
+        \n\n3. If any damage occurs to the machines, participants may be asked to refund the cost of repairs.
+        \n\n4. Organizers are not responsible for any harm caused to participants due to their own negligence.
+        \n\n5. Rules may be changed without prior intimation. Participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for updates.</string>
     <string name="event_rules_stareway_to_heaven">1. Participants are expected to carry a valid ID card and a receipt of registration at all times during the workshop.
-        \n2. The participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for further updates.</string>
+        \n\n2. The participants are requested to check the official MindSpark’17 website (www.mind-spark.org) regularly for further updates.</string>
     <string name="event_rules_cnc_lathe">1.Participants must carry theirregistration receipt and a valid ID-Card at all times during the workshop. It will be helpful (not necessary) if participants acquire some fundamental knowledge about NC/CNC through resources like books/internet. You can refer some notes from official website of MindSpark’17 (www.mind-spark.org).
-        \n2. Participants must be punctual at all reporting times. Sessions will begin without participants if they are late.
-        \n3. If any damage occurs to the machines/institute property, participants may be asked to refund the cost of repairs.
-        \n4. Organizers are not responsible for any harm caused to participants due to their own negligence. Participants have to take care of their own safety.
-        \n5. Structure and theory covered may be changed according to constraints. Please check the official MindSpark’17 website(www.mind-spark.org) regularly for updates.
-        \n6. Rules may be changed without prior intimation. For further updates, participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
-        \n7. In case of any disputes, the decision of the organizers will be final and binding to all.</string>
+        \n\n2. Participants must be punctual at all reporting times. Sessions will begin without participants if they are late.
+        \n\n3. If any damage occurs to the machines/institute property, participants may be asked to refund the cost of repairs.
+        \n\n4. Organizers are not responsible for any harm caused to participants due to their own negligence. Participants have to take care of their own safety.
+        \n\n5. Structure and theory covered may be changed according to constraints. Please check the official MindSpark’17 website(www.mind-spark.org) regularly for updates.
+        \n\n6. Rules may be changed without prior intimation. For further updates, participants are requested to check the MindSpark’17 website (www.mind-spark.org) regularly for updates.
+        \n\n7. In case of any disputes, the decision of the organizers will be final and binding to all.</string>
     <string name="event_rules_virtual_labs">1.Participants are required to carry their respective institution’s identity card.
-        \n2.Rules may be changed without prior intimation. Participants are, therefore, requested to check the official MindSpark\'17 website (www.mind-spark.org) regularly for updates.</string>
+        \n\n2.Rules may be changed without prior intimation. Participants are, therefore, requested to check the official MindSpark\'17 website (www.mind-spark.org) regularly for updates.</string>
 
-
-    <string name="event_tafs_epitome">Team size : Maximum 3 participants per team.
+    <string name="event_tafs_epitome">Team size : Max. 3 participants per team.
         \nRegistration fee : ₹150/- per team.</string>
-    <string name="event_tafs_conquest">Team Size : Maximum of 3 members per team.
+    <string name="event_tafs_conquest">Team Size : Max. of 3 members per team.
         \nRegistration fee : ₹ 50/- per team.</string>
-    <string name="event_tafs_metropolis">Team Size : Maximum 4 participants per team
+    <string name="event_tafs_metropolis">Team Size : Max. 4 participants per team
         \nRegistration Fee : ₹100/- per team.</string>
-    <string name="event_tafs_id_civil">Team Size : Maximum 2 participants per team.
+    <string name="event_tafs_id_civil">Team Size : Max. 2 participants per team.
         \nRegistration Fee : ₹50/- per team</string>
 
-    <string name="event_tafs_assemblix">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_assemblix">Team size : Max. 2 participants per team.
         \nRegistration Fee : ₹100/- per team.</string>
-    <string name="event_tafs_id_2d">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_id_2d">Team size : Max. 2 participants per team.
         \nRegistration fee : ₹50/- per team.</string>
-    <string name="event_tafs_id_3d">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_id_3d">Team size : Max. 2 participants per team.
         \nRegistration fee : ₹50/- per team.</string>
-    <string name="event_tafs_mechtrix">Team Size : Maximum 4 participants per team.
+    <string name="event_tafs_mechtrix">Team Size : Max. 4 participants per team.
         \nRegistration fee : ₹150/- per team.</string>
     <string name="event_tafs_turnament">Team size : Individual participation.
         \nRegistration fee : ₹50/- per team.</string>
 
-    <string name="event_tafs_code_junkie">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_code_junkie">Team size : Max. 2 participants per team.
         \nRegistration fee : ₹ 50/- per team.</string>
-    <string name="event_tafs_code_junkie_pp">Team size : Maximum of 2 participants per team.
+    <string name="event_tafs_code_junkie_pp">Team size : Max. of 2 participants per team.
         \nRegistration fee : ₹ 50/- per team.</string>
     <string name="event_tafs_xterminate">Team size : Only 2 participants per team.
         \nRegistration fee : ₹ 50/- per team.</string>
-    <string name="event_tafs_retracer">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_retracer">Team size : Max. 2 participants per team.
         \nRegistration fee : ₹ 50/- per team.</string>
-    <string name="event_tafs_predict_x">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_predict_x">Team size : Max. 2 participants per team.
         \nRegistration fee : ₹ 100/- per team.</string>
-    <string name="event_tafs_hackathon2.0">Team size : Maximum 3 participants per team.
+    <string name="event_tafs_hackathon2.0">Team size : Max. 3 participants per team.
         \nRegistration fee : ₹150/- per team.</string>
 
-    <string name="event_tafs_circuit_fixer_1">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_circuit_fixer_1">Team size : Max. 2 participants per team.
         \nRegistration fee : ₹ 50/- per team.</string>
-    <string name="event_tafs_circuit_fixer_2">Team size : Maximum of 2 participants per team
+    <string name="event_tafs_circuit_fixer_2">Team size : Max. of 2 participants per team
         \nRegistration fee : ₹50/- per team</string>
-    <string name="event_tafs_encrypto">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_encrypto">Team size : Max. 2 participants per team.
         \nRegistration fee : ₹50/- per team.</string>
-    <string name="event_tafs_microapps">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_microapps">Team size : Max. 2 participants per team.
         \nRegistration fee : ₹ 50/- per team</string>
 
-    <string name="event_tafs_on_the_etch">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_on_the_etch">Team size : Max. 2 participants per team.
         \nParticipation Fee : ₹ 50/- per team.</string>
-    <string name="event_tafs_dexters_lab">Team Size : Maximum 2 participants per team.
+    <string name="event_tafs_dexters_lab">Team Size : Max. 2 participants per team.
         \nRegistration fee : ₹ 50/- per team.</string>
 
     <string name="event_tafs_wheelomation">Team Size : Minimum 2 and maximum 5 participants per team
@@ -1452,55 +1445,55 @@
         \nRegistration fee : ₹50/- per team</string>
     <string name="event_tafs_the_wright_turn_rc_plane">Team size : Maximum 5 participants per team.
         \nRegistration fee : ₹250/- per team</string>
-    <string name="event_tafs_aqualympics">Team size : Maximum 4 participants per team.
+    <string name="event_tafs_aqualympics">Team size : Max. 4 participants per team.
         \nRegistration fee : ₹200/- per team.</string>
-    <string name="event_tafs_contraption">Team size : Maximum 4 participants per team.
+    <string name="event_tafs_contraption">Team size : Max. 4 participants per team.
         \nRegistration fee : ₹ 200/- per team.</string>
 
-    <string name="event_tafs_byldan">Team size : Maximum 2 participants per team
+    <string name="event_tafs_byldan">Team size : Max. 2 participants per team
         \nRegistration fee : ₹50/- per team.</string>
-    <string name="event_tafs_ppt_comp_it">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_ppt_comp_it">Team size : Max. 2 participants per team.
         \nRegistration fee : ₹50/- per team.</string>
     <string name="event_tafs_ppt_mech_prod_meta">PPT Mech/Prod/Meta</string>
     <string name="event_tafs_ppt_eei">PPT ENI</string>
     <string name="event_tafs_ppt_civil">PPT Civil</string>
 
-    <string name="event_tafs_search_n_destroy">Team Size : Maximum 5 participants per team.
+    <string name="event_tafs_search_n_destroy">Team Size : Max. 5 participants per team.
         \nRegistration fee : ₹250/- per team.</string>
-    <string name="event_tafs_robowars">Team size : Maximum 5 participants per team.
+    <string name="event_tafs_robowars">Team size : Max. 5 participants per team.
         \nRegistration fee : ₹250/- per team.</string>
-    <string name="event_tafs_dog_fight">Team size : Maximum 5 participants per team.
+    <string name="event_tafs_dog_fight">Team size : Max. 5 participants per team.
         \nRegistration Fee : ₹250/- per team.</string>
-    <string name="event_tafs_bot_wrestling">Team size : Maximum of 4 members per team.
+    <string name="event_tafs_bot_wrestling">Team size : Max. of 4 members per team.
         \nRegistration fee : ₹200/- per team.</string>
-    <string name="event_tafs_virtual_robotics">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_virtual_robotics">Team size : Max. 2 participants per team.
         \nParticipation Fee : ₹ 50/- per team.</string>
 
-    <string name="event_tafs_the_amazing_race">Team Size : Maximum 2 participants per team.
+    <string name="event_tafs_the_amazing_race">Team Size : Max. 2 participants per team.
         \nRegistration fee : ₹100/- per team.</string>
-    <string name="event_tafs_bull_run">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_bull_run">Team size : Max. 2 participants per team.
         \nRegistration fee : ₹ 100/- per team.</string>
-    <string name="event_tafs_bidzkreig_1">Team Size : Maximum 2 members per team
+    <string name="event_tafs_bidzkreig_1">Team Size : Max. 2 members per team
         \nRegistration Fee : ₹ 100/- per team</string>
-    <string name="event_tafs_bidzkreig_2">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_bidzkreig_2">Team size : Max. 2 participants per team.
         \nRegistration fee : ₹ 100/- per team.</string>
-    <string name="event_tafs_lan_slam">Team Size : Only4 participants per team.
+    <string name="event_tafs_lan_slam">Team Size : Only 4 participants per team.
         \nRegistration Fee : ₹200/- per team.</string>
-    <string name="event_tafs_flash">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_flash">Team size : Max. 2 participants per team.
         \nRegistration fee : ₹50/- per team.</string>
 
-    <string name="event_tafs_chakravyuh">Team Size : Maximum 2 participants per team.
+    <string name="event_tafs_chakravyuh">Team Size : Max. 2 participants per team.
         \nRegistration Fee : ₹50/- per team.</string>
-    <string name="event_tafs_indikya">Team size : Maximum 2 participants per team.
+    <string name="event_tafs_indikya">Team size : Max. 2 participants per team.
         \nRegistration fee : ₹ 100/- per team.</string>
-    <string name="event_tafs_torquest">Team Size : Maximum 2 participants per team.
+    <string name="event_tafs_torquest">Team Size : Max. 2 participants per team.
         \nRegistration Fee : ₹50/- per team.</string>
 
-    <string name="event_tafs_genius_jr">Team Size : Maximum 2 participants per team.
+    <string name="event_tafs_genius_jr">Team Size : Max. 2 participants per team.
         \nRegistration Fee : ₹ 100/- per team.</string>
     <string name="event_tafs_sudoku">Team size : Individual participation only.
         \nRegistration fee : ₹50/- per team.</string>
-    <string name="event_tafs_googler">Team size : Maximum 2 participants per team
+    <string name="event_tafs_googler">Team size : Max. 2 participants per team
         \nRegistration fee : ₹50/- per team.</string>
 
     <string name="event_tafs_ham">Team Size : Individual event.

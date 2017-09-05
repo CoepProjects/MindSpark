@@ -16,7 +16,7 @@ import aceshub.mindspark.R;
  */
 
 public class OverviewEventDetailsFragment extends Fragment {
-    TextView tvEventName,tvEventObj,tvEventStruct;
+    TextView tvEventName,tvEventObj,tvEventStruct,tvExtra;
     ImageView ivEvent;
     @Nullable
     @Override
@@ -34,12 +34,14 @@ public class OverviewEventDetailsFragment extends Fragment {
         tvEventObj=(TextView)view.findViewById(R.id.tvObjective);
         tvEventStruct=(TextView)view.findViewById(R.id.tvStructure);
         ivEvent=(ImageView)view.findViewById(R.id.ivEventDesc);
+        tvExtra=(TextView)view.findViewById(R.id.tvExtra);
 
 
         tvEventName.setText(event.getName());
         tvEventObj.setText(event.getObjective());
         tvEventStruct.setText(event.getStructure());
         ivEvent.setImageResource(event.getImage());
+        tvExtra.setText(event.getExtra());
 
     }
 

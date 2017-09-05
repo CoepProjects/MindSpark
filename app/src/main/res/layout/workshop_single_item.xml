@@ -20,6 +20,7 @@
             android:id="@+id/ivWorkshop"
             android:src="@drawable/autohaul"
             android:padding="15dp"
+            android:layout_gravity="center"
             android:contentDescription="Workshop"
             />
         <TextView

@@ -5,96 +5,125 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/ivEventDesc"
-                    android:layout_marginTop="20dp"
-                    android:layout_gravity="center"
-                    />
+        <ImageView
+            android:id="@+id/ivEventDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp" />
 
 
-                <TextView
-                    android:id="@+id/tvEventName"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center"
-                    android:layout_margin="10dp"
-                    android:text="Event Name"
-                    android:textColor="#101136"
-                    android:textSize="25sp" />
+        <TextView
+            android:id="@+id/tvEventName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:text="Event Name"
+            android:textColor="#101136"
+            android:textSize="25sp" />
 
-                <!--<info.hoang8f.widget.FButton-->
-                    <!--android:id="@+id/bViewTimeline"-->
-                    <!--android:layout_width="150dp"-->
-                    <!--android:layout_height="wrap_content"-->
-                    <!--android:layout_gravity="center"-->
-                    <!--android:layout_margin="7dp"-->
-                    <!--android:padding="10dp"-->
-                    <!--android:text="Register Now"-->
-                    <!--android:textColor="#fff"-->
-                    <!--app:buttonColor="@color/colorPrimary"-->
-                    <!--app:cornerRadius="50dp"-->
-                    <!--app:shadowColor="@color/colorAccent"-->
-                    <!--app:shadowEnabled="true"-->
-                    <!--app:shadowHeight="5dp" />-->
+        <!--<info.hoang8f.widget.FButton-->
+        <!--android:id="@+id/bViewTimeline"-->
+        <!--android:layout_width="150dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:layout_margin="7dp"-->
+        <!--android:padding="10dp"-->
+        <!--android:text="Register Now"-->
+        <!--android:textColor="#fff"-->
+        <!--app:buttonColor="@color/colorPrimary"-->
+        <!--app:cornerRadius="50dp"-->
+        <!--app:shadowColor="@color/colorAccent"-->
+        <!--app:shadowEnabled="true"-->
+        <!--app:shadowHeight="5dp" />-->
 
-                <TextView
-                    android:id="@+id/tvObjective"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center"
-                    android:layout_margin="10dp"
-                    android:text="Short Description"
-                    android:textColor="#101136"
-                    android:textSize="17sp" />
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="50dp"
-                android:layout_marginStart="10dp"
-                android:layout_marginEnd="10dp"
-                android:layout_marginBottom="10dp"
-                android:text="Structure"
-                android:layout_gravity="center"
-                android:textColor="#101136"
-                android:textSize="25sp" />
+        <TextView
+            android:id="@+id/tvObjective"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:text="Short Description"
+            android:textColor="#101136"
+            android:textSize="17sp" />
 
-            <TextView
-                android:id="@+id/tvStructure"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:layout_gravity="center"
-                android:text="structure here"
-                android:textColor="#101136"
-                android:textSize="17sp" />
-                </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="50dp"
+            android:text="Structure"
+            android:textColor="#101136"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/tvStructure"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:text="structure here"
+            android:textColor="#101136"
+            android:textSize="17sp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="50dp"
+            android:text="Event Heads and Fee Structure"
+            android:textColor="#101136"
+            android:textSize="25sp" />
+
+
+        <TextView
+            android:id="@+id/tvExtra"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="structure here"
+            android:textColor="#101136"
+            android:textSize="17sp" />
+
+
 
         <!--<LinearLayout-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="match_parent"-->
-            <!--android:gravity="center"-->
-            <!--android:orientation="vertical">-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:gravity="center"-->
+        <!--android:orientation="vertical">-->
 
-            <!--<TextView-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:layout_margin="10dp"-->
-                <!--android:text="Rules"-->
-                <!--android:textSize="25sp" />-->
+        <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_margin="10dp"-->
+        <!--android:text="Rules"-->
+        <!--android:textSize="25sp" />-->
 
-            <!--<TextView-->
-                <!--android:id="@+id/tvRules"-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:layout_margin="10dp"-->
-                <!--android:text="Rules here"-->
-                <!--android:textSize="17sp" />-->
+        <!--<TextView-->
+        <!--android:id="@+id/tvRules"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_margin="10dp"-->
+        <!--android:text="Rules here"-->
+        <!--android:textSize="17sp" />-->
         <!--</LinearLayout>-->
+    </LinearLayout>
 </ScrollView>

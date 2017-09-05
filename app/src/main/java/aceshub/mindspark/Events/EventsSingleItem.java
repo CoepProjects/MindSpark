@@ -30,14 +30,13 @@ public class EventsSingleItem implements Serializable {
         return extra;
     }
 
-    public EventsSingleItem(int image, String name, String objective, String structure, String rules, String extra) {
+    public EventsSingleItem(int image, String name, String objective, String structure, String rules,String extra) {
         this.image = image;
         this.name = name;
         this.objective=objective;
         this.structure=structure;
         this.rules=rules;
-        this.extra=extra;
-
+        this.extra = extra;
     }
 
     public int getImage() {
