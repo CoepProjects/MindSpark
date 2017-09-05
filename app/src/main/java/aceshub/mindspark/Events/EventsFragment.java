@@ -107,11 +107,11 @@ public class EventsFragment extends Fragment {
         CategoriesSingleItem silicus =new CategoriesSingleItem(R.drawable.silicus,"Silicus",Arrays.asList(codeJunkie,hackathon,codeJunkiePlusPlus,xterminate,retracer,predictX),R.color.colorPrimary);
         CategoriesSingleItem voltus=new CategoriesSingleItem(R.drawable.voltus,"Voltus",Arrays.asList(circuitFixer1,circuitFixer2,encrypto,microApps),R.color.yellow500);
         CategoriesSingleItem dynamus=new CategoriesSingleItem(R.drawable.dynamus,"Dynamus",Arrays.asList(assemblix,mechtrix,turnament,intelligentDesign2D,intelligentDesign3D),R.color.orange400);
-        CategoriesSingleItem collatio=new CategoriesSingleItem(R.drawable.collatio,"Substantia",Arrays.asList(onTheEtch,dextersLab),R.color.blue500);
+        CategoriesSingleItem collatio=new CategoriesSingleItem(R.drawable.substantia,"Substantia",Arrays.asList(onTheEtch,dextersLab),R.color.blue500);
         CategoriesSingleItem structura=new CategoriesSingleItem(R.drawable.structura,"Structura",Arrays.asList(metropolis,conquest,idCivil,epitome),R.color.orange500);
         CategoriesSingleItem robustus=new CategoriesSingleItem(R.drawable.robustus,"Robustus",Arrays.asList(robowars,searchNDestroy,botWrestling,dogFight,virtualRobotics),R.color.purple300);
-        CategoriesSingleItem vortex=new CategoriesSingleItem(R.drawable.vortex,"Accelero",Arrays.asList(wheelomation,contraption,aqualympics,theWrightTurnGlider,theWrightTurnRC),R.color.red300);
-        CategoriesSingleItem papyrus=new CategoriesSingleItem(R.drawable.papyrus,"Ideam",Arrays.asList(ppt_civil,ppt_comp_it,ppt_eei,ppt_mech_prod,byldan),R.color.orange500);
+        CategoriesSingleItem vortex=new CategoriesSingleItem(R.drawable.accelero,"Accelero",Arrays.asList(wheelomation,contraption,aqualympics,theWrightTurnGlider,theWrightTurnRC),R.color.red300);
+        CategoriesSingleItem papyrus=new CategoriesSingleItem(R.drawable.ideam,"Ideam",Arrays.asList(ppt_civil,ppt_comp_it,ppt_eei,ppt_mech_prod,byldan),R.color.orange500);
         CategoriesSingleItem cognitio=new CategoriesSingleItem(R.drawable.cognitio,"Cognitio",Arrays.asList(CNCLathe,starewayToHeaven,tux,ham,virtualLabs),R.color.green500);
         CategoriesSingleItem fascinus=new CategoriesSingleItem(R.drawable.fascinus,"Fascinus",Arrays.asList(theAmazingRace,bidzkrieg_1,bidzkrieg_2,LANSlam,bullRun,flash),R.color.brown400);
         CategoriesSingleItem illuminati=new CategoriesSingleItem(R.drawable.illuminati,"Illuminati",Arrays.asList(chakravyuh,torquest,indikya),R.color.blue300);

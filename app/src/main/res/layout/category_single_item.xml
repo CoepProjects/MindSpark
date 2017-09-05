@@ -10,7 +10,7 @@
 
     <LinearLayout
         android:id="@+id/llCategoryCard"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
@@ -19,8 +19,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:contentDescription="Category"
-            android:paddingEnd="15dp"
-            android:paddingStart="15dp"
+            android:padding="15dp"
+            android:layout_gravity="center"
             android:src="@drawable/silicus" />
 
         <TextView
