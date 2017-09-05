@@ -1685,8 +1685,8 @@
 
     <string name="workshop_introduction_ethical_hacking">Ethical Hacking Workshop is 2 days workshop (max. 8 hours/day) by Sangeet Chopra. This workshop will be divided into 4 sessions partici-pants are introduced to various concepts of ethical hacking. The Partici-pants will get introduced and informed about various case studies in the subject. </string>
     <string name="workshop_introduction_hovercraft">The Hovercraft workshop trains students to design, fabricate and test run their own mini Radio controlled hovercrafts and make them practically understand the aerodynamics, electronics and instrumentation principles involved in hovercraft design. Get into the world of most advanced future machines in the automobile sector which can easily move on land and water.</string>
-    <string name="workshop_introduction_android_app_development">THIS IS A TWO DAY WORKSHOP IN WHICH WE FOCUS ON BOTH FRONT AND BACK END OF (Full stack) APP DEVELOPMENT, WITH AN AIM OF DEVELOPING A WORKING APP AT THE END OF TWO DAYS. THE WORKSHOP WILL TAKE A TOTAL OF 16 HRS WHICH IS DIVIDED INTO TWO PARTS THAT IS 8 HRS DAILY. EACH DAY IS FURTHER DIVIDED INTO PRE AND POST LUNCH SESSION.</string>
-    <string name="workshop_introduction_fantastic_four">FANTASTIC FOUR ROBOTICS IS TWO DAYS WORKSHOP IN WHICH OUR TRAINER FOCUSES ON INTRODUCING PARTICIPANTS TO THE WORLD OF ROBOTICS. THIS WORKSHOP WILL TAKE TOTAL TIME OF MAX.16 HRS WHICH IS DIVIDED INTO TWO PARTS THAT IS 8 HRS PER DAY. THIS WORKSHOP IS DIVIDED INTO FOUR DIFFERENT SESSION IN WHICH PARTICIPANTS ARE INTRODUCED TO VARIOUS CONCEPTS RELATED TO ROBOTICS, MICROCONTROLLERS, IDE PROGRAMMING, BLUE-TOOTH MODULE, ETC. PRACTICALLY. </string>
+    <string name="workshop_introduction_android_app_development">This a two day workshop in which we focus on both front and back end of (Full stack)App Development, with a aim of developing a working app at the end of two days. The workshop will take a total of 16 hors which is divided into two parts that is 8 Hrs daily. Each day is further divided into pre and post lunch session.</string>
+    <string name="workshop_introduction_fantastic_four">Fantastic four robotics is two days workshop in which our trainer focuses on introducing participants to the world of robotics. This workshop will take total time of Max. 16 hours which is divided into two parts that is 8 hours per day. This workshop is divided into four session in which participants are inroduced to various concepts relted to robotics, microcontrollers, IDE programming, blueooth module etc. Practically.</string>
     <string name="workshop_introduction_3d_game_designing_and_virtual_reality">3D gaming is interactive computer entertainment that is graphically presented in the three dimensions of height, width and depth; the addi-tion of depth to 2D gaming enabled the exploration of virtual worlds with more realistic representation. This 2-days workshop imparts the basics of Unity system for 3D game development. Unity is a cross-platform game engine developed by Unity Technologies and used to develop video games for PC, consoles, mobile devices and websites.
         \nInterest in Virtual Reality (VR) is growing – don’t miss your chance to catch it ahead of the curve. With major brands like YouTube and Face-book developing platforms to support 360 video, VR is becoming more and more accessible to the general public. Expand your digital pres-ence by immersing your audience in an interactive, hands-on environ-ment.
 </string>
@@ -1704,245 +1704,245 @@
 
 
     <string name="workshop_content_ethical_hacking">1. Ethical Hacking: Legal or illegal?
-        \n• Concepts of Hacking
+        \n\n• Concepts of Hacking
         \na. Ethical Hacking and Information Security : Definition
         \nb. Who is hacker (Security Expert)?
         \nc. How to become a Hacker?
         \nd. Why do we need hackers?
         \ne. Case Studies: Hackers Methodology and Innovation
         \nf .Difference between hacker and cracker?
-        \n• Types of Hackers(As per Knowledge)
+        \n\n• Types of Hackers(As per Knowledge)
         \na. Coders
         \nb. Admins
         \nc. Script Kiddies
-        \n• Types of Hackers(As per Working)
+        \n\n• Types of Hackers(As per Working)
         \na. White hat hackers
         \nb. Black hat hackers
         \nc. Grey hat hackers
         \nd. Hacktivists (Cyber Terrorists)
-        \n•	How to secure yourself from Attackers
-        \n•	How to Stop Attackers
-        \n•	Indian Cyber Law
+        \n\n•	How to secure yourself from Attackers
+        \n\n•	How to Stop Attackers
+        \n\n•	Indian Cyber Law
         \na. Real Scenario
         \nb. Types of Cyber Crime
         \nc. Indian IT Act 2000
-        \n2. E-Mails: exploitation and Security
-        \n•	What is an E-mail
-        \n•	Working of E-mail
-        \n•	Traveling of an E-Mail
-        \n•	Email Servers
+        \n\n\n2. E-Mails: exploitation and Security
+        \n\n•	What is an E-mail
+        \n\n•	Working of E-mail
+        \n\n•	Traveling of an E-Mail
+        \n\n•	Email Servers
         \na. Definition
         \nb. Usage
-        \n• E-mail Forgery
+        \n\n• E-mail Forgery
         \na. Anonymous Mailing techniques
         \n    Using Websites
         \n    Using Self Developed PHP Script
         \nb. E-Mail Bombers
-        \n•  Security to Anonymous Mailing
+        \n\n•  Security to Anonymous Mailing
         \na. Can User stop Receiving Fake Mails?
         \nb. Tracing an Attacker
         \nc. Proving a Fake Mail
-        \n•  Attacks on E-Mail Password
+        \n\n•  Attacks on E-Mail Password
         \na. Attackers Anatomy and Psychology while hacking the passwords
         \nb. Technical Attacks
-        \n• Using Fake Websites: Phishing
-        \n• Keyloggers
-        \n• Non-Technical Attacks
+        \n\n• Using Fake Websites: Phishing
+        \n\n• Keyloggers
+        \n\n• Non-Technical Attacks
         \na. Dumpster Diving
         \nb. Shoulder surfing
         \nc. Social Engineering
-        \n•  Securing the E-Mail Passwords
+        \n\n•  Securing the E-Mail Passwords
         \na. Password Policies
         \nb. Benefits of SSL Certificate for a User.
         \nc. Anti – Trust Policies
-        \n•  Email Forensics
+        \n\n•  Email Forensics
         \na. E-Mail Header Analysis
         \nb. Who is Look Up Query
         \nc. Tracing a Sender of an E-Mail
 
-        \n3. Inside Threats: Operating System Hacking and Secu-rity
-        \n• Introduction to System Softwares
+        \n\n\n3. Inside Threats: Operating System Hacking and Secu-rity
+        \n\n• Introduction to System Softwares
         \na. Windows o Ubuntu(Linux)
         \nb. Back Track(Live OS)
-        \n• Windows Security Components and Working
+        \n\n• Windows Security Components and Working
         \na. Windows Security Components
         \nb. User  Account Login Process
-        \n• Implementation of Virtualization
+        \n\n• Implementation of Virtualization
         \na. VM Ware Workstation
         \nb. Installation and Usage
-        \n•	Windows
-        \n•	Linux
+        \n\n•	Windows
+        \n\n•	Linux
         \na.Oracle Virtual Box
         \nb.MS Virtual PC
         \nc.Tracing Sender’s IP Address
         \nd.Tracing Sender’s Location
-        \n•	Attacks on Windows Login Password
+        \n\n•	Attacks on Windows Login Password
         \na. Resetting Windows login password without the old password
         \nb. Removing Windows login password without the old password
-        \n• Other Security Measure
+        \n\n• Other Security Measure
         \na. BIOS User and Supervisory password
         \nb. Biometric
         \nc. Implementing Syskey File Encryption
-        \n• Windows Inbuilt Flaws and Security Loopholes
+        \n\n• Windows Inbuilt Flaws and Security Loopholes
         \na. Hidden Accounts o Backdoor Via Sticky Keys
         \nb. Administrator Escalation on Limited accounts
-        \n• Invading into Computer System
+        \n\n• Invading into Computer System
         \na. Recovering BIOS Password
         \nb. Recovering Biometric Password
         \nc. Disabling Syskey File Encryption
-        \n• Optimizing Windows Computer System
+        \n\n• Optimizing Windows Computer System
         \na. Steganography
         \nb. Hiding Files behind an Image
-        \n• Restrict Hackers into box
+        \n\n• Restrict Hackers into box
         \na. Restricting Access to Files and Folders
-        \n•	 ACLs Calculation
+        \n\n•	 ACLs Calculation
         \na. Configuring Strong Password
         \nb. Changing Boot Order
         \nc. BIOS Password
         \nd. Physical Security
 
-        \n4. Malwares: Trojan, Viruses and Worms
-        \n•	What are malwares?
-        \n•	Trojans
+        \n\n\n4. Malwares: Trojan, Viruses and Worms
+        \n\n•	What are malwares?
+        \n\n•	Trojans
         \na. What is a Trojan?
         \nb. Types of Trojans
-        \n• Trojan Attack Methods
+        \n\n• Trojan Attack Methods
         \na. Direct Connection
         \nb. Reverse Connection
-        \n•	Some Knows Trojans
-        \n•	Detection of Trojan
+        \n\n•	Some Knows Trojans
+        \n\n•	Detection of Trojan
         \na. Using Anti-Trojan Software
         \nb. Manual Detection
         \n     TCP View
         \n    Process Viewer
         \n   Process Explorer
-        \n•	Viruses
-        \n•	Working and Functionality of Viruses
-        \n•	Development
+        \n\n•	Viruses
+        \n\n•	Working and Functionality of Viruses
+        \n\n•	Development
         \na. Batch Programming
         \nb. Programming
-        \n•	Development of Folder lockers
-        \n•	Developing Professional Security tools   Compilation and EXE Gen-eration
-        \n•	Detection and Manual Removal
+        \n\n•	Development of Folder lockers
+        \n\n•	Developing Professional Security tools   Compilation and EXE Gen-eration
+        \n\n•	Detection and Manual Removal
         \na. Detecting Viruses
         \nb. Process Monitoring
         \nc. Manual Removal of Viruses
 
-        5.Playing with Networks
-        \n• Introduction to the LAN(Local Area  Networks)   What is Network?
+        \n\n\n5.Playing with Networks
+        \n\n• Introduction to the LAN(Local Area  Networks)   What is Network?
         \na. What is networking?
         \nb. Understanding Network Devices
         \nc. Wireless Hacking( Wi-Fi WEP Key Cracking)
         \n        Flaws and Security o Attacks on Networks
         \n           Sniffing
         \n       MITM(ARP Poisoning)
-        \n•	Live Demonstration
-        \n•	Introduction to the LAN(Local Area Networks)
+        \n\n•	Live Demonstration
+        \n\n•	Introduction to the LAN(Local Area Networks)
         \na. What is Network?
         \nb. What is networking?
         \nc. Understanding Network Devices
         \nd. Wireless Hacking( Wi-Fi WEP Key Cracking)
-        \n• Flaws and Security
+        \n\n• Flaws and Security
         \na. Attacks on Networks
         \nb. Sniffing
         \nc. MITM(ARP Poisoning)
-        \n•	Live Demonstration
-        \n•	Secure Network Configuration
+        \n\n•	Live Demonstration
+        \n\n•	Secure Network Configuration
         \na. Configuring Anti-Sniffers
         \nb. MAC Filtering Restrictions
         \nc. Configuration of WPA2 Keys
-         \n• Introduction to Web Application Security
+         \n\n• Introduction to Web Application Security
         \na. What is Web Server
         \nb. What is Database Servers
         \nc. The Web Login Process
         \nd. What is Web application Security
         \ne. Why is Web application Security Important
-        \n• Understanding Attack Vectors
+        \n\n• Understanding Attack Vectors
         \na. Vulnerabilities and Evolving Threats
         \nb. Exploit Analysis
-        \n• Web Application Attacks
+        \n\n• Web Application Attacks
         \na.	SQL Injection
         \n          Basic Injection
         \n          Advance Injections
         \nb. Google Dorks – Using Google as an Expert
         \nc. Directory Traversal Attacks
         \n            Sever Side code Retrieval
-        \n• Putting breaks on Web Application attacks
+        \n\n• Putting breaks on Web Application attacks
         \na. Proper Monitoring
         \nb. Proper Input Validation
         \nc. Deny Google to your Website
         \nd. Finding Backdoors in the Website
         \ne. Secure Programming
-        \n•	Mozilla Firefox as a Hacking tool
-        \n•	Bypassing Proxy – Intermediate
+        \n\n•	Mozilla Firefox as a Hacking tool
+        \n\n•	Bypassing Proxy – Intermediate
         \na. What is Proxy
         \nb. Bypassing a Proxy
         \nc. Opening Block Websites
         \nd. Using Google as Proxy
 
-        \n7.Mobile Hacking – VOIP and Android
-        \n•	Introduction to Mobile Technology o Operating Systems   Series 60 Nokia
+        \n\n\n7.Mobile Hacking – VOIP and Android
+        \n\n•	Introduction to Mobile Technology o Operating Systems   Series 60 Nokia
         \nAndroid from Google
-        \n•	VOIP – Definition and Usage
+        \n\n•	VOIP – Definition and Usage
         \na. What is VOIP
         \nb. Requirements for Setting up VOIP server
         \n    Asterisk Configuration
         \n    SIP Connections
-        \n• Call Forgery
+        \n\n• Call Forgery
         \na. Call from any number
         \n        Using Soft Phones
         \n                Using Websites
         \n        Using Series 60 mobile Phones
-        \n• SMS Forgery
+        \n\n• SMS Forgery
         \na. Sending SMS from any number
         \nb. Attack on Facebook
-        \n• Security to Mobile Attacks
+        \n\n• Security to Mobile Attacks
         \na. Call Data Records Recognition
         \nb. VOIP Identification
         \nc. Nigerian 419 Scam (Advance Fee Attacks)
-        \n• Android
+        \n\n• Android
         \na. Running android on Laptops
 
-        \n8.Software Reverse Engineering
-        \n•	What is Reverse Engineering
-        \n•	Software - Definition
-        \n•	Disassembling the Softwares
+        \n\n\n8.Software Reverse Engineering
+        \n\n•	What is Reverse Engineering
+        \n\n•	Software - Definition
+        \n\n•	Disassembling the Softwares
         \na. Getting the code of EXEs
         \nb. Manipulating the Code of EXEs
-        \n• Dis-assemblers and Debuggers
+        \n\n• Dis-assemblers and Debuggers
         \na. Olly DBG
         \nb. Windows Dis-assembler
-        \n• Software Cracking and Serial Key Phishing
+        \n\n• Software Cracking and Serial Key Phishing
         \na. Analyzing Assembly Code of Software
         \nb. Tracing the Error Message
         \nc. Setting Break Point
         \nd. Stepping the Assembly Code
         \ne. Checking the Registers for the Key
-        \n• Software Patching o Disassembling a Software
+        \n\n• Software Patching o Disassembling a Software
         \na. Error Tracing
         \nb. Decoding the Instructions
         \nc. Generating Patch to inject the instruction of Running the Patch
-        \n• Applying Application Security
+        \n\n• Applying Application Security
         \na. Introduction to Application Encryption
         \nb. Using the Setup Encrypters
         \nc. Applying Strong Serial Key Algorithms
 </string>
     <string name="workshop_content_hovercraft">Session 1
-        \nTheoretical Session:
+        \n\nTheoretical Session:
         \n·	Lecture on scientific concepts behind Hovercraft
         \n·	Understanding the Physics behind functioning of a Hovercraft
         \n·	Structure and parts of a Hovercraft
         \n·	Introduction to Remote Controlled Hovercraft
         \n·	Electronics used in the design of RC Hovercraft
 
-        \nSession 2
+        \n\nSession 2
         \n    Design and Brainstorming session:
         \n·	Understanding Design algorithm of hovercrafts
         \n·	Calculation and Hovercraft design evaluation
         \n·	brainstorming for Innovative  RC Hovercraft idea
         \n·	Analysis and implementation of creative hovercraft ideas
 
-        \nSession 3
+        \n\nSession 3
         \nPratical fabrication session:
         \n·	Fabrication of Hovercraft
         \n·	Installation of electronic hovercraft component’s.
@@ -1950,7 +1950,7 @@
         \n·	Efficiency escalation of Hovercraft
         \n·	Analysis of the hovercraft
 
-        \nSession 4
+        \n\nSession 4
         \n    Test run:
         \n·	Hovercraft test run
         \n·	handling techniques for hovercraft
@@ -1958,7 +1958,7 @@
         \n·	Design modification concepts
         \n·	Best Design Selection
 
-        \nHovercraft Workshop Material :
+        \n\nHovercraft Workshop Material :
         \n•	Battery
         \n•	Electronic Speed Controller
         \n•	Servo Motor (3 Pieces)
@@ -1974,38 +1974,38 @@
         \n•	Control Horns
     </string>
     <string name="workshop_content_android_app_development">Day - 1 (Introduction to android with basic inputs)
-        \n1.	GETTING STARTED
+        \n\n1.	GETTING STARTED
         \no	Formulating idea
 
-        \n2.	ANDROID BASICS
+        \n\n2.	ANDROID BASICS
         \no	Introduction and setting up Android Studio.
         \no	Basic Android concepts.
 
-        \n3.	BUILDING LAYOUT
+        \n\n3.	BUILDING LAYOUT
         \no	Introduction to various widgets.
         \no	What are Layouts, Containers, XML?
         \no	Positioning of widgets, playing with views and layout.
         \no	Making UI/UX
         \no	Making a Birthday Card/any other example.
 
-        \n4.	MAKING APP INTERACTIVE
+        \n\n4.	MAKING APP INTERACTIVE
         \no	Introduction to Back-end.
         \no	Writing simple Java statements.
         \no	Incorporating widgets.
         \no	Trigger events
 
-        \nDay – 2 (Networking and Data storage)
-        \n1.	NETWORKING
+        \n\n\nDay – 2 (Networking and Data storage)
+        \n\n1.	NETWORKING
         \no	JSON Parsing
         \no	HTTP Networking
         \no	Threads and parellelism
 
-        \n2.	DATA STORAGE
+        \n\n2.	DATA STORAGE
         \no	SQL
         \no	Shared Preferences
 </string>
     <string name="workshop_content_fantastic_four">DAY 1:
-        \n    INTRODUCTION TO ROBOTICS
+        \n\n    INTRODUCTION TO ROBOTICS
         \n•	What is Robotics?
         \n•	Future of Robotics
          \nUNDERSTANDING ROBOT LOCOMOTION
@@ -2017,52 +2017,52 @@
         \n•	Logic Gates
         \n•	OP-AMP
         \n•	Oscillators
-        \n    UNDERSTANDING ACTUATORS
+        \n\n    UNDERSTANDING ACTUATORS
         \n•	DC Motor
         \n•	Stepper Motor
-        \n    INTRODUCTION TO MICROCONTROLLER
+        \n\n    INTRODUCTION TO MICROCONTROLLER
         \n•	Different Families of Microcontroller
         \n•	Basic Features of Microcontroller
 
-        \n    INTRODUCTION TO ARDUINO/FREEDUINO BOARDS
+        \n\n    INTRODUCTION TO ARDUINO/FREEDUINO BOARDS
         \n•	Internal Structure of Arduino
         \n•	Wiring and Programming IDE
 
-        \nDAY 2:
-        \n    INTRODUCTION TO ANDROID
+        \n\n\nDAY 2:
+        \n\n   INTRODUCTION TO ANDROID
         \n•	Introduction to different types of Android Applications
         \n•	Communication between Android Embedded System
         \n•	Introduction to Voice Controlled Robot Application
-        \n    INTRODUCTION OF BLUETOOTH MODULE
+        \n\n    INTRODUCTION OF BLUETOOTH MODULE
         \n•	Writing and programming of IDE
         \n•	Basics of Bluetooth
         \n•	Bluetooth connections between to devices
         \n•	Bluetooth module with Arduino
-        \n    INTRODUCTION OF PROCESSING
+        \n\n    INTRODUCTION OF PROCESSING
         \n•	Wiring and Programming IDE
-        \n    INTRODUCTION TO BLUETOOTH MODULE
+        \n\n    INTRODUCTION TO BLUETOOTH MODULE
         \n•	"TERA TERM SOFTWARE"
         \n•	Serial Communication Between MAT LAB and Microcontroller
-        \n    CONNECTING ARDUINO WITH PROCESSING
+        \n\n    CONNECTING ARDUINO WITH PROCESSING
         \n•	 Serial and Parallel Communication with Arduino
-        \n    INTRODUCTION TO L293D (MOTOR DRIVER)
+        \n\n    INTRODUCTION TO L293D (MOTOR DRIVER)
         \n•	Introduction to actuators
         \n•	 Introduction to NPN PNP transistor switching
         \n•	 Working of motors
-        \n    CREATING YOUR BLUETOOTH CONTROLLED ROBOT
+        \n\n    CREATING YOUR BLUETOOTH CONTROLLED ROBOT
         \n 1.Assembling
         \n•	Assembling robot and circuitry
-        \n        2.Programming
+        \n\n        2.Programming
         \n•	Coding : Burning program within microcontroller
         \n•	Testing : Functioning of a Robot
 </string>
     <string name="workshop_content_3d_game_designing_and_virtual_reality">SESSION 1:
-        \n    Introduction to Virtual Reality
+        \n\n    Introduction to Virtual Reality
         \na.	Overview
         \nb.	Planning
         \nc.	Technologies
-        \n    AUGMENTED REALITY VS VIRTUAL REALITY
-        \n    DISPLAY TECHNOLOGIES
+        \n\n    AUGMENTED REALITY VS VIRTUAL REALITY
+        \n\n    DISPLAY TECHNOLOGIES
         \na.	Head Mounted Display
         \nb.		Contact lenses
         \nc.		Eye Glasses
@@ -2070,81 +2070,81 @@
         \n    VR Applications
          \n   Software Distribution
 
-        \nSESSION 2:
-        \n3D Unity
+        \n\n\nSESSION 2:
+        \n\n3D Unity
         \n    Software Installation
         \n    Working on 3d unity
         \n    Basic Functions of 3D Unity
         \n    Basic ball game design using Unity
-        \n Advance ball game design using Unity
+        \n\n Advance ball game design using Unity
 
-        \nSESSION 3:
+        \n\n\nSESSION 3:
         \n    Designing an environment like “Temple run game”
         \n    Creating Coins with animation
         \n    How to display a score
         \n    Designing sky boxes, mountains, trees, water etc.
         \n    Designing a Virtual Maze game
 
-        \nSESSION 4:
+        \n\n\nSESSION 4:
         \n    Virtual Reality Kit distribution
         \n    Virtual Reality Google Headset building
         \n    Demonstration of live VR projects developed by students.
         \n    Zonal Level competition
 </string>
     <string name="workshop_content_creo_workshop">Solid Modeling
-        \nModel Structure
-        \nModel Analysis
-        \nAssembly Constraints
-        \nAssembling Systems
-        \nAssembling Mechanisms
-        \nConcept Development
-        \nPreliminary Design
-        \nCreating Parts and Assemblies
-        \nAdvanced Modeling
-        \nA Virtual Laboratory
-        \nCalculating Stress and Deflection</string>
+        \n\nModel Structure
+        \n\nModel Analysis
+        \n\nAssembly Constraints
+        \n\nAssembling Systems
+        \n\nAssembling Mechanisms
+        \n\nConcept Development
+        \n\nPreliminary Design
+        \n\nCreating Parts and Assemblies
+        \n\nAdvanced Modeling
+        \n\nA Virtual Laboratory
+        \n\nCalculating Stress and Deflection</string>
     <string name="workshop_content_advanced_iot">Day 1
-        \nWhat is Internet of Things? (45 min)
-        \nIntroduction
-        \nIoT Architectures
-        \nBuilding IoT Network (75 min)
-        \nSensors, Actuators, MEMS
-        \nSmart Objects, SANETS, WSNS
-        \nConnecting IoT Devices Over Wireless with IEEE 802.15.4
-        \nFamily of Protocols, Amendments - ZigBee, LPWANs, LoRaWAN
-        \nHome IoT Network – NFC, Bluetooth, WIFI, IPV6 – adaptations
-        \nManagement Protocols – CoAP, MQTT, SCADA
-        \nSecurity
-        \nBeginning of your journey with IoT (Hands –on) (3 hours)
-        \nInstructor led step by step project
-        \nHardware Setup and Data Collection
-        \nOverview of hardware board and companion networking board
-        \nHands on with Sensors/Programming
-        \nProject with Sensors and data collection
-        \nYour journey with IoT (Hands-On) – Making sense of the Data (3 Hours)
-        \nIntroduction to PTC ThingWorx IoT Platform – How PTC ThingWorx
-        \nsolutions reduce the time, cost, and risk required to build innovative
-        \nMachine-to-Machine (M2M) and Internet of Things (IoT) applications
-        \nProject - Create remote thing in ThingWorx. Add properties that match with sensors.
-        \nBuild an IoT application using the revolutionary Mashup Technology
-        \nDay 2
-        \nThingworx IIoT Application Demo (1 hour)
-        \nYour journey with IoT (Hands-on) - Harnessing the data from IoT Network(2 hours)
-        \nThingworx Analytics – Introduction to Anomaly Detection
-        \nAnalytics, Big Data, Machine Learning
-        \nEdge, Fog Computing
-        \nIndustry Applications Overview (1 hour)
-        \nManufacturing
-        \nTransportation
-        \nSmart City
-        \nPublic Safety
-        \nSelf-propelled exploration projects with IoT (4 hours)
-        \nBuild your own IoT project
-        \nChoose from curated sample projects
-        \nBring your own idea
-        \nCollect the Sensors data
-        \nBuild IoT Applications using the data.
-        \nAnalyze the data from sensors</string>
+        \n\nWhat is Internet of Things? (45 min)
+        \n\nIntroduction
+        \n\nIoT Architectures
+        \n\nBuilding IoT Network (75 min)
+        \n\nSensors, Actuators, MEMS
+        \n\nSmart Objects, SANETS, WSNS
+        \n\nConnecting IoT Devices Over Wireless with IEEE 802.15.4
+        \n\nFamily of Protocols, Amendments - ZigBee, LPWANs, LoRaWAN
+        \n\nHome IoT Network – NFC, Bluetooth, WIFI, IPV6 – adaptations
+        \n\nManagement Protocols – CoAP, MQTT, SCADA
+        \n\nSecurity
+        \n\nBeginning of your journey with IoT (Hands –on) (3 hours)
+        \n\nInstructor led step by step project
+        \n\nHardware Setup and Data Collection
+        \n\nOverview of hardware board and companion networking board
+        \n\nHands on with Sensors/Programming
+        \n\nProject with Sensors and data collection
+        \n\nYour journey with IoT (Hands-On) – Making sense of the Data (3 Hours)
+        \n\nIntroduction to PTC ThingWorx IoT Platform – How PTC ThingWorx
+        \n\nsolutions reduce the time, cost, and risk required to build innovative
+        \n\nMachine-to-Machine (M2M) and Internet of Things (IoT) applications
+        \n\nProject - Create remote thing in ThingWorx. Add properties that match with sensors.
+        \n\nBuild an IoT application using the revolutionary Mashup Technology
+        \n\n\nDay 2
+        \n\nThingworx IIoT Application Demo (1 hour)
+        \n\nYour journey with IoT (Hands-on) - Harnessing the data from IoT Network(2 hours)
+        \n\nThingworx Analytics – Introduction to Anomaly Detection
+        \n\nAnalytics, Big Data, Machine Learning
+        \n\nEdge, Fog Computing
+        \n\nIndustry Applications Overview (1 hour)
+        \n\nManufacturing
+        \n\nTransportation
+        \n\nSmart City
+        \n\nPublic Safety
+        \n\nSelf-propelled exploration projects with IoT (4 hours)
+        \n\nBuild your own IoT project
+        \n\nChoose from curated sample projects
+        \n\nBring your own idea
+        \n\nCollect the Sensors data
+        \n\nBuild IoT Applications using the data.
+        \n\nAnalyze the data from sensors</string>
     <string name="workshop_content_hello_to_hired">Sessions:
         \n1.	Role of Communication Skills’=
         \n2.	Confidence Building
@@ -2153,7 +2153,7 @@
         \n5.	Body Language and Etiquette
         \n6.	Mock Interviews
 
-        \nThe training involves:
+        \n\nThe training involves:
         \na. A pre-course questionnaire
         \nb. Activity-based sessions
         \nc. Mock interviews
@@ -2161,7 +2161,7 @@
         \ne. Certificate to every participant
 </string>
     <string name="workshop_content_rc_nitro_car"> 	Complete study of automobile sector and vehicle dynamics
-        \n1.	Basics of Automobile
+        \n\n1.	Basics of Automobile
         \n•	What is an automobile?
         \n•	Design of chassis
         \n•	Suspension unit
@@ -2169,7 +2169,7 @@
         \n•	Transmission system
         \n•	Braking Unit
         \n•	IC engine
-        \n2.	Vehicle Dynamics
+        \n\n2.	Vehicle Dynamics
         \n•	Geometric aspects of automobile
         \n•	Aerodynamic aspects of vehicle
         \n•	Aspects of vehicles related to
@@ -2203,7 +2203,7 @@
         \n13. Introduction to Motion sensing devices
         \n14. Introduction to Airbar
 
-        \nDay 2:
+        \n\nDay 2:
         \n1. Create Interactive Touch Wall
         \n2. Convert normal laptop screen into touch
         \n3. Control your PC using gestures
@@ -2283,10 +2283,9 @@
         \n•	Fabricate your own Hovercraft and also get guided to implement your own innovative hovercraft design concepts.
         \n•	Learn about different hovering techniques of hovercrafts by test running your hovercrafts in land and water and enhance your aeromodelling and automobile skills.
 </string>
-    <string name="workshop_outcome_android_app_development">AT THE END OF THE WORKSHOP, PARTICPANTS WILL HAVE A KNOWLEDGE OF HOW TO GET STARTED FOR DEVELOPING AN APPLICATION FROM SCRATCH AND CONVERTING IDEA ON PAPER TO REALITY.
-        \nALSO STUDENTS WILL HAVE AN INSIGHT OF GOOD CODING PRACTISES AND NEW TRENDS IN ANDROID DEVELOPMENT.
+    <string name="workshop_outcome_android_app_development">At the end of the workshop, participats will have a knowledge of how to get started for developing an application from scratch and converting idea on paper to reality. Also students will have an insight of good coding practises and new trends in android development.
 </string>
-    <string name="workshop_outcome_fantastic_four">AT THE END OF THE WORKSHOP STUDENTS WILL BE ABLE TO MAKE THEIR OWN GESTURE CONTROLLED ROBOT, VOICE CONTROLLED ROBOT, BLUETOOTH CONTROLLED ROBOT, TOUCH SCREEN CON-TROLLED ROBOT AND ANDROID CONTROLLED ROBOT. </string>
+    <string name="workshop_outcome_fantastic_four">At the end of the workshop students will be able to make their own gesture controlled robot, bluetooth controlled robot, touch screen controlled robot and android controlled robot.</string>
     <string name="workshop_outcome_3d_game_designing_and_virtual_reality"> Game design concept and their perspectives
         \nStrong knowledge on Unity 3D Game Engine
         \nSolid introduction to VR and techniques through Vuforia.
