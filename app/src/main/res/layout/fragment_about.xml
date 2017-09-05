@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:gravity="center">
 
+
+    <com.github.siyamed.shapeimageview.CircularImageView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/aceshub"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="About"
+        android:text="MindSpark Application is made by aceshub group under GPL Licence v2.0"
+        android:gravity="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="17sp"
+        android:layout_margin="10dp"
         android:layout_gravity="center"
         />
 </LinearLayout>
