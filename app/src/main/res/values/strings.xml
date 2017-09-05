@@ -154,14 +154,14 @@
     <string name="event_objective_virtual_labs">1. Raising awareness about the Virtual Labs initiative- a group effort by the top 8 IITs along with CoEP.\n2. Improving access and effectiveness of the available learning resources.</string>
 
 
-    <string name="event_structure_epitome">Round 1: Multiple Choice Questions
-        \n Round 2: The qualified teams should make a structure for the problem statement within the given time using materials provided by the organizers.</string>
+    <string name="event_structure_epitome">Round 1: \nMultiple Choice Questions
+        \n\n Round 2: \nThe qualified teams should make a structure for the problem statement within the given time using materials provided by the organizers.</string>
     <string name="event_structure_conquest">Three concrete cylinders should be casted from M40 Grade mix of age less than or equal to 28 days on the day of the event. Winners will be decided by taking average of tensile strengths and weight of three cylinders and the short quiz about mix design. Cylinder should have maximum split tensile strength and minimum weight. Maximum split tensile strength and the maximum score in short quiz about mix design will be considered as particular for winning criteria.
         \n\nDesign Specifications:
         \n Design and Cast 3 concrete cylinders of size having diameter 150mm and length 300mm.These specimens will be tested at the age of 28 days for split tensile strength and weight.
         \n\nQuiz Specifications:
         \n Short quiz will be based on mix design and use of natural fibers in design.
-        \n MATERIAL PROVIDED FOR MODEL MAKING.
+        \n\n MATERIAL PROVIDED FOR MODEL MAKING.
         \nCutter
         \nSand Paper
         \nHigh Density thermocol (10mm) Normal thermocol (10mm)
@@ -173,156 +173,150 @@
         \nTinted sheets (green and brown)</string>
     <string name="event_structure_metropolis">Round 1: Sheets and report submission.
         \n(Only top ten finalists will be selected for second round)
-        \nRound 2: Model making round.
-        \nRound3: Visual presentation through sheets, Model, 3D view and Drawings
-        \nFormat:
-        \nReport Writing:
+        \n\nRound 2: Model making round.
+        \n\nRound3: Visual presentation through sheets, Model, 3D view and Drawings
+        \n\nFormat:
+        \n\nReport Writing:
         \n• Minimum No. of pages- 20
         \n• Typed report and printed on standard, white A4 size 8.5*11inch paper.
         \n• Font size- 12.
         \n• Style- Century
         \n• Spacing- Single.
-        \nSheet:
+        \n\nSheet:
         \n• Minimum 3 and maximum 10</string>
     <string name="event_structure_id_civil">Round 1: This round consists of submission of abstracts (Time 3 hours). Problem statement will be provided on the day of event.
-        \nRound 2: This round involves execution of the problem statement on AutoCAD. Based on the evaluation from Round 1 and Round 2, participants eligible for 3rd round will be selected.
-        \nRound 3: Prepare a presentation explaining the brief logic behind the design and why you did what you did.</string>
+        \n\nRound 2: This round involves execution of the problem statement on AutoCAD. Based on the evaluation from Round 1 and Round 2, participants eligible for 3rd round will be selected.
+        \n\nRound 3: Prepare a presentation explaining the brief logic behind the design and why you did what you did.</string>
     <string name="event_structure_assemblix">Round 1: Multiple Choice Questions with only one answer. MCQs will be based on the basics of Machine Drawing, blueprint reading and your knowledge about machines.
-        \nRound 2: You will be given an assembly drawing or its exploded view and your task will be to decide the optimized sequence to assemble the mechanical components.
-    \   nRound 3: Assembly of a given machine"\'"s sub-assembly.
-        \nDetails:
+        \n\nRound 2: You will be given an assembly drawing or its exploded view and your task will be to decide the optimized sequence to assemble the mechanical components.
+       \n\nRound 3: Assembly of a given machine"\'"s sub-assembly.
+        \n\nDetails:
         \nRound 1 will test your ability to understand assembly, production drawing, mechanical components and workshop knowledge.
         \nTeams qualifying from Round 1 will be shortlisted for Round 2. In this round, qualified teams will be provided with the assembly drawing. The teams then will have to give a proper sequence to assemble the components of a given assembly with specifying time required for each step as well as the instruments required. Further the teams will be shortlisted based on their performance.
         \nTop 10 teams will be allowed to attempt the Round 3.
         \nIn this final round, drawing may or may not be provided. This task needs to be completed in a pre-specified time. Teams have to use their knowledge and their abilities to join the given parts and complete the assembly.</string>
     <string name="event_structure_id_2d">Round 1: Multiple Choice Questions or Single line answers.
-        \nRound 2: Drawing the orthographic/ isometric view of the given view (AutoCAD software).</string>
+        \n\nRound 2: Drawing the orthographic/ isometric view of the given view (AutoCAD software).</string>
     <string name="event_structure_id_3d">Round 1: MCQ round based on general knowledge of 3D software.
-        \nRound 2: We will give the orthographic views of the parts. Participant need to make a 3D model of every part and assemble it.
-        \nRound 3: We will give a topic and the participant needs to design and make a 3D model of the system.</string>
+        \n\nRound 2: We will give the orthographic views of the parts. Participant need to make a 3D model of every part and assemble it.
+        \n\nRound 3: We will give a topic and the participant needs to design and make a 3D model of the system.</string>
     <string name="event_structure_mechtrix">Round 1: MCQ round (no elimination).
-        \nRounds 2 and 3: Complete the given task using the materials provided by the organizers. There will be elimination after the second round based on the combined points of 1st and 2nd rounds and the shortlisted teams will compete in the final round for the title of the MECHTRIX CHAMPIONS.</string>
+        \n\nRounds 2 and 3: Complete the given task using the materials provided by the organizers. There will be elimination after the second round based on the combined points of 1st and 2nd rounds and the shortlisted teams will compete in the final round for the title of the MECHTRIX CHAMPIONS.</string>
     <string name="event_structure_turnament">Round 1: Quiz paper
-        \nRound 2: Making the given job on lathe (Simple Job)\t(15 -18 teams)
-        \nRound 3: Making the given job on lathe(Complicated Job)\t(5 teams)</string>
+        \n\nRound 2: Making the given job on lathe (Simple Job)\t(15 -18 teams)
+        \n\nRound 3: Making the given job on lathe(Complicated Job)\t(5 teams)</string>
 
-    <string name="event_structure_code_junkie">Round 1: This round will consist of multiple choice questions. The time limit will be 30 minutes. Negative marking will be implemented; details for which will be disclosed at the time of the event.
-        \nRound 2: The top teams from Round 1 will advance to this round. This round will be conducted in the campus and in different slots. This round will be a rapid coding round where the output file needs to be submitted and will be judged. Teams will be given a set of questions to be solved within a stipulated time. How fast the team builds up a working code will be considered. Scoring scheme will be disclosed at the time of event.
-        \nRound 3: The top teams from Round 2 will advance to the finals. This round will be a speed coding round and relatively tough questions will be set up. This time, the teams will have to make the code both working as well as efficient. All the possible inputs and corner cases shall be handled. According to the time taken to submit the code along with the efficiency of the code, the teams will be judged.</string>
-    <string name="event_structure_code_junkie_pp">Round 1: It will consist of multiple choice questions with single correct answer. Participating teams could take the test from only one of these 3 categories:
-        \n1) C++
+    <string name="event_structure_code_junkie">Round 1: \nThis round will consist of multiple choice questions. The time limit will be 30 minutes. Negative marking will be implemented; details for which will be disclosed at the time of the event.
+        \n\nRound 2: \nThe top teams from Round 1 will advance to this round. This round will be conducted in the campus and in different slots. This round will be a rapid coding round where the output file needs to be submitted and will be judged. Teams will be given a set of questions to be solved within a stipulated time. How fast the team builds up a working code will be considered. Scoring scheme will be disclosed at the time of event.
+        \n\nRound 3: \nThe top teams from Round 2 will advance to the finals. This round will be a speed coding round and relatively tough questions will be set up. This time, the teams will have to make the code both working as well as efficient. All the possible inputs and corner cases shall be handled. According to the time taken to submit the code along with the efficiency of the code, the teams will be judged.</string>
+    <string name="event_structure_code_junkie_pp">Round 1:
+        \nIt will consist of multiple choice questions with single correct answer. Participating teams could take the test from only one of these 3 categories:
+        \n\n1) C++
         \n2) Java
         \n3) Python
-        \nMaximum 100 questions could be attempted by a team.The marking scheme will be announced on the spot. This round will be conducted online, but in our campus. You will be provided access to the test only if you report at our event venue during the allotted time slot.
-        \nRound 2: This round is a puzzle round. Some tricky problem statements will be given and participants will have to find out the solution within a given time. More details will be disclosed on the spot to the qualified teams.
-        \nRound 3 (Final):This round will be a proper coding round and relatively tough questions will be set up. This time, the teams will have to try to make the code both working as well as efficient. All possible inputs and corner cases shall be handled. Judging criteria will have great emphasis on execution time and memory usage of the programs.
+        \n\nMaximum 100 questions could be attempted by a team.The marking scheme will be announced on the spot. This round will be conducted online, but in our campus. You will be provided access to the test only if you report at our event venue during the allotted time slot.
+        \n\nRound 2: \nThis round is a puzzle round. Some tricky problem statements will be given and participants will have to find out the solution within a given time. More details will be disclosed on the spot to the qualified teams.
+        \n\nRound 3 (Final):\nThis round will be a proper coding round and relatively tough questions will be set up. This time, the teams will have to try to make the code both working as well as efficient. All possible inputs and corner cases shall be handled. Judging criteria will have great emphasis on execution time and memory usage of the programs.
         \nMore details will be disclosed on the spot.</string>
-    <string name="event_structure_xterminate">Round 1: This round will consist of multiple choice questions. The marking scheme and time limit will be announced on the spot.
-        \nRound 2: Each team will be given two problem statements. Within the time specified at the event, you will have to find the solution. Points will be given based on the approach and to the number of programs solved.
-        \nRound 3: Each team will be given two sets of problems.One set will have programming questions and the other set will have debugging problems. We will provide two computers to each team. One computer will be used for debugging and other will be used for programming. Each participant will be assigned one computer. For the debugging problems, we will give you codes with logical and syntactical errors and the teams will be expected to correct all errors. In this round, team members will have to swap places after regular intervals of time (the duration of which will be specified at the time of the event). Each participant will be allowed to work on only one problem at a time, and the next problem will be provided only after completion of the current problem.</string>
-    <string name="event_structure_retracer">Round 1: This round will consist of multiple choice questions. Participants will be asked to identify patterns in the given problem inputs and outputs and choose the governing algorithm or code snippets from the given options. The teams with maximum number of logically correct answers to MCQ’s will proceed to the next round.
-        \nRound 2: Teams will be allotted problem statements containing program input and their respective output. The teams will be asked to develop their own programs to solve the problem for any test case. The judging criteria will be time required to produce error free code as well as the code efficiency. Participants are expected to follow good coding practices.</string>
+    <string name="event_structure_xterminate">Round 1: \nThis round will consist of multiple choice questions. The marking scheme and time limit will be announced on the spot.
+        \n\nRound 2: \nEach team will be given two problem statements. Within the time specified at the event, you will have to find the solution. Points will be given based on the approach and to the number of programs solved.
+        \n\nRound 3: \nEach team will be given two sets of problems.One set will have programming questions and the other set will have debugging problems. We will provide two computers to each team. One computer will be used for debugging and other will be used for programming. Each participant will be assigned one computer. For the debugging problems, we will give you codes with logical and syntactical errors and the teams will be expected to correct all errors. In this round, team members will have to swap places after regular intervals of time (the duration of which will be specified at the time of the event). Each participant will be allowed to work on only one problem at a time, and the next problem will be provided only after completion of the current problem.</string>
+    <string name="event_structure_retracer">Round 1: \nThis round will consist of multiple choice questions. Participants will be asked to identify patterns in the given problem inputs and outputs and choose the governing algorithm or code snippets from the given options. The teams with maximum number of logically correct answers to MCQ’s will proceed to the next round.
+        \n\nRound 2: \nTeams will be allotted problem statements containing program input and their respective output. The teams will be asked to develop their own programs to solve the problem for any test case. The judging criteria will be time required to produce error free code as well as the code efficiency. Participants are expected to follow good coding practices.</string>
     <string name="event_structure_predict_x">Predict-X will consist of a single problem statement split into two sections, fundamental and technical. Participants will have 30 days to solve these problems. During the 30 days, the participants must register and submit the solution in the form of a code and a solution set that will need to be uploaded.
         \nPredict-X will present its participants with datasets and a blank solution set which will need to be filled as per the output of your written code. Predict-X wants to challenge your ability in scanning and analyzing data and hence it will have no programming language restrictions.
-        \nJUDGING CRITERIA:
+        \n\nJUDGING CRITERIA:
         \nJudging will be based on the correctness of solution and code review. Both sections have a decided mathematical marking scheme which will be followed to rank the submitted solutions. In case of a tie the code review will be considered. An accurate solution with an absurd code will be disqualified and considered as cheating. Provided accuracy in solution and code, participants will be judged on the efficiency of the code and its ability to be generalized for other similar problem statements.
-        \nDETAILS:
+        \n\nDETAILS:
         \nPredict-X consists of just one round split in two sections, fundamental and technical. The event will be conducted online and has no programming language restriction. The context of the datasets needed will be provided. The expected format of the solution, code and reference and mining of the datasets will be explicitly mentioned. The event will be conducted on Hacker Rank under the name Predict-X. Registration and submission of code must fall within the 30 days of its existence. Using any reference material while solving the problem is allowed, but copying code from other contesting teams will be deemed illegal.</string>
     <string name="event_structure_hackathon2.0">Problem Statement Declaration:
         \nThe overall problem statements will be released by 14 August 2017, Monday. A few more details will be released a week prior, around 9 September.
         \nParticipants will have to choose one problem statement from the options offered. The overall problem statement will contain a basic idea of what the participants will be working on.
-        \n24-hour Hackathon:
+        \n\n24-hour Hackathon:
         \nAll the participating teams will work round-the-clock on their chosen problem statements for a period of 24 hours, starting at around 4-5 pm on 16th September.
         \nAt the end of the allotted time, the teams will give the final presentations in-front of the judges.
-        \nDate: 16th and 17th September 2017.
-        \nTime: Teams will start working around 4-5 pm on 16th September and will be expected to have a complete working solution by 4-5 pm on 17th September.</string>
+        \n\nDate: 16th and 17th September 2017.
+        \n\nTime: Teams will start working around 4-5 pm on 16th September and will be expected to have a complete working solution by 4-5 pm on 17th September.</string>
 
     <string name="event_structure_circuit_fixer_1">Round 1:This round will consist of Multiple Choice Questions based test.
-        \nRound 2:In this round, practical knowledge of basic electrical and electronic circuits of the participant team will be tested. The time limits will be mentioned on the day of event (Details about it will be given on the spot).
-        \nRound 3:In this round, individual teamsneed to implement the circuit according to the problem statement given.</string>
+        \n\nRound 2:In this round, practical knowledge of basic electrical and electronic circuits of the participant team will be tested. The time limits will be mentioned on the day of event (Details about it will be given on the spot).
+        \n\nRound 3:In this round, individual teamsneed to implement the circuit according to the problem statement given.</string>
     <string name="event_structure_circuit_fixer_2">Round 1: Quiz round with Multiple Choice Questions
-        \nRound 2: Subjective-type questionnaire in which teams will be asked to solve questions within a set time limit.
-        \nRound 3: Problem statement will be provided to teams which qualify from Round 2. Teams will have to design a circuit to solve the given problem. This round will be judged by experts.</string>
+        \n\nRound 2: Subjective-type questionnaire in which teams will be asked to solve questions within a set time limit.
+        \n\nRound 3: Problem statement will be provided to teams which qualify from Round 2. Teams will have to design a circuit to solve the given problem. This round will be judged by experts.</string>
     <string name="event_structure_encrypto">Round 1: This will be an MCQ round testing the participants’ basic knowledge of Electronics and System design.
-        \nRound 2: This round will test the logical reasoning ability of the students in the field of Electronics and System design and give optimal solutions to cryptographic problems. Students will have to answer questions in descriptive manner and if required draw circuits explaining their answer.
-        \nRound 3: Shortlisted students will have to go through a viva taken by one of the college faculty.</string>
+        \n\nRound 2: This round will test the logical reasoning ability of the students in the field of Electronics and System design and give optimal solutions to cryptographic problems. Students will have to answer questions in descriptive manner and if required draw circuits explaining their answer.
+        \n\nRound 3: Shortlisted students will have to go through a viva taken by one of the college faculty.</string>
     <string name="event_structure_microapps">Round 1: Microcontrollers, you think you know them?
         \nA written test will be conducted with objective type questions and a few subjective questions as well. The questionnaire will be based on the basic theory of microcontrollers and its applications. Basic knowledge of microcontroller units (timer, ADC, DAC etc.) and its peripherals is required. Other details regarding the duration and marking scheme will be disclosed at the time of the event.
-        \nRound 2: Are you "\'"Code-blooded"\'"?
+        \n\nRound 2: Are you "\'"Code-blooded"\'"?
         \nTop teams from round 1 will advance into this round. Participants will be tested for their C coding skills and logic. The microcontroller that will be used is from MSP430 family of Texas Instruments or Arduino. The IDE will be Code Composer Studio (CCS). Participants will be introduced to the microcontroller as well as the IDE by experts.] prior to the commencement of this round. Internet facility is also provided. Details regarding problem statement and rules will be provided at the time of the round.
-        \nRound 3: Can you think \'Out of the Box\'?
+        \n\nRound 3: Can you think \'Out of the Box\'?
         \nFinalists selected from round 2 will advance into this round. They are required to analyze the given problem statement which will be based on the theme ‘ Towards Techno-Utopia’ and come up with innovative and optimized solution. Design of the solution should include both hardware and software aspects. After the design, the teams will have to implement it successfully within the stipulated time. All the material required for implementation will be provided by the organisers. Teams will be assessed based on their way of approach and understanding of the problem, justification for how their solution is consistent with the theme of the event.
-        \nEvaluation procedure will be disclosed just before the commencement of this round.</string>
+        \n\nEvaluation procedure will be disclosed just before the commencement of this round.</string>
 
     <string name="event_structure_on_the_etch">Round 1: It is a metallographic quiz which comprises of 40% weightage of total evaluation.
-        \nRound 2: This round consists of making and presentation of microstructure of the sample followed by small question answer session with judges. This round comprises of 60% weightage of total evaluation.</string>
+        \n\nRound 2: This round consists of making and presentation of microstructure of the sample followed by small question answer session with judges. This round comprises of 60% weightage of total evaluation.</string>
     <string name="event_structure_dexters_lab">Round 1: It will consist of objective-type questions related to basic chemistry and its application.
-        \nRound 2: This round will test your practical skills. In the practical round, participants will be expected to perform certain simple experiments in provided time limit. Experiments will be explained before the concerned rounds. Accuracy and precision in results will be given priority.
-        \nRound 3: This will be a viva round, where your knowledge will be tested by the experts in the field.</string>
+        \n\nRound 2: This round will test your practical skills. In the practical round, participants will be expected to perform certain simple experiments in provided time limit. Experiments will be explained before the concerned rounds. Accuracy and precision in results will be given priority.
+        \n\nRound 3: This will be a viva round, where your knowledge will be tested by the experts in the field.</string>
     <string name="event_structure_wheelomation">Abstract Details: The abstract submission is mandatory and is intended to give us an idea about the effort put in by the participants. The abstract must include close up photos of your empty chassis, steering system and suspension system. Even if your car is incomplete, do send your abstracts. It helps us to make sure that ready-made machines are not entertained in the qualification round.
         \nRound 1: Qualification Round:
         \nThis round will consist of time trials. Two laps are to be completed one-by-one. The best lap time will be considered and relative ranking will be done accordingly. First 16 teams will be shortlisted for the next round.
-        \nRound 2: Elimination Round:
+        \n\nRound 2: Elimination Round:
         \nTop 16 teams from first round will be selected for this round.
         \nA modified track shall be disclosed at the time of event and each team will get a copy of all the details of the other teams and all teams will be given 15 minutes to analyze the track. Each team beginning from rank 1 will get a chance to challenge any team. Any team can reject a challenge only twice, except when the team is being challenged by a team ranked lower than it. If the challenge thrown by a team is rejected, the next ranked team gets the chance to challenge any team.
         \nIf a challenge is accepted, a time slot will be given to those teams and the match will be conducted. In this round, after the challenge, all the 16 teams race with their respective competitors and the 8 winning teams will be promoted to the next round.
-        \nRound 3: Same procedure of challenging will be followed after modifying the track in Round 3. At the end of the third round, the 4 winning teams will be ranked according to the time in which they complete the race.
-        \nFinals:
+        \n\nRound 3: Same procedure of challenging will be followed after modifying the track in Round 3. At the end of the third round, the 4 winning teams will be ranked according to the time in which they complete the race.
+        \n\nFinals:
         \n1. The finals consist of 4 matches: Semifinal 1 and Semifinal 2, followed by 3rd place playoff and the Mega final.
         \n2. Semifinal 1 will have 1stvs 4thwhile semifinal 2 has 2ndvs. 3rd.
         \n3. The losers of the two rounds will face each other for the 3rdplace playoff.
         \n4. Mega Finals: This will feature the winners of Semifinal 1 and Semifinal 2 battling it out to be crowned as the “CHAMPIONS of WHEELO”.
-        \nTHE LAST DATE FOR ACCEPTING ABSTRACTS IS 16TH SEPTEMBER 2017.</string>
+        \n\nTHE LAST DATE FOR ACCEPTING ABSTRACTS IS 16TH SEPTEMBER 2017.</string>
     <string name="event_structure_the_wright_turn_glider">Part A: Make your own Glider
         \nIn this round, you have 30mins to make your glider. We will provide you the required materials (cardboard, scissor, glue, cutter, tape) and a basic design of glider will be available. However, you are allowed to bring your own design which would be beneficial for you.
-        \nPart B: Test Flight
+        \n\nPart B: Test Flight
         \nIn this round, each team will have 3 chances to fly their gliders. Out of 3 trials, best air time will be measured. Points will be awarded for air time, flight and design of the glider.</string>
     <string name="event_structure_the_wright_turn_rc_plane">Round 1:
-        \nPart A: Inspection Round
+        \n\nPart A: Inspection Round
         \nIn this round, the plane will be tested for its design and safety constraints.
-        \nPart B: Test Flight
+        \n\nPart B: Test Flight
         \nModels successfully clearing the inspection round will be given test flight. Teams will be judged for the functionality of their model and flying skills.
-        \nPart C: Theory of your design
+        \n\nPart C: Theory of your design
         \nExplain the logic and science behind your design and how it flies.
-        \nNOTE: Those who are not able to fly their aircraft, judges will help them for their test flight.
-        \nRound 2:
-        \nPart A: Innovation
+        \n\nNOTE: Those who are not able to fly their aircraft, judges will help them for their test flight.
+        \n\nRound 2:
+        \n\nPart A: Innovation
         \nSolar RC Planes, Miniature Planes (which can be used for surveillance) and make minimal noise, etc.
-        \nPart B: Practicability(Why should my plane be deployed?)
+        \n\nPart B: Practicability(Why should my plane be deployed?)
         \nApplications such as aerial photography, monitoring(agriculture, construction sites, wildlife and poaching), search and rescue operations, military applications, delivery of goods and medicines etc.
-        \nPoints:
+        \n\nPoints:
         \nThe marking scheme will be notified on the day of event. Top priority will be given to take-off and landing, application and innovation. Points will also be awarded to clearing the checkpoints and performing aerobatics.
-        \nArena Description for RC planes:
+        \n\nArena Description for RC planes:
         \n1. Take off Zone – 10x1.5m
         \n2. Qualification line – 8m ahead of Take-off Zone
         \n3. There will be certain checkpoints consisting of poles arranged in a specific manner which will be notified on the same day.
         \n4. Bonus points will be rewarded to aerobatics performed by the RC plane. These aerobatics may include vertical loop, horizontal loop, barrel roll, stall turn, inverted flight etc. Landing zone – square of 5m side</string>
     <string name="event_structure_aqualympics">Round 1: Every boat must complete 3 rounds in the arena. The RC boats with the best lap time on the course will qualify for the next round. The number of teams that qualify for the next round will depend on the number of participating teams in the event.
-        \nRound 2: The qualified RC boats will then face balloon obstacles along the course. Any boat that touches a balloon will be penalized by adding 2 seconds to their lap time. Similarly, any boat touching the walls of arena will be penalized by adding 3 seconds to their lap time. The RC boats with the best lap time on the course will qualify for the next round. The number of teams that qualify will depend on the number of participating teams in the event.
-        \nRound 3: This will be the final round with a minimum of 2 obstacles i.e. balloons and plastic balls. Any boat that touches the balloon and plastic ball will be penalized by adding 2 seconds and 1.5 seconds to their lap time, respectively. Similarly, any boat touching the walls of arena will be penalized by adding 3 seconds to their lap time. Now there’s a twist, being the fastest is not enough, points will be allotted for the circuit and design. The winner will be declared based on both the speed and the design.
-        \nNOTE: There might be additional rounds with added obstacles depending on the number of teams participating.
-        \nSpecifications:
+        \n\nRound 2: The qualified RC boats will then face balloon obstacles along the course. Any boat that touches a balloon will be penalized by adding 2 seconds to their lap time. Similarly, any boat touching the walls of arena will be penalized by adding 3 seconds to their lap time. The RC boats with the best lap time on the course will qualify for the next round. The number of teams that qualify will depend on the number of participating teams in the event.
+        \n\nRound 3: This will be the final round with a minimum of 2 obstacles i.e. balloons and plastic balls. Any boat that touches the balloon and plastic ball will be penalized by adding 2 seconds and 1.5 seconds to their lap time, respectively. Similarly, any boat touching the walls of arena will be penalized by adding 3 seconds to their lap time. Now there’s a twist, being the fastest is not enough, points will be allotted for the circuit and design. The winner will be declared based on both the speed and the design.
+        \n\nNOTE: There might be additional rounds with added obstacles depending on the number of teams participating.
+        \n\nSpecifications:
         \n1. Maximum length of Boat: 30 cm.
         \n2. Maximum width of Boat: 20 cm.
         \n3. Height has no restrictions but participants are recommended to keep it below 25 cm.
         \n4. Participants are free to use any materials of their choice. Recommended materials are light weight wood (balsa), Styrofoam, or plastic corrugated sheets.</string>
     <string name="event_structure_contraption">Problem Statement:
         \nSEGMENT A:- You have to open the DOOR of house. The door can be hinged anyway as you want and the material of the door can be a cardboard or thermocol.
-        \nSEGMENT B:- As soon as door opens, A BURGLAR ALARM should ring. There is no fixed time duration between opening the door and ringing the alarm.
-        \nSEGMENT C:- In the last segment, there will be a human profile (THE THIEF) standing at certain distance(not less than 1 feet), with the help of some energy conversion you have to projectile a small stone/solid material which will fly in air and it strike the thief . This is the final task that you have to accomplish i.e. "BEAT THE THIEF".
-        \nROUND 1:
+        \n\nSEGMENT B:- As soon as door opens, A BURGLAR ALARM should ring. There is no fixed time duration between opening the door and ringing the alarm.
+        \n\nSEGMENT C:- In the last segment, there will be a human profile (THE THIEF) standing at certain distance(not less than 1 feet), with the help of some energy conversion you have to projectile a small stone/solid material which will fly in air and it strike the thief . This is the final task that you have to accomplish i.e. "BEAT THE THIEF".
+        \n\nROUND 1:
         \nThe first round consists of abstract submission (soft copy).
-        \nLast date of submission of abstract is midnight of 15th September 2017. You can send it on our email ID: contraption@mind-spark.org
-        \nABSTRACT DETAILS:
-        \nTeam name:
-        \nTeam leader’s name with contact no. :
-        \nCollege name:
-        \nReceipt no:
-        \nAll participants details with contact no. :
-        \nEmail id for further contact :
-        \nContraption Design (200 words): (The overview and theme of contraption design)
-        \nROUND 2: Depending on the abstract teams will be short-listed for round II which will be the qualification round. All teams are expected to get 4 copies of the printed abstract for the event, clearly mentioning steps and chart, which shows all Energy conversions. (If possible, diagrams should be added.)
-        \nSCORING PATTERN:
+        \n\nLast date of submission of abstract is midnight of 15th September 2017. You can send it on our email ID: contraption@mind-spark.org
+        \n\nContraption Design (200 words): (The overview and theme of contraption design)
+        \n\nROUND 2: Depending on the abstract teams will be short-listed for round II which will be the qualification round. All teams are expected to get 4 copies of the printed abstract for the event, clearly mentioning steps and chart, which shows all Energy conversions. (If possible, diagrams should be added.)
+        \n\nSCORING PATTERN:
         \nA– Completion of first task. (180 marks)
         \nB– Completion of second task. (120 marks)
         \nC– Points for theme related steps. (Depending on steps, Decided by judges)
@@ -336,22 +330,22 @@
         \nK– Points for abstract representation, simplicity, presentation or explanation of contraption at the time of event and behavior of team.
         \nL– Points deducted due to hand touches. (30 for 4 hand touches, 60 for 5 hand touches, 120 for 6 hand touches)
         \nM– Points deduction due to failure in initializing two parallel lines at the starting.
-        \nFormula used:
+        \n\nFormula used:
         \nZ=180*A(A=1)+120*B(B=1)+C+D+15*E+3*F+15*G+5*H+I*15+20*J+K-L-M Note: -Points for [C, D and K] are given and decided by judges.
-        \nBonus steps:
+        \n\nBonus steps:
         \n1. Display of message promoting " TOWARDS TECHNO-UTOPIA"
         \n2. Use of non-conventional source of energy.
         \n3. Conservation of energy during the contraption (e.g.: switching off any appliance used, etc.)
-        \nTHEME RELATED STEPS:
+        \n\nTHEME RELATED STEPS:
         \nThis year\'s theme is \'TOWARDS TECHNO-UTOPIA’ Towards a technologically ideal world\'.
         \nTechno-utopia is an ideology based on the idea that advancement in science and technology could bring about utopia.
         \nTry to incorporate the steps involving the use of the things differing from the existing one in work, design. (e.g. using a bulb as a heat source)
         \nYou can claim points for such steps and if the judges found it appropriate then you can earn up to 30 points depending on the steps used.</string>
 
     <string name="event_structure_byldan">Round 1: This will be an online round. All teams will be allocated a fixed budget and land areas. They will be required to purchase amenities for the system from the given credit. Evaluation will be done on the basis on how well the constraints have been held up keeping practicality in mind (we are still working on a systematic way for expressing more creative inputs like flying cars and so on).
-        \nRound 2: This will be the be the final round. Each team will be provided a full imperial sheet on which they must provide a pictorial representation (block diagram acceptable) of their city plan. The teams are allowed to use only the inventory from the previous round.</string>
+        \n\nRound 2: This will be the be the final round. Each team will be provided a full imperial sheet on which they must provide a pictorial representation (block diagram acceptable) of their city plan. The teams are allowed to use only the inventory from the previous round.</string>
     <string name="event_structure_ppt_comp_it">Round 1: Participants should submit the abstract of their paper to team Mindspark17 via email. The email IDs are provided at the end of each event.
-        \nRound 2: Participants should submit their paper to the judges and give Power point presentation of (10+2) minutes, explaining the details of their research paper.
+        \n\nRound 2: Participants should submit their paper to the judges and give Power point presentation of (10+2) minutes, explaining the details of their research paper.
         \n\n1.CREATIVITY OF COMPUTERS.
         \nCreativity is very difficult, perhaps even impossible, to define in objective terms. Creativity amongst us manifests itself through a lifetime of sensory cues and experiences. Can, and to what extent can this ‘creativity’ be developed in an AI even after feeding it large data sets of existing sources of creative and non-creative material. 2.IMAGE PROCESSING AND THE “SEE” OF OPPORTUNITIES. A picture can speak a thousand words. From photoshopping your pimples, OCR, metallography, to military grade satellite imagery, this visual form of data is literally changing the way we see the world. How is (and can) image processing, picture restoration, color computation and all the new fields change the things we do today, and the way things will be done tomorrow?
         \n3.ETHICS FOR PLATFORMS.
@@ -364,31 +358,31 @@
         \nWe have all seen ‘Imitation Game’. Cryptography although a Mathematician’s game can now barely be done without the assistance of supercomputers. In today’s world, advancements and security scenario how does cryptography fit in?
         \n7. Any other topic of your choice (related to the theme of MindSpark’17) will be accepted.</string>
     <string name="event_structure_ppt_mech_prod_meta">Round 1: Submitted Abstracts will be reviewed by the Event Head
-        \nRound 2: Review by relevant faculty members
-        \nRound 3: Selected papers will be presented at the event by students</string>
+        \n\nRound 2: Review by relevant faculty members
+        \n\nRound 3: Selected papers will be presented at the event by students</string>
     <string name="event_structure_ppt_eei">Round 1: Participants should submit the abstract of their paper to team Mindspark17 via email. The email IDs are provided at the end of each event.
-        \nRound 2: Participants should submit their paper to the judges and give Power point presentation of (10+2) minutes, explaining the details of their research paper.
-        \nTOPICS
+        \n\nRound 2: Participants should submit their paper to the judges and give Power point presentation of (10+2) minutes, explaining the details of their research paper.
+        \n\nTOPICS
         \nSMART, EFFICIENT ENERGY GENERATION AND TRANSMISSION
         \nA. Maximum Power Point Tracking (MPPT) for solar panel system or wind mill systems
         \nB. Smart Grid Energy Systems
         \nC. Energy efficient ‘Electrical/Electronic Power Management and Transmission system’
-        \nSUSTAINABLE ENVIRONMENT FRIENDLY TECHNOLOGIES
+        \n\nSUSTAINABLE ENVIRONMENT FRIENDLY TECHNOLOGIES
         \nA. Energy generation from waste plastic, water, etc.
         \nB. Reduction of E-waste
         \nC. Use of Thermo Generators for Increased Efficiency and Eco-friendly Generation
-        \nSOCIETY AND TECHNOLOGY
+        \n\nSOCIETY AND TECHNOLOGY
         \nA. Disaster warning, response and prevention systems
         \nB. Technology in agriculture
         \nC. Innovative technologies in law and order
-        \nROBOT AND INTELLIGENT AUTONOMOUS SYSTEMS
+        \n\nROBOT AND INTELLIGENT AUTONOMOUS SYSTEMS
         \nA. Robots for precise, arduous and hazardous industrial/ domestic/ military tasks.
         \nB. Satellite and aerospace technology
-        \nNote: Apart from the above mentioned, any topic of your choice which is in accordance with the theme of MindSpark’17 will be accepted.
+        \n\nNote: Apart from the above mentioned, any topic of your choice which is in accordance with the theme of MindSpark’17 will be accepted.
     </string>
     <string name="event_structure_ppt_civil">Round 1: Participants should submit the abstract of their paper to team Mindspark17 via email. The email IDs are provided at the end of each event.
-        \nRound 2: Participants should submit their paper to the judges and give Power point presentation of (10+2) minutes, explaining the details of their research paper.
-        \nTOPICS
+        \n\nRound 2: Participants should submit their paper to the judges and give Power point presentation of (10+2) minutes, explaining the details of their research paper.
+        \n\nTOPICS
         \n1. INNOVATIVE MATERIALS/TECHNOLOGY AND PRE-ENGINEERED CONSTRUCTION
         \n· Pre-engineered Construction.
         \n· Fast Track Construction.
@@ -398,14 +392,14 @@
         \n· Innovative Materials
         \n· Demolition of buildings
         \n· Nanotechnology in construction
-        \n2. TRANSPORTATION AND GEOTECHNICAL ENGINEERING
+        \n\n2. TRANSPORTATION AND GEOTECHNICAL ENGINEERING
         \n· Urban Traffic Planning and Management
         \n· Intelligent Transport Systems
         \n· Metro/BRT/Monorail Projects (benefits and feasibility).
         \n· New construction technologies/Designs for Pavements.
         \n· Case studies on Geotechnical Investigations/ Advance Foundation Techniques.
         \n· Accidents/Failure studies - Causes, Prevention, and Remedies. Applications of Geo-synthetic and other materials in Geotechnical Engineering
-        \n3. ENVIRONMENTAL AND WATER RESOURCE ENGINEERING
+        \n\n3. ENVIRONMENTAL AND WATER RESOURCE ENGINEERING
         \n· Green and Ecological Technologies for Urban Planning.
         \n· Measures to Improve the Deteriorating Air Quality.
         \n· Environmental Township Planning
@@ -414,14 +408,14 @@
         \n· Flood/Watershed Management
         \n· Economic Utilization of Water Resources.
         \n· River Linking.
-        \n4. PROJECT MANAGEMENT
+        \n\n4. PROJECT MANAGEMENT
         \n· TQM in Construction Industry
         \n· Project Risk Assessment and Management
         \n· Cost Control techniques.
         \n· Supply Chain Management.
         \n· CPM/PERT Networking in construction of major projects
         \n· Construction Claims Management
-        \n5. STRUCTURAL ENGINEERING
+        \n\n5. STRUCTURAL ENGINEERING
         \n· Advanced Pre-Stressed Concrete Structures.
         \n· Earthquake resistant structures
         \n· Bridge Engineering
@@ -429,7 +423,7 @@
         \n· Self-Compacting Concrete.
         \n· Ferro cement Reinforced concrete corroded columns
         \n· Analysis of Durability of High Performance Concrete using artificial neural networks
-        \n6. SURVEYING
+        \n\n6. SURVEYING
         \n· Land Surveying.
         \n· Hydrographic Surveying Methods and Applications
         \n· GIS, GPS, and Remote Sensing Techniques
@@ -437,16 +431,16 @@
         \n· Preparation of Survey Maps and Digitization.
         \n· Project data Generation based on Topographic, Soil, Water, Geological, Archaeological, Socio-Economic Surveys
         \n· Surveying Software Applications 37 Computer and Information.
-        \n7. Any other topic of your choice (related to the theme of MindSpark‟17 ) will be accepted</string>
+        \n\n7. Any other topic of your choice (related to the theme of MindSpark‟17 ) will be accepted</string>
 
     <string name="event_structure_search_n_destroy">Task:
         \n1. Teams must build an autonomous robot which can trace line, decode the code and make turning decisions as directed by the code and finally push the box in the space provided.
         \n2. There will be checkpoints placed at certain locations for repositioning of the bot in case of hand touch.
-        \nNote: The event to push box by robot and making it to deposit in the gap by is termed as destroying of opponent’s territory. The robot should not physically damage the wall and the box.
-        \nSpecial features: There will be a binary code painted on some parts of the track. The code consists of 3 black/white squares placed in a line perpendicular to the track. The side of the square will be equal to the width of the track. The code will decide whether the bot has to take a left or right on the upcoming cross shape track or ‘T’ shape track. The “intelligent” bot is expected to read the code as it moves over it and decode it, to find out the next direction to go. Correct decoding of the code and hence the correct path tracing will earn you points. The actual code at the time of competition will be revealed only after the competition starts. (i.e. after dry run).
+        \n\nNote: The event to push box by robot and making it to deposit in the gap by is termed as destroying of opponent’s territory. The robot should not physically damage the wall and the box.
+        \n\nSpecial features: There will be a binary code painted on some parts of the track. The code consists of 3 black/white squares placed in a line perpendicular to the track. The side of the square will be equal to the width of the track. The code will decide whether the bot has to take a left or right on the upcoming cross shape track or ‘T’ shape track. The “intelligent” bot is expected to read the code as it moves over it and decode it, to find out the next direction to go. Correct decoding of the code and hence the correct path tracing will earn you points. The actual code at the time of competition will be revealed only after the competition starts. (i.e. after dry run).
         \nThis code-decoding part is an innovative part of the competition designed for the challenge takers. Following the code will fetch you more points than simple line follower. So, if you think you can make an “intelligent” line follower bot, you can design considering the code.
         \nHowever, the team can go ahead with a normal line follower bot and still can take part in the competition.
-        \nArena:
+        \n\nArena:
         \n1. All dimensions are in mm.
         \n2. Maximum dimensions of arena will be 4000 x 4000 mm.
         \n3. Width of track will be 30 mm.
@@ -457,42 +451,42 @@
         \n8. The dimensions of the arena would be accurate to within 5% or 20 mm bidirectional.
         \n9. Do not make any assumptions about amount of sunlight, incandescent light or fluorescent light that may be present at the contest site.
         \n10. Dimension of Box will be 100 x 100mm.
-        \nMACHINE SPECIFICATIONS:
-        \nDimensions and Fabrication:
+        \n\nMACHINE SPECIFICATIONS:
+        \n\nDimensions and Fabrication:
         \n1. The machine should fit in a square of size 200x200 mm. There is no height limit.
         \n2. The autonomous robot must be stable and must stand on its own at the beginning of the run when put in the starting point. Robots not fulfilling this criterion will be disqualified.
         \n3. During the run, the autonomous robot can expand itself provided it does not damage the arena in anyway. However, the machine should not leave anything behind while tracing the path. The machine should not scratch, damage or destroy the track or accompanying parts of arena.
         \n4. All bots found damaging the arena will be immediately disqualified. The final decision is at the discretion of the organizers.
         \n5. The teams are allowed to use ready-made sensor kits. However, they are not allowed to use Lego kits, ready-made microcontroller boards or any similar assemblies.
-        \nPower supply and propulsion:
+        \n\nPower supply and propulsion:
         \n1. Machine must be completely self-contained and should receive no outside assistance. It should not use an energy source employing a combustion process.
         \n2. Machine should have an on-board power supply. No external power supply is allowed.
         \n3. Potential difference between any two points on the machine should not exceed 24V DC.
-        \nScoring system:
+        \n\nScoring system:
         \n1. Taking correct decision as dictated by the code: 20 points
         \n2. Passing certain checkpoints will earn you 10 points each. They are indicated in the figure.
         \n3. The placing of box carries 30 points.
-        \nTie breakers:
+        \n\nTie breakers:
         \nIn case of a tie of scores between two teams, teams will be given preference based on the following criterions in the given order
         \n1. Minimum time taken by robot to cross same number of checkpoints.
         \n2. Minimum number of hand touches.
-        \nCertificate policy:
+        \n\nCertificate policy:
         \nCertificates will be given to all the teams.
-        \nTeam Specifications:
+        \n\nTeam Specifications:
         \n1. A team once registered, cannot register again, even with a different name.
         \n2. A team may consist of maximum 5 students.
         \n3. A team may consist of members from different educational institutes.
-        \nNote
+        \n\nNote
         \n1. NO power supply will be provided during match. However it can be provided for battery charging purposes.
         \n2. There will be no provision for computer, programmer, IC, etc by the organizers.
-        \nARENA:
-        \nArena Details:
+        \n\nARENA:
+        \n\nArena Details:
         \n1. ‘White color filled circle’ In arena denotes Checkpoints
         \n2. All dimensions are in mm
         \n3. ‘BOX’ In arena shows the code
         \n4. Dimensions of small rectangle (9cm *9 cm)
         \n5. Black color filled circle’ In arena shows point fetching checkpoints
-        \nCode Details:
+        \n\nCode Details:
         \n2 Bit code:
         \n10 : Left Turn
         \n01 : Right Turn
@@ -503,14 +497,14 @@
         \n2. The winners of the qualifier matches will be declared as per the points they would achieve in the matches.
         \n3. Format of matches (Knockout or League) will be decided depending on the number participating teams
         \n4. There may be a possibility that in a special case there may be more than 2 teams competing in a match
-        \nSpecial Cases are as follows:
+        \n\nSpecial Cases are as follows:
         \n1. If there is a tie of scores between more than 2 teams.
         \n2. If the number of participating teams do not fit within the desired format.</string>
     <string name="event_structure_dog_fight">TASK 1)
         \n• MR has to pick up the Base of Powerhouse and place it in the Power Zone.
         \n• Then MR has to place the Head of Powerhouse on the base of the Powerhouse (inside the hole).
         \n• Task 1 is compulsory, and AR can start only after completion of Task 1.
-        \nTASK 2)
+        \n\nTASK 2)
         \n• MR can proceed to pick up the towers (one at a time) and place them in the Tower position.
         \n• Tower switch can be placed on its position only after the placing of tower in its position.
         \n• At the same time, AR can push any 3 boxes in collectors other than the one marked with yellow border.
@@ -518,29 +512,29 @@
         \n• Encryption and Decryption keys should be placed in their respective areas.
         \n• Deposition of towers,encryption key and decryption key can be done in any order.
         \n• Deposition of Encryption/decryption keys is not compulsory.But you may do it to increase your points.
-        \nTASK 3)
+        \n\nTASK 3)
         \n• AR will provide the message to MR in the position marked by yellow border in AR zone.
         \n• The message must be placed in the Message Deposition Zone to finish the final task.
         \n• No task will be allowed to performed after the deposition of message.
-        \nSCORING:
+        \n\nSCORING:
         \nMR:
         \nTASK
         \nPOINTS
-        \nDeposition of Base of Powerhouse :
+        \n\nDeposition of Base of Powerhouse :
         \n15 Points
-        \nDeposition of Head of Powerhouse :
+        \n\nDeposition of Head of Powerhouse :
         \n20 Points
-        \nDeposition of tower in tower position :
+        \n\nDeposition of tower in tower position :
         \n20 Points
-        \nDeposition of tower switch :
+        \n\nDeposition of tower switch :
         \n40 Points
-        \nDeposition of Encryption key :
+        \n\nDeposition of Encryption key :
         \n20 Points
-        \nDeposition of Decryption key :
+        \n\nDeposition of Decryption key :
         \n50 Points
-        \nDeposition of the message :
+        \n\nDeposition of the message :
         \n25 Points
-        \nScore : 15 + 20 + (20*2) + (40*2) + 20 + 50 + 25 = 250 Points
+        \n\nScore : 15 + 20 + (20*2) + (40*2) + 20 + 50 + 25 = 250 Points
         \nAR:
         \nTASK
         \nPOINTS
@@ -550,11 +544,11 @@
         \n40 Points
         \nBonus 50 points will be awarded for AR (completing the task) depositing all the boxes to the deposition zones in the first trial
         \nScore : 20*3 + 40 + (50) = 100 + (50) = 150 Points
-        \nMiscellaneous:
+        \n\nMiscellaneous:
         \n• Points will be awarded only if object is deposited correctly i.e. it is fully within respective zone and not in contact with any part of the robot.
         \n• Objects deposited after the allotted time limit will not be given any points.
         \n• Points will be awarded with clear indication from judges.
-        \nMatch Result:
+        \n\nMatch Result:
         \n• Match will end if a single team completes following tasks:
         \n• MR places the message in the message deposition zone.
         \n• Team completing all the above tasks will be declared winner of the match.
@@ -570,17 +564,17 @@
         \n2. In each match, two teams will compete against each other at a time and try to earn maximum points.
         \n3. The teams will be ranked according to their points.
         \n4. Top 16 teams will qualify for the finals. Other than this, the performance in the qualifier round is of no significance to the contest.
-        \nKnockout Round:
+        \n\nKnockout Round:
         \n1. Two teams will compete against each other like in the qualifier one.
         \n2. Each round will have a duration of 2 minute. The team which wins two rounds first (each of 2 min) will be declared the winner of the match.
         \n3. The team that pushes the opposition robot out of the arena (i.e. out of the red zone) is declared as the winner of that round.
         \n4. The scoring pattern will be uniform throughout and the scores will be considered only in case of a tie i.e. if no team is able to push the opponent’s robot out of the arena in that round.
         \n5. In case of a tie in a round (i.e. none of the team’s robot is able to push the opposition robot out of the arena), the winner will be decided by the points earned by each team in that round.
         \n6. In case of a tie in the match, the winner of the match will be decided by a tie breaker.
-        \nTASK:
+        \n\nTASK:
         \n1. Teams must build a robot which can be wirelessly controlled using a remote. Wireless control is compulsory.
         \n2. The aim of the robot is to push the robot of the opposite team out of the arena. The team doing so wins the match.
-        \nArena:
+        \n\nArena:
         \n1. The arena will be square in shape of side 3000 mm.
         \n2. The main arena will be a circular in shape with a maximum diameter 2400 mm.
         \n3. It will consist of two concentric circles of diameter 2000 mm and 2400 mm.
@@ -588,9 +582,7 @@
         \n5. A center white line of 30 mm width divides the arena into two equal halves.
         \n6. There are white squares of 300 mm x 300 mm on the opposite sides of this line that indicate the starting zones of the two competing teams.
         \n7. The arena will be made up of wood and the markings on it including all the zones will be drawn using paint.
-        \nTop View:
-        \nIsometric View:
-        \nMachine Specifications:
+        \n\nMachine Specifications:
         \n1. The machine should fit in a square of 300mm x 300mm. There is no height limit.
         \n2. The combined weight of the robot and the remote must not exceed 3 kg.
         \n3. If the team is using a laptop or a mobile phone for controlling the robot then its weight is not included in the above.
@@ -599,11 +591,11 @@
         \nThe machine should not shoot anything at the opponent’s robot.
         \n6. Any robot found damaging the arena will be immediately disqualified. The final decision is at the discretion of the organizers.
         \n7. Readymade (market sold) robot with or without modifications will not be allowed in the competition.
-        \nPower supply:
+        \n\nPower supply:
         \n1. Machine must be completely self-contained and should receive no outside assistance. It should not use an energy source employing a combustion process.
         \n2. Machine should have an on-board power supply. No external power supply is allowed.
         \n3. Voltage on the machine at any point should not exceed 12 V DC.
-        \nPoints:
+        \n\nPoints:
         \n1. Each team earns 10 points for pushing the opposition in the red zone and 50 points for pushing the opponent out of the red zone.
         \n2. When a robot is knocked out of the red zone by opponent robot, 20 points will be deducted from the knocked out team.
         \n3. If a robot goes in the red zone on its own without being pushed by the opponent robot then 10 points will be deducted from the teams score entering the red zone. No points will be given to the opponent in such a case.
@@ -614,15 +606,15 @@
         \n8. The organizers reserve the rights to change any or all of the above rules as they deem fit.</string>
     <string name="event_structure_virtual_robotics">• Contestants will design 3D models based on certain themes of Robotics.
         \n• The Contestants will give a short presentation explaining in brief, their models.
-        \nROUNDS:
+        \n\nROUNDS:
         \nThe competition will have a single round where in all the contestants will present their ideas.
-        \nThemes:
+        \n\nThemes:
         \nThe designs that will be presented by the contestants should fall into one of the following four categories:
         \n1. Domestic Robots: They may include robots that make daily household work simpler.
         \n2. Robotic Arms: This category includes innovative designs of robotic arms and/or grippers that can be used for picking up various objects.
         \n3. Industrial Robots: Robots under this category are the ones which are used in industries to make the manufacturing processes automated and more efficient.
         \n4. Military Application Robots: Robots that can be used for surveillance or can move through rough terrains fall into this category.
-        \nCompetition Rules:
+        \n\nCompetition Rules:
         \n• The 3D model should be created on any of the following software:
         \n1. SOLIDWORKS
         \n2. CATIA
@@ -631,17 +623,17 @@
         \n• The presentation delivered by the participant should be under 20 minutes.
         \n• If contestants have participated as a team, each member should present the idea for a maximum of 10 minutes.
         \n• Contestants should carry their own laptop containing the design as well as a USB drive containing the design files.
-        \nCriterion for Winner:
+        \n\nCriterion for Winner:
         \nThe contestant with the most innovative design in any of the above-mentioned categories will be decided as the winner by the judges.</string>
 
     <string name="event_structure_the_amazing_race">Round 1 (Elimination Rounds): The elimination rounds will occur on Day 1 and Day 2, first half of the three days of MindSpark’17.
-        \nRound 2 (Final Round): Second half of Day 2 of MindSpark’17. Duration: The event will begin in the morning and can continue till 6 pm.</string>
+        \n\nRound 2 (Final Round): Second half of Day 2 of MindSpark’17. Duration: The event will begin in the morning and can continue till 6 pm.</string>
     <string name="event_structure_bull_run">Round 1: Simple Question/Answer Round. Serves as the Elimination Round.
-        \nRound 2: Based on the Indian Market
-        \nRound 3: Final Round, based on the Indian + International Market
+        \n\nRound 2: Based on the Indian Market
+        \n\nRound 3: Final Round, based on the Indian + International Market
         \nAny other details of the event will be revealed on the spot.</string>
     <string name="event_structure_bidzkreig_1">Round 1: This round will consist of a written test in the form of multiple choice questions. Negative marking will be implemented, details to be disclosed at the time of event. All the questions will be cricket-based.
-        \nRound 2: Qualified teams will have to form a cricket team consisting of atleast 5 bowlers and a maximum of 2 wicket-keepers. There should be at least 5 Indian players. An all-rounder can be considered as a bowler or batsman. Each team will be permitted to buy a maximum of 15 players. If a player has not been bought by any team, that player will not be available for bid again. This round shall consist of 2 parts.
+        \n\nRound 2: Qualified teams will have to form a cricket team consisting of atleast 5 bowlers and a maximum of 2 wicket-keepers. There should be at least 5 Indian players. An all-rounder can be considered as a bowler or batsman. Each team will be permitted to buy a maximum of 15 players. If a player has not been bought by any team, that player will not be available for bid again. This round shall consist of 2 parts.
         \nPart 1: The round will consist auctioning of certain number of marquee players. The bidding process shall be the same as that used for normal players. Each marquee player will have a joker card, which will be awarded to the teams answering a question based on the player correctly. The team holding the joker card will be able to match the maximum bid if they so wish. The joker cards are non-transferable and are to be used only for a particular player.
         \nPart 2: The round will consist of the auction of the remaining players in the roster.
         \nTeams will be able to choose more than 15 players only after all other teams have 15 players in their list.
@@ -651,11 +643,11 @@
         \nMap: Mirage
         \nSides (Terrorist / Counter-Terrorist): Coin toss. After 3 rounds, teams will be swapped.
         \nThe top eight teams (based on their high scores will qualify to the next round).
-        \nRound 2: (Eight Teams)
+        \n\nRound 2: (Eight Teams)
         \n10 rounds.
         \nMap: Cache
         \nSides (Terrorist / Counter-Terrorist): Coin toss. After 5 rounds, teams will be swapped.
-        \nRound 3: (Four Teams)
+        \n\nRound 3: (Four Teams)
         \n10 rounds.
         \nMap: Inferno
         \nSides (Terrorist / Counter-Terrorist): Coin toss. After 5 rounds, teams will be swapped.
@@ -674,25 +666,25 @@
         \n4. PROFESSIONAL CAMERA PHOTOGRAPHY: (5 ENTRIES PER REGISTRATION). This is also an open themed competition with the difference that all entries must’ve been shot using a professional camera (SLRs and Point ‘n Shoot cameras).</string>
 
     <string name="event_structure_chakravyuh">Round 1: Written elimination round, with no multiple-choice questions. No negative marking.
-        \nRound 2: Top 6 teams will be selected for the final round, the details of which will be disclosed on the spot.</string>
+        \n\nRound 2: Top 6 teams will be selected for the final round, the details of which will be disclosed on the spot.</string>
     <string name="event_structure_indikya">City Round (excluding Pune):
         \n2 sets of pre-made questions will be mailed to Proctors from the respective cities where they will conduct the prelims and finals. The winner from each city will be then invited to Pune for the qualifying round.
         \nPune Round: A written round will be conducted in CoEP during Mindspark’17 where the top 6 teams will be selected for the qualifying round.
         \nQualifying Round: The 6 teams from city rounds and 6 teams from Pune round will be randomly split into 2 groups of 6 teams each. A separate short round will be conducted for both the groups and 3 top teams from both the groups go through to the finals.
         \nFinal Round: Top 6 teams as mentioned above will be selected for the final round, the details of which will be disclosed on the spot.</string>
     <string name="event_structure_torquest">Round 1: Written elimination round, with no multiple-choice questions. No negative marking.
-        \nRound 2: Top 6 teams will be selected for the final round, the details of which will be disclosed on the spot.</string>
+        \n\nRound 2: Top 6 teams will be selected for the final round, the details of which will be disclosed on the spot.</string>
 
     <string name="event_structure_genius_jr">Preliminary Round: MCQ test based on Mathematics, Science, Logic, Language and General Knowledge. No negative marking.
-        \nFinal Round: This round will be an online quiz. This quiz will be held at different dates across the states. The score of this round will decide the state champion.
+        \n\nFinal Round: This round will be an online quiz. This quiz will be held at different dates across the states. The score of this round will decide the state champion.
         \nThe online quiz will contain questions of unequal weightage.
         \nThis round will be conducted in COEP campus on the days of MindSpark’17.</string>
     <string name="event_structure_sudoku">Round 1: This will consist of the most basic and easy 9x9 grid sudoku.
-        \nRound 2: The sudoku in this round will also have the same 9x9 grid, but the puzzle will be more difficult and some of the rules may be tweaked a bit.
-        \nRound 3: This round will consist of a sudoku puzzle with a change in grid style and rules of solving as well as an increased difficulty level.
-        \nNote:The selection criteria for each round will be the accuracy and speed in solving the sudoku puzzle.</string>
+        \n\nRound 2: The sudoku in this round will also have the same 9x9 grid, but the puzzle will be more difficult and some of the rules may be tweaked a bit.
+        \n\nRound 3: This round will consist of a sudoku puzzle with a change in grid style and rules of solving as well as an increased difficulty level.
+        \n\nNote:The selection criteria for each round will be the accuracy and speed in solving the sudoku puzzle.</string>
     <string name="event_structure_googler">Round 1 :- Each Team will be given 10 Questions whose answers they have to search over google within 10 minutes.
-        \nRound 2 :- Each team will be given 5 questions to be solved within 5 minutes.</string>
+        \n\nRound 2 :- Each team will be given 5 questions to be solved within 5 minutes.</string>
 
     <string name="event_structure_ham">The various topics that will be covered in the workshop include:
         \n1. Basic Principles of Communication
@@ -713,14 +705,14 @@
         \n4. Practical Session: Actual implementation of the programmed codes on the CNC lathe machine with hands on experience. Technical explanation regarding cutting speed, feed values, use of coolant will be given during practical session. If time permits, other CNC machines will be theoretically introduced (apart from the lathe).</string>
     <string name="event_structure_virtual_labs">EVENT DESCRIPTION:
         \nPhysical distance and lack of resources deprives us from performing experiments, especially when they involve sophisticated instruments. Also, good teachers are mostly a scarce resource.
-        \nThe Virtual Labs 2017 workshop would use the following two approaches:
+        \n\nThe Virtual Labs 2017 workshop would use the following two approaches:
         \n1. Remotely triggering an experiment in an actual lab.
         \n2. Performing laboratory simulations online.
-        \nABOUT VIRTUAL LABS:
+        \n\nABOUT VIRTUAL LABS:
         \n1. To provide remote-access to labs in various aspects of Science and Engineering.
         \n2. To provide a complete Learning Management System around the Virtual Labs where the students can avail the various tools for learning, including additional web-resources, video-lectures, animated demonstrations and self-evaluation.
         \n3. To share costly equipment and resources, which are otherwise available to limited number of user’s due to time constraints and geographical distance.
-        \nEVENT STRUCTURE:
+        \n\nEVENT STRUCTURE:
         \nSection 1:
         \nAn informative session of lectures on Virtual Labs by esteemed educationists.
         \nSection 2:
@@ -2343,7 +2335,7 @@
 
     <string name="workshop_fees_ethical_hacking">₹ 1100 /- per participant</string>
     <string name="workshop_fees_hovercraft">: ₹ 1100 /- per participant</string>
-    <string name="workshop_fees_android_app_development">₹ 1100 /- per participant</string>
+    <string name="workshop_fees_android_app_development"><![CDATA[<p>₹ 1100 /- <b>per participant</b></p>]]></string>
     <string name="workshop_fees_fantastic_four">₹ 1100 /- per participant </string>
     <string name="workshop_fees_3d_game_designing_and_virtual_reality">₹ 1100 /- per participant </string>
     <string name="workshop_fees_creo_workshop">₹ 1100 /- per participant</string>

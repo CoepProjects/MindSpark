@@ -92,7 +92,7 @@ public class EventsFragment extends Fragment {
         EventsSingleItem retracer=new EventsSingleItem(R.drawable.codeville,getString(R.string.event_title_retracer),getString(R.string.event_objective_retracer),getString(R.string.event_structure_retracer),getString(R.string.event_rules_retracer),getString(R.string.event_heads_retracer)+"\n"+getString(R.string.event_tafs_retracer));
         EventsSingleItem predictX=new EventsSingleItem(R.drawable.codeville,getString(R.string.event_title_predict_x),getString(R.string.event_objective_predict_x),getString(R.string.event_structure_predict_x),getString(R.string.event_rules_predict_x),getString(R.string.event_heads_predict_x)+"\n"+getString(R.string.event_tafs_predict_x));
         EventsSingleItem hackathon=new EventsSingleItem(R.drawable.codeville,getString(R.string.event_title_hackathon2_0),getString(R.string.event_objective_hackathon2_0),getString(R.string.event_structure_hackathon2_0),getString(R.string.event_rules_hackathon2_0),getString(R.string.event_heads_hackathon2_0)+"\n"+getString(R.string.event_tafs_hackathon2_0));
-        EventsSingleItem byldan=new EventsSingleItem(R.drawable.codeville,getString(R.string.event_title_byldan),getString(R.string.event_objective_byldan),getString(R.string.event_structure_byldan),getString(R.string.event_rules_byldan),getString(R.string.event_heads_byldan)+"\n"+getString(R.string.event_tafs_byldan));
+        EventsSingleItem byldan=new EventsSingleItem(R.drawable.paperppt,getString(R.string.event_title_byldan),getString(R.string.event_objective_byldan),getString(R.string.event_structure_byldan),getString(R.string.event_rules_byldan),getString(R.string.event_heads_byldan)+"\n"+getString(R.string.event_tafs_byldan));
         EventsSingleItem ppt_comp_it=new EventsSingleItem(R.drawable.paperppt,getString(R.string.event_title_ppt_comp_it),getString(R.string.event_objective_predict_x),getString(R.string.event_structure_ppt_comp_it),getString(R.string.event_rules_ppt_comp_it),getString(R.string.event_heads_ppt_comp_it)+"\n"+getString(R.string.event_tafs_ppt_comp_it));
         EventsSingleItem ppt_mech_prod=new EventsSingleItem(R.drawable.paperppt,getString(R.string.event_title_ppt_mech_prod_meta),getString(R.string.event_objective_ppt_mech_prod_meta),getString(R.string.event_structure_ppt_mech_prod_meta),getString(R.string.event_rules_ppt_mech_prod_meta),getString(R.string.event_heads_ppt_mech_prod_meta)+"\n"+getString(R.string.event_tafs_ppt_mech_prod_meta));
         EventsSingleItem ppt_eei=new EventsSingleItem(R.drawable.paperppt,getString(R.string.event_title_ppt_eei),getString(R.string.event_objective_ppt_eei),getString(R.string.event_structure_ppt_eei),getString(R.string.event_rules_predict_x),getString(R.string.event_heads_ppt_eei)+"\n"+getString(R.string.event_tafs_ppt_eei));
@@ -117,6 +117,6 @@ public class EventsFragment extends Fragment {
         CategoriesSingleItem prodigium=new CategoriesSingleItem(R.drawable.prodigium,"Prodigium",Arrays.asList(geniusJR,sudoku,googler),R.color.red400);
 
         categories= new ArrayList<>();
-        categories=Arrays.asList(silicus,voltus,dynamus,collatio,structura,robustus,vortex,cognitio,fascinus,illuminati,prodigium);
+        categories=Arrays.asList(silicus,voltus,dynamus,papyrus,collatio,structura,robustus,vortex,cognitio,fascinus,illuminati,prodigium);
     }
 }

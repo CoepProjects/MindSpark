@@ -3,6 +3,7 @@ package aceshub.mindspark.Workshops;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.text.Html;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -39,7 +40,7 @@ public class OverviewWorkshopDetailsFragment extends Fragment {
         tvWorkshopName.setText(workshopSingleItem.getWorkshopName());
         tvBenefits.setText(workshopSingleItem.getWorkshopBenifits());
         tvIntro.setText(workshopSingleItem.getWorkshopIntro());
-        tvFees.setText(workshopSingleItem.getWorkshopFees());
+        tvFees.setText(Html.fromHtml(workshopSingleItem.getWorkshopFees()));
         tvOutcomes.setText(workshopSingleItem.getWorkshopOutcomes());
         tvVenue.setText(workshopSingleItem.getWorkshopVenue());
         tvDate.setText(workshopSingleItem.getWorkshopDate());
